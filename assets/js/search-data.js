@@ -524,11 +524,6 @@ ninja.data = [{
           description: "Graduate Teaching Assistant · Northeastern University · 2023 &amp; 2025",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ie5617-lean-concepts/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{id: "teachings-or-6205-deterministic-operations-research",
           title: 'OR 6205 · Deterministic Operations Research',
           description: "Teaching Fellow · Northeastern University · Spring 2026",
