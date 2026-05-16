@@ -2,33 +2,104 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Candidate · <a href="https://mie.northeastern.edu/" target="_blank">Mechanical & Industrial Engineering</a> · 
+  <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a> · Boston, MA
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg          # add your headshot to assets/img/prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Operations Research & Social Justice Lab</p>
+    <p>Dept. of Mechanical & Industrial Engineering</p>
+    <p>Northeastern University, Boston MA</p>
+    <p><a href="mailto:deazevedodrummond.p@northeastern.edu">deazevedodrummond.p@northeastern.edu</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true          # show news section on homepage
+selected_papers: true   # show selected publications on homepage
+social: true        # show social icons at bottom
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Industrial Engineering at Northeastern University, working in the
+[Operations Research & Social Justice Lab](https://cos.northeastern.edu/orsj/) under
+[Prof. Kayse Lee Maass](https://mie.northeastern.edu/people/maass-kayse-lee/). My research
+develops **network interdiction models** to combat labor trafficking in U.S. agricultural
+supply chains, with a focus on how multi-agency collaboration improves detection and disruption
+outcomes. I believe mathematics is a tool for justice — and I bring that conviction into both
+my research and my classroom.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My path to academia spans three countries and many roles: middle school teacher in Brazil,
+financial analyst, entrepreneur, and now engineer and educator. Starting as a non-traditional
+student with a background in fine arts and finance, I entered operations research with almost no
+prerequisite knowledge — which permanently shaped how I teach. I know what it feels like to
+encounter hidden curricula, cultural barriers, and imposter syndrome. That lived experience
+drives my commitment to **inclusive, transparent, and active-learning pedagogy**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research Interests:** Network optimization · Network interdiction · Anti-human trafficking ·
+Labor rights & supply chains · OR for social good · Multi-agent decision-making
+
+**Teaching Interests:** Active learning in engineering · Inclusive pedagogy · Backward design ·
+Scholarship of Teaching and Learning (SoTL) · Equity in STEM
+
+---
+
+## Selected Highlights
+
+<div class="highlights">
+
+🏆 **2026 COE Outstanding Graduate Teaching Award** — Northeastern University College of Engineering  
+*One of eight PhD recipients university-wide, Mechanical & Industrial Engineering.*
+
+📖 **Teaching Fellow** — OR 6205: Deterministic Operations Research, Northeastern University (2025–2026)  
+*Sole instructor of record for graduate-level OR course; designed full curriculum using backward design.*
+
+📄 **Published in PLOS ONE (2024)** — Multilevel regression model for detecting H-2A labor violations in U.S. agriculture  
+*With Jafari, Bhimani, Nishigaya, Ding, Farrell & Maass. DOI: [10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)*
+
+🎤 **INFORMS Annual Meeting 2025** — Session Chair, *Cooperation and Partnership in Public Services*, Atlanta, GA
+
+🎓 **Teaching Certification** — Post-Secondary Teaching Certificate (in progress), Northeastern University
+
+</div>
+
+---
+
+## Research
+
+My dissertation investigates how **collaboration between law enforcement agencies**
+improves labor trafficking interdiction. Using network interdiction models, I show that
+multi-agency cooperation substantially outperforms isolated enforcement — a finding with
+direct policy implications for DHS and agricultural labor oversight.
+
+Earlier work developed a Bayesian optimization decision tool for U.S. ports of entry to
+flag human trafficking at border checkpoints, produced in partnership with the UTRGV and
+published through DSI. At UFRGS in Brazil, I partnered with the Secretary of Security of
+Rio Grande do Sul to apply Data Envelopment Analysis to women's crisis center networks,
+directly informing resource allocation policy for over 10 million residents.
+
+---
+
+## Teaching
+
+I have taught and designed courses at every level — from middle schoolers learning
+boatbuilding in an underserved community in Rio de Janeiro, to graduate students working
+through the mathematics of linear programming in Boston.
+
+At Northeastern, I am a **Teaching Fellow** for OR 6205 (Deterministic Operations Research),
+where I designed the full course from scratch. My approach centers on:
+
+- **Backward design** — learning objectives drive every assessment and activity
+- **Active learning** — collaborative board work, case studies, and real-world LP modeling
+- **Transparent assessment** — detailed rubrics and rework opportunities so students own their learning
+- **Inclusive engagement** — multiple feedback channels, anonymous and named, to reach all learners
+
+> *"I did like that she was very happy to teach this course — I could tell that she loves
+> this topic so much, and I like that she was able to listen to our feedback to make the
+> course better."* — OR 6205 student, Spring 2026 (TRACE evaluation)
+
+> *"Your communication is articulate and you have a natural warmth that makes us feel
+> comfortable. It's clear that you care about teaching and helping us understand."*
+> — IE 5617 student, Summer 2025
+
+See the [Teaching](/teaching/) page for syllabi, course maps, and teaching materials.
