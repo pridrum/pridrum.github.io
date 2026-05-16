@@ -22,8 +22,8 @@ social: true        # show social icons at bottom
 ---
 
 I am a PhD candidate in Industrial Engineering at Northeastern University, working in the
-[Operations Research & Social Justice Lab](https://cos.northeastern.edu/orsj/) under
-[Prof. Kayse Lee Maass](https://mie.northeastern.edu/people/maass-kayse-lee/). My research
+[Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com/kayseleemaass) under
+[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/). My research
 develops **network interdiction models** to combat labor trafficking in U.S. agricultural
 supply chains, with a focus on how multi-agency collaboration improves detection and disruption
 outcomes. I believe mathematics is a tool for justice — and I bring that conviction into both
@@ -31,13 +31,13 @@ my research and my classroom.
 
 My path to academia spans three countries and many roles: middle school teacher in Brazil,
 financial analyst, entrepreneur, and now engineer and educator. Starting as a non-traditional
-student with a background in fine arts and finance, I entered operations research with almost no
-prerequisite knowledge — which permanently shaped how I teach. I know what it feels like to
+As a student with a background in fine arts and finance, I entered operations research with almost no
+prerequisite knowledge, which permanently shaped how I teach. I know what it feels like to
 encounter hidden curricula, cultural barriers, and imposter syndrome. That lived experience
-drives my commitment to **inclusive, transparent, and active-learning pedagogy**.
+drives my commitment to **inclusive, transparent assessments, and active-learning pedagogy**.
 
 **Research Interests:** Network optimization · Network interdiction · Anti-human trafficking ·
-Labor rights & supply chains · OR for social good · Multi-agent decision-making
+Labor rights & supply chains · OR for social good · Decision support systems
 
 **Teaching Interests:** Active learning in engineering · Inclusive pedagogy · Backward design ·
 Scholarship of Teaching and Learning (SoTL) · Equity in STEM
@@ -49,17 +49,21 @@ Scholarship of Teaching and Learning (SoTL) · Equity in STEM
 <div class="highlights">
 
 🏆 **2026 COE Outstanding Graduate Teaching Award** — Northeastern University College of Engineering  
-*One of eight PhD recipients university-wide, Mechanical & Industrial Engineering.*
+*One of eight PhD recipients, university-wide, Mechanical & Industrial Engineering.*  
+
 
 📖 **Teaching Fellow** — OR 6205: Deterministic Operations Research, Northeastern University (2025–2026)  
-*Sole instructor of record for graduate-level OR course; designed full curriculum using backward design.*
+*Sole instructor of record for graduate-level OR course; designed full curriculum using backward design.*  
+
 
 📄 **Published in PLOS ONE (2024)** — Multilevel regression model for detecting H-2A labor violations in U.S. agriculture  
-*With Jafari, Bhimani, Nishigaya, Ding, Farrell & Maass. DOI: [10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)*
+*With Jafari, Bhimani, Nishigaya, Ding, Farrell & Maass. DOI: [10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)*  
 
-🎤 **INFORMS Annual Meeting 2025** — Session Chair, *Cooperation and Partnership in Public Services*, Atlanta, GA
 
-🎓 **Teaching Certification** — Post-Secondary Teaching Certificate (in progress), Northeastern University
+🎤 **INFORMS Annual Meeting 2025** — Session Chair, *Cooperation and Partnership in Public Services*, Atlanta, GA  
+
+
+🎓 **Teaching Certification** — Post-Secondary Teaching Certificate (in progress), Northeastern University  
 
 </div>
 
