@@ -1,15 +1,20 @@
 ---
-layout: page
-permalink: /teaching/
+layout: teaching
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Teaching is not what I do on the side of research — it is equally central to who I am as a scholar. I started as a middle school teacher in Brazil, where I learned that content delivery is the easy part. The harder work is listening, belonging, and meeting students where they are. Every course I have taught since carries that lesson.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+My pedagogy is grounded in **backward design**, **active learning**, and **inclusive assessment**. I design learning objectives first, then build every activity, case study, and rubric to serve those objectives. I believe students learn best when they feel they belong, when failure is safe, and when they are treated as capable of owning their own learning.
 
-{% include courses.liquid %}
+As a non-traditional student myself — entering engineering from Fine Arts and Finance, navigating hidden curricula as an international student — I bring a particular sensitivity to the barriers students face. That lived experience informs how I design courses, give feedback, and show up in a classroom.
+
+In 2026, I received the **COE Outstanding Graduate Teaching Award (PhD)** from Northeastern University's College of Engineering — the highest teaching recognition for PhD students in the college.
+
+---
+
+> *"I hope you go on to inspire and teach hundreds of students."*  
+> — Student, OR 6205, Spring 2026
