@@ -1,10 +1,15 @@
 ---
-layout: teaching
-title: teaching
+layout: page
 permalink: /teaching/
+title: teaching
+description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 3
+nav_order: 6
+calendar: true
 ---
+
+This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+
 
 Teaching is not what I do on the side of research — it is equally central to who I am as a scholar. I started as a middle school teacher in Brazil, where I learned that content delivery is the easy part. The harder work is listening, belonging, and meeting students where they are. Every course I have taught since carries that lesson.
 
@@ -18,3 +23,7 @@ In 2026, I received the **COE Outstanding Graduate Teaching Award (PhD)** from N
 
 > *"I hope you go on to inspire and teach hundreds of students."*  
 > — Student, OR 6205, Spring 2026
+
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+
+{% include courses.liquid %}
