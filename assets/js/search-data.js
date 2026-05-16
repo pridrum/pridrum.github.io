@@ -474,6 +474,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-28-teaching-award/";
+            },},{id: "projects-course-design-or-6205-deterministic-operations-research",
+          title: 'Course Design · OR 6205 Deterministic Operations Research',
+          description: "Full course design as Teaching Fellow · Backward design · Active learning · Inclusive assessment",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/course-design-or6205/";
+            },},{id: "projects-dissertation-collaborating-agents-amp-network-interdiction",
+          title: 'Dissertation · Collaborating Agents &amp;amp; Network Interdiction',
+          description: "How multi-agency collaboration improves labor trafficking interdiction outcomes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dissertation-network-interdiction/";
+            },},{id: "projects-or-for-social-good-prior-research",
+          title: 'OR for Social Good · Prior Research',
+          description: "Bayesian optimization for border security · DEA for women&#39;s crisis center networks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/or-social-good-prior/";
             },},{id: "teachings-ie-5617-lean-concepts-and-applications",
           title: 'IE 5617 · Lean Concepts and Applications',
           description: "Graduate Teaching Assistant · Northeastern University · 2023 &amp; 2025",
