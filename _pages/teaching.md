@@ -19,7 +19,6 @@ As a non-traditional student myself — entering engineering from Fine Arts and 
 
 In 2026, I received the **COE Outstanding Graduate Teaching Award (PhD)** from Northeastern University's College of Engineering — the highest teaching recognition for PhD students in the college.
 
----
 
 > *"I hope you go on to inspire and teach hundreds of students."*  
 > — Student, OR 6205, Spring 2026
