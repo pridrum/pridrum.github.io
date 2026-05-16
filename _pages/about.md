@@ -46,7 +46,6 @@ Scholarship of Teaching and Learning (SoTL) · Equity in STEM
 
 ## Selected Highlights
 
-<div class="highlights">
 
 🏆 **2026 COE Outstanding Graduate Teaching Award** — Northeastern University College of Engineering  
 *One of eight PhD recipients, university-wide, Mechanical & Industrial Engineering.*  
@@ -65,7 +64,7 @@ Scholarship of Teaching and Learning (SoTL) · Equity in STEM
 
 🎓 **Teaching Certification** — Post-Secondary Teaching Certificate (in progress), Northeastern University  
 
-</div>
+
 
 ---
 
