@@ -524,11 +524,31 @@ ninja.data = [{
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
+            },},{id: "teachings-ie-5617-lean-concepts-and-applications",
+          title: 'IE 5617 · Lean Concepts and Applications',
+          description: "Graduate Teaching Assistant · Northeastern University · 2023 &amp; 2025",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ie5617-lean-concepts/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-or-6205-deterministic-operations-research",
+          title: 'OR 6205 · Deterministic Operations Research',
+          description: "Teaching Fellow · Northeastern University · Spring 2026",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/or6205-deterministic-or/";
+            },},{id: "teachings-engineering-design-amp-technology",
+          title: 'Engineering, Design &amp;amp; Technology',
+          description: "Project Coordinator &amp; Middle School Teacher · Universidade Federal do Rio de Janeiro · 2006–2009",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ufrj-middle-school/";
+            },},{id: "teachings-operations-research-amp-engineering-management",
+          title: 'Operations Research &amp;amp; Engineering Management',
+          description: "Graduate Teaching Assistant · University of Texas Rio Grande Valley · 2020–2021",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/utrgv-or-engineering/";
             },},{
         id: 'social-cv',
         title: 'CV',
