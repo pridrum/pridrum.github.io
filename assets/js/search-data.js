@@ -451,7 +451,30 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-new-publication-in-plos-one",
+          title: '📄 New Publication in PLOS ONE',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-05-01-plos-one-publication/";
+            },},{id: "news-presented-modeling-strategies-to-disrupt-labor-trafficking-with-jafari-amp-amp-maass-at-informs-annual-meeting-2024-seattle-wa",
+          title: 'Presented “Modeling Strategies to Disrupt Labor Trafficking” (with Jafari &amp;amp;amp; Maass) at INFORMS...',
+          description: "",
+          section: "News",},{id: "news-teaching-fellowship-or-6205-deterministic-operations-research",
+          title: '📖 Teaching Fellowship — OR 6205: Deterministic Operations Research',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-01-06-teaching-fellowship/";
+            },},{id: "news-informs-annual-meeting-2025-session-chair-amp-presenter",
+          title: '🎤 INFORMS Annual Meeting 2025 — Session Chair &amp;amp; Presenter',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-20-informs-2025/";
+            },},{id: "news-2026-coe-outstanding-graduate-teaching-award",
+          title: '🏆 2026 COE Outstanding Graduate Teaching Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-28-teaching-award/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
