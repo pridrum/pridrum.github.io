@@ -14,7 +14,7 @@ profile:
     <p>Operations Research & Social Justice Lab</p>
     <p>Dept. of Mechanical & Industrial Engineering</p>
     <p>Northeastern University, Boston MA</p>
-    <p><a href="mailto:deazevedodrummond.p@northeastern.edu">deazevedodrummond.p@northeastern.edu</a></p>
+    <p><a href="mailto:priscilaadrummond@gmail.com">priscilaadrummond@gmail.com</a></p>
 
 news: true          # show news section on homepage
 selected_papers: true   # show selected publications on homepage
