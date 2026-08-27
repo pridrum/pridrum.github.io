@@ -74,13 +74,10 @@ cv:
           - "Project: *Trebuchet: A Multidisciplinary Pedagogical Game* (Advisor: Dr. Roosewelt Telles)"
 
     Research Interests:
-      - name: Research
-        icon: fa-solid fa-magnifying-glass
-        keywords: "Resource allocation in constrained service and supply systems, Prescriptive analytics for multi-agency coordination, Supply chain compliance and labor risk, Responsible analytics and the distributional consequences of optimized decisions, Analytics and operations pedagogy"
-
-      - name: Methods
-        icon: fa-solid fa-square-root-variable
-        keywords: "Network optimization and interdiction, Integer and mixed-integer programming, Bayesian decision analysis, Multilevel and hierarchical regression, Data envelopment analysis, Expert elicitation, Scoping and systematic review, Qualitative and participatory methods"
+      - label: Research
+        details: "Resource allocation in constrained service and supply systems · Prescriptive analytics for multi-agency coordination · Supply chain compliance and labor risk · Responsible analytics and the distributional consequences of optimized decisions · Analytics and operations pedagogy"
+      - label: Methods
+        details: "Network optimization and interdiction · Integer and mixed-integer programming · Bayesian decision analysis · Multilevel and hierarchical regression · Data envelopment analysis · Expert elicitation · Scoping and systematic review · Qualitative and participatory methods"
 
     Publications:
       - title: "Enhancing detection of labor violations in the agricultural sector: A multilevel generalized linear regression model of H-2A violation counts"
@@ -291,69 +288,17 @@ cv:
         awarder: University of Texas Rio Grande Valley
 
     Grants and Fellowships:
-      - title: Dissertation Completion Fellowship
-        authors:
-          - "Northeastern University"
-        date: 2026-01-01
-        awarder: Northeastern University
-        summary: "$14,730 stipend, 100% tuition scholarship, and health plan support."
-
-      - title: Teaching Fellowship
-        authors:
-          - "Northeastern University"
-        date: 2025-01-01
-        awarder: Northeastern University
-        summary: Mentored teaching fellowship, OR 6205.
-
-      - title: PhD Network and MIE Department Travel Funds
-        authors:
-          - "Northeastern University"
-        date: 2025-01-01
-        awarder: Northeastern University
-        summary: "Awarded four consecutive years: $1,000 (2025), $1,000 (2024), $1,000 (2023), $500 (2022)."
-
-      - title: Dean's Chair Fellowship
-        authors:
-          - "Northeastern University"
-        date: 2021-01-01
-        awarder: Northeastern University
-        summary: Tuition and stipend.
-
-      - title: Presidential Graduate Research Award
-        authors:
-          - "University of Texas Rio Grande Valley"
-        date: 2019-01-01
-        awarder: University of Texas Rio Grande Valley
-
-      - title: CNPq Research Award
-        authors:
-          - "CNPq, Brazil"
-        date: 2017-01-01
-        awarder: CNPq, Brazil
-        summary: Competitive research scholarship.
+      - bullet: "**Dissertation Completion Fellowship**, Northeastern University, 2026 — $14,730 stipend, 100% tuition scholarship, and health plan support"
+      - bullet: "**Teaching Fellowship**, Northeastern University, 2025 — mentored teaching, OR 6205"
+      - bullet: "**PhD Network and MIE Department Travel Funds**, Northeastern University — $1,000 (2025), $1,000 (2024), $1,000 (2023), $500 (2022)"
+      - bullet: "**Dean's Chair Fellowship**, Northeastern University, 2021 — tuition and stipend"
+      - bullet: "**Presidential Graduate Research Award**, University of Texas Rio Grande Valley, 2019"
+      - bullet: "**CNPq Research Award**, Brazil, 2017 — competitive research scholarship"
 
     Grant-Supported Research:
-      - title: "NSF #1935618 — ISN2: Coordinated Interdiction for Disruption of Labor Trafficking in the Agricultural Sector"
-        authors:
-          - "PI: Kayse L. Maass"
-          - "Co-PI: Amy S. Farrell"
-          - "Co-PI: Shawn Bhimani"
-        date: 2020-01-01
-        awarder: National Science Foundation, Division of Civil, Mechanical, and Manufacturing Innovation
-        summary: >-
-          Operations Engineering program, Northeastern University. Award period January 2020 to
-          December 2024. My role: Graduate Research Assistant, 2021 to 2024.
-
-      - title: "Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption Efforts"
-        authors:
-          - "PI: Kayse Maass"
-          - "Co-PI: Amy Farrell"
-        date: 2021-01-01
-        awarder: DHS Criminal Investigations and Network Analysis (CINA) Center of Excellence
-        url: https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/
-        summary: >-
-          A U.S. Department of Homeland Security Center of Excellence, hosted at George Mason
-          University. Northeastern University. My role: Graduate Research Assistant.
+      - bullet: "*Listed to show the funded programs my dissertation sits within. I am not a PI or co-PI on either award; my role was Graduate Research Assistant.*"
+      - bullet: "**NSF #1935618 — ISN2: Coordinated Interdiction for Disruption of Labor Trafficking in the Agricultural Sector.** Division of Civil, Mechanical, and Manufacturing Innovation, Operations Engineering program. PI: Kayse L. Maass; Co-PIs: Amy S. Farrell, Shawn Bhimani. Northeastern University. Award period January 2020 – December 2024. *Graduate Research Assistant, 2021–2024.*"
+      - bullet: "**DHS CINA Center of Excellence — [Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/).** Criminal Investigations and Network Analysis Center, a U.S. Department of Homeland Security Center of Excellence hosted at George Mason University. PI: Kayse Maass; Co-PI: Amy Farrell. Northeastern University. *Graduate Research Assistant.*"
 
     Skills:
       - name: Programming and analysis
@@ -398,25 +343,11 @@ cv:
         icon: fa-solid fa-chalkboard
 
     Service:
-      - name: Vice President and Treasurer, INFORMS Student Chapter
-        icon: fa-solid fa-users
-        keywords: "Northeastern University, 2022-2023 and 2025-present"
-
-      - name: Session Chair
-        icon: fa-solid fa-microphone
-        keywords: "Cooperation and Partnership in Public Services, INFORMS Annual Meeting 2025; Border Security, Decision Sciences Institute Annual Meeting 2020"
-
-      - name: Instructor and Organizer
-        icon: fa-solid fa-person-chalkboard
-        keywords: "Ethical Research Methods using AI (2026); Notetaking Workshop for graduate students (2024), Northeastern University"
-
-      - name: Board Member, Beacon Hill Friends House
-        icon: fa-solid fa-house
-        keywords: "Personnel Committee and Nominating Committee, Boston, MA, 2021-present"
-
-      - name: Earlier service
-        icon: fa-solid fa-hands-helping
-        keywords: "Secretary, Women in STEM Programs, UTRGV (2020-2021); LEAP Educator, Center for Diversity and Inclusion, UTRGV (2019); Volunteer Art Teacher, AIESEC, Mendoza, Argentina (2014)"
+      - bullet: "**Vice President and Treasurer**, INFORMS Student Chapter, Northeastern University, 2022–2023 and 2025–present"
+      - bullet: "**Session Chair** — *Cooperation and Partnership in Public Services*, INFORMS Annual Meeting 2025; *Border Security*, Decision Sciences Institute Annual Meeting 2020"
+      - bullet: "**Instructor and Organizer** — Ethical Research Methods using AI (2026); Notetaking Workshop for graduate students (2024), Northeastern University"
+      - bullet: "**Board Member**, Beacon Hill Friends House, Boston — Personnel and Nominating Committees, 2021–present"
+      - bullet: "**Earlier service** — Secretary, Women in STEM Programs, UTRGV (2020–2021); LEAP Educator, Center for Diversity and Inclusion, UTRGV (2019); Volunteer Art Teacher, AIESEC, Mendoza, Argentina (2014)"
 
     Languages:
       - name: Portuguese
