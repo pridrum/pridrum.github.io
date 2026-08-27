@@ -3,7 +3,7 @@ layout: page
 title: Operations Research & Engineering Management
 description: Graduate Teaching Assistant · University of Texas Rio Grande Valley · 2020–2021
 img: assets/img/teaching/utrgv.jpg   # optional thumbnail
-importance: 3
+importance: 4
 category: University of Texas Rio Grande Valley
 ---
 

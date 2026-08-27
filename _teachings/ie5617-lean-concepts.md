@@ -3,7 +3,7 @@ layout: page
 title: IE 5617 · Lean Concepts and Applications
 description: Graduate Teaching Assistant · Northeastern University · 2023 & 2025
 img: assets/img/teaching/ie5617.jpg   # optional thumbnail
-importance: 2
+importance: 3
 category: Northeastern University
 ---
 

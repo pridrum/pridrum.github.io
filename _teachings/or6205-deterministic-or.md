@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OR 6205 · Deterministic Operations Research
-description: Teaching Fellow · Northeastern University · Spring 2026
+description: Instructor of Record · Northeastern University · Spring 2026
 img: assets/img/teaching/or6205.jpg   # optional course thumbnail
 importance: 1
 category: Northeastern University
