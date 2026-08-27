@@ -95,6 +95,27 @@ tipped toward theory at the expense of applied practice, and the assigned textbo
 than it helped. With five respondents these are not robust statistics, but they are an honest
 account of the term, and the criticism has been more useful to me than the praise.
 
+### Two design decisions behind the challenge and learning scores
+
+**All active work happened in class.** The only out-of-class work I assigned was reading;
+every exercise, formulation, and application was done in the room. The in-class model itself
+worked — those sessions rated above the departmental mean. But it also meant students rarely
+had to sit alone with a hard problem between sessions, and I think that is part of why
+intellectual challenge and perceived learning came in low. Doing the work together makes it
+feel more tractable than it is, and students calibrate how much they have learned partly by how
+much they struggled unaided.
+
+**The class was small and unevenly prepared.** OR 6205 is introductory by design, and this
+cohort included two PhD students who had already encountered the material. For them, much of
+the core content was not new. In a class of five, two students well past the intended baseline
+moves the average on a question about challenge.
+
+I offer the second as context, not as a defence — a course should be challenging for the
+students who are actually in it. Both point the same way: an introductory course with mixed
+preparation needs **differentiated challenge**, a core path plus extension problems for students
+who arrive ahead, and enough structured practice outside class that students test their
+understanding without the room to lean on.
+
 ---
 
 ## Course Materials
