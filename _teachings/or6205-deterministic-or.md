@@ -10,9 +10,9 @@ category: Northeastern University
 ## Course Overview
 
 **Course:** OR 6205 — Deterministic Operations Research (Graduate)  
-**Role:** Teaching Fellow — Sole Instructor of Record  
+**Role:** Instructor of Record  
 **Institution:** Northeastern University, Dept. of Mechanical & Industrial Engineering  
-**Term:** Spring 2026 · 5 students  
+**Term:** Spring 2026 · 6 students enrolled  
 **Award:** 🏆 2026 COE Outstanding Graduate Teaching Award
 
 This course introduces graduate students to the theory and application of deterministic
@@ -71,10 +71,23 @@ benefit from LP optimization. Selected cases are worked through collaboratively 
 > *"The instructor did a great job creating an inclusive and respectful environment where
 > everyone felt comfortable participating."*
 
-**TRACE Rating Highlights (course mean vs. dept. mean):**
-- Displayed enthusiasm for the course: **4.80** (dept. avg: 4.55)
-- Provided sufficient feedback: **4.60** (dept. avg: 4.29)
-- Facilitated inclusive learning environment: **4.60** (dept. avg: 4.54)
+**TRACE ratings (course mean vs. dept. mean), 5 of 6 students responding:**
+
+*Above the departmental mean:*
+- Displayed enthusiasm for the course: **4.80** (dept. 4.55)
+- Provided sufficient feedback: **4.60** (dept. 4.29)
+- Facilitated inclusive learning environment: **4.60** (dept. 4.54)
+
+*Below the departmental mean:*
+- Overall teaching effectiveness: **4.20** (dept. 4.41)
+- Intellectual challenge, and how much students felt they learned: both below the
+  departmental mean
+
+Students were also specific about what was not working: transitions between topics were too
+abrupt, the balance tipped toward theory at the expense of applied practice, the assigned
+textbook hindered more than it helped, and expectations around the syllabus and assessments
+were not clear enough. With five respondents these are not robust statistics, but they are an
+honest account of the term, and the criticism is more useful to me than the praise.
 
 ---
 
@@ -92,10 +105,30 @@ The following materials are available for review:
 
 ## Reflection
 
-This course was my most significant teaching experience to date. With full instructional
-autonomy, I redesigned the delivery mid-semester based on student feedback — moving from
-slides to collaborative board work. Students who once struggled began completing assessments
-independently. Students who were once disengaged began contributing to class discussion.
+This course was my most significant teaching experience to date, and the most instructive —
+partly because it did not go uniformly well.
 
-The 2026 COE Outstanding Graduate Teaching Award, received for this course, affirmed what I
-already felt: that listening to students and adapting in real time is the heart of teaching.
+With full instructional autonomy, I redesigned the delivery mid-semester based on student
+feedback, moving from slides to collaborative board work. That change worked on its own terms.
+Students who had been struggling began completing assessments independently, and students who
+had been quiet started contributing to discussion.
+
+But my overall teaching effectiveness came in **below** the departmental mean, and I think the
+two facts are connected. Changing the course while it was running made the course harder to
+read. Every adjustment I made in response to feedback moved something the students had already
+planned around — what was going to be assessed, how, and when. I was responsive at the cost of
+being predictable, and the evaluations show students paid for that in clarity about the
+syllabus and the assessments.
+
+That is the tension I most need to work on, and I would rather name it precisely than
+generalise it away. Responsiveness and clear expectations are not opposites, but they conflict
+in practice unless the course is *designed* for change: a syllabus with defined places where
+adjustment can happen, assessment criteria that stay fixed even when the activities move, and
+explicit communication whenever something shifts, so a change registers as a decision rather
+than as drift. Adapting in real time is still what I believe teaching requires. Doing it
+without destabilising the students it is meant to serve is the harder skill, and it is the one
+I am deliberately building.
+
+The 2026 COE Outstanding Graduate Teaching Award was received for this course. I hold both
+things at once: the award, and a first term as instructor of record that showed me exactly
+where I still have work to do.
