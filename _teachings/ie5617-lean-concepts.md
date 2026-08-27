@@ -22,11 +22,30 @@ to real-world industrial and service contexts.
 
 ## Responsibilities
 
+- Taught the **Process Control and Six Sigma Basics** module and the **Quality Tools and Topics** module
 - Taught recitation sections, including the **ANOVA module**
 - Developed new instructional materials and slides
 - Facilitated in-class exercises and supported VSM workshops
 - Held regular office hours; provided detailed written feedback on assignments and projects
 - Graded homework, projects, and exams
+
+---
+
+## Student ranking of class sessions
+
+At the end of the term, Prof. McManus asks students to rank every class session in the course.
+The two sessions I taught placed **3rd and 7th out of 17**, scoring **4.81** and **4.67** on a
+5-point scale.
+
+| Session I taught | Score | Rank |
+| :--- | :--- | :--- |
+| Process Control / Six Sigma Basics | 4.81 | 3rd of 17 |
+| Quality Tools & Topics | 4.67 | 7th of 17 |
+
+What makes this useful rather than merely flattering is the comparison built into it. Prof.
+McManus has taught this course for years and runs the same ranking every term, so the baseline
+is his own delivery of the same sessions — and he wrote that the classes I taught "came out
+higher than when I do them."
 
 ---
 

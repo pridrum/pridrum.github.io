@@ -70,7 +70,11 @@ Expert elicitation · Scoping and systematic review · Qualitative and participa
 
 
 🛠️ **Course redesign leadership** — IE 4516: Quality Assurance, Northeastern University  
-*Led a complete redesign of the course teaching materials around experimental, simulation-based, and project-based learning. Taught several of the resulting modules; students ranked them among the top learning experiences of the course.*
+*Led a complete redesign of the course teaching materials around experimental, simulation-based, and project-based learning.*
+
+
+📊 **Student-ranked teaching** — IE 5617: Lean Concepts and Applications  
+*In an end-of-term poll ranking all 17 class sessions, the two modules I taught placed 3rd and 7th, at 4.81 and 4.67 on a 5-point scale — higher than the instructor's own scores for the same sessions.*
 
 
 📄 **Published in PLOS ONE (2024)** — Multilevel regression model for detecting H-2A labor violations in U.S. agriculture  

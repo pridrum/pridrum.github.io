@@ -54,11 +54,16 @@ improves under criticism than one that is defended.
 
 As a teaching assistant for **IE 4516: Quality Assurance**, I led a complete redesign of the
 course teaching materials, restructuring them around experimental, simulation-based, and
-project-based learning. I taught several of the resulting modules myself, and students ranked
-them among the top learning experiences of the course in an end-of-term feedback poll.
+project-based learning.
 
 That experience is what convinced me course design and teaching are the same job: you cannot
 run an active classroom on materials built for a passive one.
+
+The materials also got tested. In **IE 5617: Lean Concepts and Applications** I taught the
+Process Control and Six Sigma module and the Quality Tools module. In an end-of-term poll
+ranking all 17 class sessions, those two placed **3rd and 7th**, scoring **4.81 and 4.67** on
+a 5-point scale. Prof. McManus, who has taught the course for years and tracks the ranking
+each term, noted that the sessions I taught "came out higher than when I do them."
 
 ---
 
