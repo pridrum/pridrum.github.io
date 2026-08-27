@@ -59,10 +59,10 @@ project-based learning.
 That experience is what convinced me course design and teaching are the same job: you cannot
 run an active classroom on materials built for a passive one.
 
-The materials also got tested. In **IE 5617: Lean Concepts and Applications** I taught the
-Process Control and Six Sigma module and the Quality Tools module. In an end-of-term poll
-ranking all 17 class sessions, those two placed **3rd and 7th**, scoring **4.81 and 4.67** on
-a 5-point scale. Prof. McManus, who has taught the course for years and tracks the ranking
+The materials also got tested. In **IE 5617: Lean Concepts and Applications** (Summer I 2025)
+I taught the Process Control and Six Sigma module and the Quality Tools module. In an
+end-of-term poll ranking all 17 class sessions, those two placed **3rd and 7th**, scoring
+**4.81 and 4.67** on a 5-point scale. Prof. McManus, who has taught the course for years and tracks the ranking
 each term, noted that the sessions I taught "came out higher than when I do them."
 
 ---

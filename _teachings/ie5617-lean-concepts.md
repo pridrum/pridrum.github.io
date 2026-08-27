@@ -33,9 +33,9 @@ to real-world industrial and service contexts.
 
 ## Student ranking of class sessions
 
-At the end of the term, Prof. McManus asks students to rank every class session in the course.
-The two sessions I taught placed **3rd and 7th out of 17**, scoring **4.81** and **4.67** on a
-5-point scale.
+At the end of **Summer I 2025**, Prof. McManus asked students to rank every class session in
+the course. The two sessions I taught placed **3rd and 7th out of 17**, scoring **4.81** and
+**4.67** on a 5-point scale.
 
 | Session I taught | Score | Rank |
 | :--- | :--- | :--- |
