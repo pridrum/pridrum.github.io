@@ -12,7 +12,8 @@ category: Northeastern University
 **Course:** OR 6205 — Deterministic Operations Research (Graduate)  
 **Role:** Instructor of Record  
 **Institution:** Northeastern University, Dept. of Mechanical & Industrial Engineering  
-**Term:** Spring 2026 · 6 students enrolled  
+**Term:** Spring 2026 · 6 registered, 5 attending  
+**Preparation:** Teaching Fellowship, Fall 2025 — shadowed Prof. Himlona Palikhe in this course before teaching it  
 **Award:** 🏆 2026 COE Outstanding Graduate Teaching Award
 
 This course introduces graduate students to the theory and application of deterministic
@@ -71,7 +72,8 @@ benefit from LP optimization. Selected cases are worked through collaboratively 
 > *"The instructor did a great job creating an inclusive and respectful environment where
 > everyone felt comfortable participating."*
 
-**TRACE ratings (course mean vs. dept. mean), 5 of 6 students responding:**
+**TRACE ratings (course mean vs. dept. mean).** Six students registered, but one never
+attended; all five students who actually took the course responded.
 
 *Above the departmental mean:*
 - Displayed enthusiasm for the course: **4.80** (dept. 4.55)

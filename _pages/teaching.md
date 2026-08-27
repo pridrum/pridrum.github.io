@@ -107,9 +107,10 @@ Management
 
 ## Teaching development
 
-INFORMS Committee on Teaching and Learning workshop (2025) → Teaching Fellowship, mentored
-teaching (Spring 2025) → Post-secondary Teaching Certification (2025–26) → Instructor of record,
-OR 6205 (Spring 2026) → College of Engineering Outstanding Graduate Teaching Award (2026) →
-Future Business Analytics Professors Workshop, Tippie College of Business (August 2026).
+INFORMS Committee on Teaching and Learning workshop (2025) → Teaching Fellowship, shadowing
+Prof. Himlona Palikhe in OR 6205 (Fall 2025) → Post-secondary Teaching Certification (2025–26)
+→ Instructor of record for the same course, OR 6205 (Spring 2026) → College of Engineering
+Outstanding Graduate Teaching Award (2026) → Future Business Analytics Professors Workshop,
+Tippie College of Business (August 2026).
 
 {% include courses.liquid %}
