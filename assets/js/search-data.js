@@ -149,6 +149,11 @@ ninja.data = [{
           description: "Bayesian optimization for border security · DEA for women&#39;s crisis center networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/or-social-good-prior/";
+            },},{id: "teachings-ie-4516-quality-assurance",
+          title: 'IE 4516 · Quality Assurance',
+          description: "Graduate Teaching Assistant and Course Materials Redesign · Northeastern University · Fall 2023",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ie4516-quality-assurance/";
             },},{id: "teachings-ie-5617-lean-concepts-and-applications",
           title: 'IE 5617 · Lean Concepts and Applications',
           description: "Graduate Teaching Assistant · Northeastern University · 2023 &amp; 2025",
@@ -156,7 +161,7 @@ ninja.data = [{
               window.location.href = "/teachings/ie5617-lean-concepts/";
             },},{id: "teachings-or-6205-deterministic-operations-research",
           title: 'OR 6205 · Deterministic Operations Research',
-          description: "Teaching Fellow · Northeastern University · Spring 2026",
+          description: "Instructor of Record · Northeastern University · Spring 2026",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/or6205-deterministic-or/";
             },},{id: "teachings-engineering-design-amp-technology",
