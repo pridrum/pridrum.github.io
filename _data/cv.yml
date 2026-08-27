@@ -278,19 +278,6 @@ cv:
         awarder: Northeastern University College of Engineering
         summary: College-level teaching award.
 
-      - title: Teaching Fellowship
-        authors:
-          - "Northeastern University"
-        date: 2025-01-01
-        awarder: Northeastern University
-        summary: Mentored teaching fellowship, OR 6205.
-
-      - title: Dean's Chair Fellowship
-        authors:
-          - "Northeastern University"
-        date: 2021-01-01
-        awarder: Northeastern University
-
       - title: Tau Beta Pi, Engineering Honor Society
         authors:
           - "Tau Beta Pi"
@@ -302,6 +289,35 @@ cv:
           - "University of Texas Rio Grande Valley"
         date: 2020-01-01
         awarder: University of Texas Rio Grande Valley
+
+    Grants and Fellowships:
+      - title: Dissertation Completion Fellowship
+        authors:
+          - "Northeastern University"
+        date: 2026-01-01
+        awarder: Northeastern University
+        summary: "$14,730 stipend, 100% tuition scholarship, and health plan support."
+
+      - title: Teaching Fellowship
+        authors:
+          - "Northeastern University"
+        date: 2025-01-01
+        awarder: Northeastern University
+        summary: Mentored teaching fellowship, OR 6205.
+
+      - title: PhD Network and MIE Department Travel Funds
+        authors:
+          - "Northeastern University"
+        date: 2025-01-01
+        awarder: Northeastern University
+        summary: "Awarded four consecutive years: $1,000 (2025), $1,000 (2024), $1,000 (2023), $500 (2022)."
+
+      - title: Dean's Chair Fellowship
+        authors:
+          - "Northeastern University"
+        date: 2021-01-01
+        awarder: Northeastern University
+        summary: Tuition and stipend.
 
       - title: Presidential Graduate Research Award
         authors:
@@ -315,6 +331,29 @@ cv:
         date: 2017-01-01
         awarder: CNPq, Brazil
         summary: Competitive research scholarship.
+
+    Grant-Supported Research:
+      - title: "NSF #1935618 — ISN2: Coordinated Interdiction for Disruption of Labor Trafficking in the Agricultural Sector"
+        authors:
+          - "PI: Kayse L. Maass"
+          - "Co-PI: Amy S. Farrell"
+          - "Co-PI: Shawn Bhimani"
+        date: 2020-01-01
+        awarder: National Science Foundation, Division of Civil, Mechanical, and Manufacturing Innovation
+        summary: >-
+          Operations Engineering program, Northeastern University. Award period January 2020 to
+          December 2024. My role: Graduate Research Assistant, 2021 to 2024.
+
+      - title: "Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption Efforts"
+        authors:
+          - "PI: Kayse Maass"
+          - "Co-PI: Amy Farrell"
+        date: 2021-01-01
+        awarder: DHS Criminal Investigations and Network Analysis (CINA) Center of Excellence
+        url: https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/
+        summary: >-
+          A U.S. Department of Homeland Security Center of Excellence, hosted at George Mason
+          University. Northeastern University. My role: Graduate Research Assistant.
 
     Skills:
       - name: Programming and analysis
