@@ -1,189 +1,390 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Priscila de Azevedo Drummond
+  label: PhD Candidate, Industrial Engineering — Operations and Supply Chain
+  email: deazevedodrummond.p@northeastern.edu
+  location: Boston, MA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >-
+    I study how an organization with too few resources decides where to intervene, when the
+    outcomes are hard to measure and the data is bad. My dissertation develops network
+    interdiction models for multi-agency coordination, applied to labor trafficking in U.S.
+    agricultural supply chains. PhD defense scheduled 2 December 2026.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: pridrum
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Northeastern University
+        location: Boston, MA
+        url: https://mie.northeastern.edu/
+        area: Industrial Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2021
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dissertation: *Collaborating Agents and Network Interdiction Models*"
+          - "Advisor: Dr. Kayse Lee Maass. Committee: Dr. Shahin Shahrampour, Dr. Gabriela Gongora Svartzman"
+          - "Expected December 2026 — defense scheduled 2 December 2026"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Northeastern University
+        location: Boston, MA
+        area: Post-secondary Teaching
+        studyType: Certificate
+        start_date: 2025
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Capstone: course design for *System Engineering in Public Programs* and *Deterministic Operations Research*"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: University of Texas Rio Grande Valley
+        location: Edinburg, TX
+        area: Engineering Management
+        studyType: MS
+        start_date: 2019
+        end_date: 2021
         highlights:
-          - Relativity
-          - Description 2.
+          - "Thesis: *A Framework to Identify Human Trafficking at the U.S. Border* (Advisor: Dr. Hiram Moya)"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - institution: Universidade Federal do Rio Grande do Sul
+        location: Porto Alegre, Brazil
+        area: Business Administration
+        studyType: MS
+        start_date: 2017
+        end_date: 2019
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: *Relative Efficiency Analysis of the Women's Crisis Center Network in Rio Grande do Sul* (Advisor: Dr. Denise Lindstrom)"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - institution: Universidade do Estado do Rio de Janeiro
+        location: Rio de Janeiro, Brazil
+        area: Finance and Planning
+        studyType: MPS
+        start_date: 2015
+        end_date: 2016
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Project: *Financial and Sporting Efficiency of Brazilian Soccer Clubs* (Advisor: Dr. Francisco Pessanha)"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - institution: Universidade Federal do Rio de Janeiro
+        location: Rio de Janeiro, Brazil
+        area: Fine Arts — Product Design
+        studyType: BA
+        start_date: 2007
+        end_date: 2011
+        highlights:
+          - "Project: *Trebuchet: A Multidisciplinary Pedagogical Game* (Advisor: Dr. Roosewelt Telles)"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Research Interests:
+      - name: Research
+        icon: fa-solid fa-magnifying-glass
+        keywords: "Resource allocation in constrained service and supply systems, Prescriptive analytics for multi-agency coordination, Supply chain compliance and labor risk, Responsible analytics and the distributional consequences of optimized decisions, Analytics and operations pedagogy"
+
+      - name: Methods
+        icon: fa-solid fa-square-root-variable
+        keywords: "Network optimization and interdiction, Integer and mixed-integer programming, Bayesian decision analysis, Multilevel and hierarchical regression, Data envelopment analysis, Expert elicitation, Scoping and systematic review, Qualitative and participatory methods"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Enhancing detection of labor violations in the agricultural sector: A multilevel generalized linear regression model of H-2A violation counts"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Ali Jafari
+          - Sabrina Bhimani
+          - Priscila A. Drummond
+          - Dan Nishigaya
+          - Aidong A. Ding
+          - Amy Farrell
+          - Kayse Lee Maass
+        publisher: "PLOS ONE, 19(5), e0302960 — refereed journal article"
+        releaseDate: 2024-05-01
+        url: https://doi.org/10.1371/journal.pone.0302960
+        summary: >-
+          A multilevel regression model of H-2A visa and labor violations, built to help the
+          U.S. Department of Labor target limited investigative capacity toward the producers
+          most associated with violations, including those that can indicate labor trafficking.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Collaboration in anti-trafficking efforts: A network interdiction problem with multiple dependent attacks"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Priscila A. Drummond
+          - Kayse Lee Maass
+        publisher: "Job market paper — working paper, submission September 2026"
+        releaseDate: 2026-09-01
+        summary: >-
+          What happens to a coordinated enforcement decision when several agencies act on the
+          same part of a network and their actions do not combine independently. Defines the
+          class of functions satisfying four axioms rather than assuming one algebraic form,
+          and gives an exact linearization with dual bounds. Two results are aimed at a
+          management audience: the cost of assuming independence, and the coordination gap
+          between a centralized task force and the same agencies spending separately.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Multiple non-independent interventions on the same network element: A scoping review"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Priscila A. Drummond
+          - Kayse Lee Maass
+        publisher: "Under review at Networks"
+        releaseDate: 2026-08-01
+        summary: >-
+          A PRISMA-ScR review registered on OSF, across four databases with two independent
+          reviewers screening and extracting. Establishes that independence, or the absence of
+          same-element multiplicity altogether, is the norm in the literature.
+
+      - title: "Network interdiction to improve labor trafficking detection in the U.S. agricultural sector"
+        authors:
+          - Ali Jafari
+          - Sabrina Bhimani
+          - Priscila A. Drummond
+          - Amy Farrell
+          - Kayse Lee Maass
+        publisher: "Revise and resubmit at Decision Sciences"
+        releaseDate: 2026-01-01
+        summary: >-
+          Applies network interdiction to collaborative detection across the Department of
+          Labor and the Department of Homeland Security.
+
+      - title: "Structural results and complexity for network interdiction with dependent multiple interventions"
+        authors:
+          - Priscila A. Drummond
+          - Kayse Lee Maass
+        publisher: "Working paper"
+        releaseDate: 2026-01-01
+        summary: >-
+          Under a logarithmic transform the problem is shortest-path interdiction and therefore
+          NP-hard. The claim is narrower and more useful: structure discovery is polynomial and
+          independent of the choice of function, and the optimal intervention can be restricted
+          to a candidate set determined by which parts of the network are in play.
+
+      - title: "Algorithms for network interdiction problems with nonlinear attacks"
+        authors:
+          - Priscila A. Drummond
+          - Kayse Lee Maass
+        publisher: "Working paper"
+        releaseDate: 2026-01-01
+        summary: >-
+          A three-phase procedure — structure recovery, depth determination, and budget
+          allocation with re-optimization after each commitment — verified against exhaustive
+          enumeration on instances small enough to permit it, and reported by structural case.
+
+      - title: "Active learning experiences: A teaching fellowship in industrial engineering education"
+        authors:
+          - Priscila A. Drummond
+        publisher: "Working paper, in preparation"
+        releaseDate: 2026-01-01
+        summary: >-
+          Narrative and autoethnographic analysis of how mentored teaching shapes an
+          instructor's confidence and identity.
+
+      - title: "U.S. ports of entry's decision model with an anti-human trafficking focus"
+        authors:
+          - Priscila A. Drummond
+          - Hiram Moya
+        publisher: "Decision Sciences Institute Proceedings — refereed conference proceedings"
+        releaseDate: 2020-11-01
+        summary: >-
+          A Bayesian decision model with cost-benefit analysis for when officers at U.S. ports
+          of entry should escalate a screening for possible human trafficking.
+
+    Experience:
+      - company: Northeastern University
+        position: Instructor of Record — OR 6205, Deterministic Operations Research
+        location: Boston, MA
+        start_date: 2026-01-01
+        end_date: 2026-05-01
+        summary: >-
+          Graduate course, full responsibility for course design, instructional materials,
+          in-class active learning, assessment design, lecturing, feedback, and project mentoring.
+        highlights:
+          - "Rated above departmental means for instructor enthusiasm, sufficiency of feedback, inclusive learning environment, and organization of course materials"
+          - "Negotiated syllabus components with the class; a student noted that I \"was able to listen to our feedback to make the course better\""
+          - "Mentored five graduate student projects across several engineering disciplines"
+
+      - company: Northeastern University
+        position: Graduate Teaching Assistant and Curriculum Developer
+        location: Boston, MA
+        start_date: 2023
+        end_date: 2026
+        summary: >-
+          IE 7200 Supply Chain Engineering, IE 5617 Lean Concepts and Applications (four terms),
+          and IE 4516 Quality Assurance.
+        highlights:
+          - "Led a complete redesign of the teaching materials for IE 4516 Quality Assurance, restructuring them around experimental, simulation-based, and project-based learning"
+          - "Taught several course modules independently; students ranked these among the top learning experiences of the course in an end-of-term feedback poll"
+
+      - company: Operations Research and Social Justice Lab, Northeastern University
+        position: Doctoral Researcher
+        location: Boston, MA
+        start_date: 2021
+        end_date: 2026
+        summary: >-
+          Network optimization models for multi-agency coordination against labor trafficking,
+          including a new formulation for dependent interventions on shared network elements.
+        highlights:
+          - "Cleaned and analyzed three public datasets (500,000+ records) in Python to study labor violation patterns and inspection strategy"
+          - "Elicited intervention probabilities from anti-trafficking practitioners for use as model parameters"
+          - "Partners: U.S. Department of Homeland Security Criminal Investigations and Network Analysis (CINA) Center; criminal justice researchers at Northeastern"
+
+      - company: University of Texas Rio Grande Valley
+        position: Lead Student Researcher and Graduate Teaching Assistant
+        location: Edinburg, TX
+        start_date: 2019
+        end_date: 2021
+        summary: >-
+          Bayesian decision modeling for trafficking detection at U.S. ports of entry, and a
+          qualitative study of Latina students' experiences in STEM.
+        highlights:
+          - "Responsible for the IRB protocol and approval on the STEM identity study; led a five-member undergraduate research team and worked with the faculty team on interview plan, design, and conduct"
+          - "Analyzed first-phase transcripts using narrative inquiry with a priori and emergent coding and member checking"
+          - "TA for Engineering Management, Manufacturing Production and Control, and Operations Research; created tutorial sessions and instructional videos during the pandemic transition"
+
+      - company: Universidade Federal do Rio Grande do Sul
+        position: Graduate Researcher and Teaching Assistant
+        location: Porto Alegre, Brazil
+        start_date: 2017
+        end_date: 2019
+        summary: >-
+          Evaluated resource allocation across the network of services for survivors of domestic
+          and gender-based violence, in partnership with the state public security department.
+        highlights:
+          - "Data envelopment analysis on crime and social service data across 450+ municipalities using R and Python, combined with structured expert judgment"
+          - "Mapped multi-service provider flows, survivor pathways, and information pathways through the system"
+          - "TA for Manufacturing Production and Control across three terms"
+
+      - company: Universidade Federal do Rio de Janeiro
+        position: Research Coordinator and Teacher, STEM Pedagogy
+        location: Macaé and Rio de Janeiro, Brazil
+        start_date: 2006
+        end_date: 2009
+        summary: >-
+          Coordinated a faculty group assessing a learning-by-working pedagogical model at a
+          project-based public middle school serving a gang-controlled community.
+        highlights:
+          - "Coordinated the engineering, design, and technology curriculum for 90+ students per year"
+          - "Managed an interdisciplinary team of 10-15 undergraduate interns"
+          - "Designed and taught experiential modules integrating engineering and design for students aged 11-16 through boat design and construction"
+
+      - company: COMLURB, MRS Global, Nano Presentes, Sulamérica Seguros
+        position: Earlier professional experience — finance, design, and operations
+        location: Rio de Janeiro, Brazil
+        start_date: 2010
+        end_date: 2016
+        summary: >-
+          Financial analyst and administrative roles, plus a small design business of my own.
+        highlights:
+          - "COMLURB: secured 100% budget approval at annual town hall meetings by presenting complex financial analysis to non-technical stakeholders; reduced contract and inventory costs by 30%"
+          - "MRS Global: designed automated validation protocols for financial control databases, reducing error-correction workload by 67%"
+          - "Nano Presentes: founded and ran a design retail business; secured national blog and press coverage"
+
+    Awards:
+      - title: College of Engineering Outstanding Graduate Teaching Award
+        authors:
+          - "Northeastern University"
+        date: 2026-01-01
+        awarder: Northeastern University College of Engineering
+        summary: College-level teaching award.
+
+      - title: Teaching Fellowship
+        authors:
+          - "Northeastern University"
+        date: 2025-01-01
+        awarder: Northeastern University
+        summary: Mentored teaching fellowship, OR 6205.
+
+      - title: Dean's Chair Fellowship
+        authors:
+          - "Northeastern University"
+        date: 2021-01-01
+        awarder: Northeastern University
+
+      - title: Tau Beta Pi, Engineering Honor Society
+        authors:
+          - "Tau Beta Pi"
+        date: 2021-01-01
+        awarder: Tau Beta Pi
+
+      - title: Outstanding Student Award for Academic Achievement
+        authors:
+          - "University of Texas Rio Grande Valley"
+        date: 2020-01-01
+        awarder: University of Texas Rio Grande Valley
+
+      - title: Presidential Graduate Research Award
+        authors:
+          - "University of Texas Rio Grande Valley"
+        date: 2019-01-01
+        awarder: University of Texas Rio Grande Valley
+
+      - title: CNPq Research Award
+        authors:
+          - "CNPq, Brazil"
+        date: 2017-01-01
+        awarder: CNPq, Brazil
+        summary: Competitive research scholarship.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming and analysis
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python (Pandas, NumPy/SciPy, scikit-learn, NetworkX), R, Git/GitHub, LaTeX"
+
+      - name: Optimization and modeling
+        level: Advanced
+        icon: fa-solid fa-diagram-project
+        keywords: "Gurobi, AMPL, LINDO, integer and mixed-integer programming, network interdiction"
+
+      - name: Statistics and decision analysis
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "Multilevel and hierarchical regression, generalized linear models, Bayesian decision analysis, data envelopment analysis, cost-benefit analysis"
+
+      - name: Qualitative and review methods
+        level: Advanced
+        icon: fa-solid fa-book-open
+        keywords: "Content analysis, narrative inquiry, expert elicitation, PRISMA-ScR scoping and systematic review, Covidence"
+
+      - name: Teaching
+        level: Advanced
+        icon: fa-solid fa-chalkboard-user
+        keywords: "Backward design, active learning, project-based learning, transparent assessment, inclusive pedagogy, curriculum development, hybrid delivery"
+
+    Certificates:
+      - name: Post-secondary Teaching Certification
+        date: 2026-01-01
+        issuer: Northeastern University
+        icon: fa-solid fa-graduation-cap
+
+      - name: Future Business Analytics Professors Workshop
+        date: 2026-08-01
+        issuer: Tippie College of Business, University of Iowa
+        icon: fa-solid fa-chart-simple
+
+      - name: Teaching Workshop, Committee on Teaching and Learning
+        date: 2025-01-01
+        issuer: INFORMS
+        icon: fa-solid fa-chalkboard
+
+    Service:
+      - name: Vice President and Treasurer, INFORMS Student Chapter
+        icon: fa-solid fa-users
+        keywords: "Northeastern University, 2022-2023 and 2025-present"
+
+      - name: Session Chair
+        icon: fa-solid fa-microphone
+        keywords: "Cooperation and Partnership in Public Services, INFORMS Annual Meeting 2025; Border Security, Decision Sciences Institute Annual Meeting 2020"
+
+      - name: Instructor and Organizer
+        icon: fa-solid fa-person-chalkboard
+        keywords: "Ethical Research Methods using AI (2026); Notetaking Workshop for graduate students (2024), Northeastern University"
+
+      - name: Board Member, Beacon Hill Friends House
+        icon: fa-solid fa-house
+        keywords: "Personnel Committee and Nominating Committee, Boston, MA, 2021-present"
+
+      - name: Earlier service
+        icon: fa-solid fa-hands-helping
+        keywords: "Secretary, Women in STEM Programs, UTRGV (2020-2021); LEAP Educator, Center for Diversity and Inclusion, UTRGV (2019); Volunteer Art Teacher, AIESEC, Mendoza, Argentina (2014)"
 
     Languages:
-      - name: German
+      - name: Portuguese
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Professional / fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Spanish
+        summary: "Advanced"

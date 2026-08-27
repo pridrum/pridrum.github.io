@@ -21,26 +21,40 @@ selected_papers: true   # show selected publications on homepage
 social: true        # show social icons at bottom
 ---
 
-I am a PhD candidate in Industrial Engineering at Northeastern University, working in the
-[Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com/kayseleemaass) under
-[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/). My research
-develops **network interdiction models** to combat labor trafficking in U.S. agricultural
-supply chains, with a focus on how multi-agency collaboration improves detection and disruption
-outcomes. I believe mathematics is a tool for justice — and I bring that conviction into both
-my research and my classroom.
+I study **how an organization with too few resources decides where to intervene**, when the
+outcomes are hard to measure and the data is bad.
 
-My path to academia spans three countries and many roles: middle school teacher in Brazil,
-financial analyst, entrepreneur, and now engineer and educator. Starting as a non-traditional
-As a student with a background in fine arts and finance, I entered operations research with almost no
-prerequisite knowledge, which permanently shaped how I teach. I know what it feels like to
-encounter hidden curricula, cultural barriers, and imposter syndrome. That lived experience
-drives my commitment to **inclusive, transparent assessments, and active-learning pedagogy**.
+I have asked that question of a middle school, a league of soccer clubs, a network of women's
+crisis centers, a border checkpoint, a federal labor inspectorate, and a set of anti-trafficking
+agencies working the same cases. The setting has changed each time, and so has the method. The
+question has not.
 
-**Research Interests:** Network optimization · Network interdiction · Anti-human trafficking ·
-Labor rights & supply chains · OR for social good · Decision support systems
+I am a PhD candidate in Industrial Engineering at Northeastern University, in the
+[Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com/kayseleemaass) with
+[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/), **defending on
+2 December 2026**. My dissertation develops **network interdiction models for multi-agency
+coordination** — what happens to an enforcement decision when several agencies act on the same
+part of a network and their actions do not combine independently. The application is labor
+trafficking in U.S. agricultural supply chains, which is a supply chain compliance problem:
+producers using H-2A visa labor, an inspectorate that can audit only a fraction of them, and
+downstream buyers with almost no visibility into conditions upstream.
 
-**Teaching Interests:** Active learning in engineering · Inclusive pedagogy · Backward design ·
-Scholarship of Teaching and Learning (SoTL) · Equity in STEM
+What holds the work together is a concern with **decisions whose costs and benefits fall on
+different people**. A model that allocates inspectors, routes children to school, or targets an
+enforcement operation is not only a technical object. It encodes whose interests count — and
+that, to me, is the interesting part of the problem rather than a caveat to it.
+
+I came to engineering from a Fine Arts degree, through finance, without the standard
+prerequisites. That permanently shaped how I teach.
+
+**Research interests:** Resource allocation in constrained service and supply systems ·
+Prescriptive analytics for multi-agency coordination · Supply chain compliance and labor risk ·
+Responsible analytics and the distributional consequences of optimized decisions ·
+Analytics and operations pedagogy
+
+**Methods:** Network optimization and interdiction · Integer and mixed-integer programming ·
+Bayesian decision analysis · Multilevel and hierarchical regression · Data envelopment analysis ·
+Expert elicitation · Scoping and systematic review · Qualitative and participatory methods
 
 ---
 
@@ -48,21 +62,25 @@ Scholarship of Teaching and Learning (SoTL) · Equity in STEM
 
 
 🏆 **2026 COE Outstanding Graduate Teaching Award** — Northeastern University College of Engineering  
-*One of eight PhD recipients, university-wide, Mechanical & Industrial Engineering.*  
+*College-level teaching award.*
 
 
-📖 **Teaching Fellow** — OR 6205: Deterministic Operations Research, Northeastern University (2025–2026)  
-*Sole instructor of record for graduate-level OR course; designed full curriculum using backward design.*  
+📖 **Instructor of Record** — OR 6205: Deterministic Operations Research, Northeastern University (Spring 2026)  
+*Rated above departmental means for enthusiasm, sufficiency of feedback, inclusive learning environment, and organization of course materials.*
+
+
+🛠️ **Course redesign leadership** — IE 4516: Quality Assurance, Northeastern University  
+*Led a complete redesign of the course teaching materials around experimental, simulation-based, and project-based learning. Taught several of the resulting modules; students ranked them among the top learning experiences of the course.*
 
 
 📄 **Published in PLOS ONE (2024)** — Multilevel regression model for detecting H-2A labor violations in U.S. agriculture  
-*With Jafari, Bhimani, Nishigaya, Ding, Farrell & Maass. DOI: [10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)*  
+*With Jafari, Bhimani, Nishigaya, Ding, Farrell & Maass. DOI: [10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)*
 
 
-🎤 **INFORMS Annual Meeting 2025** — Session Chair, *Cooperation and Partnership in Public Services*, Atlanta, GA  
+🎤 **INFORMS Annual Meeting 2025** — Session Chair, *Cooperation and Partnership in Public Services*, Atlanta, GA
 
 
-🎓 **Teaching Certification** — Post-Secondary Teaching Certificate (in progress), Northeastern University  
+🎓 **Post-Secondary Teaching Certification** — Northeastern University, completed Spring 2026  
 
 
 
@@ -70,27 +88,50 @@ Scholarship of Teaching and Learning (SoTL) · Equity in STEM
 
 ## Research
 
-My dissertation investigates how **collaboration between law enforcement agencies**
-improves labor trafficking interdiction. Using network interdiction models, I show that
-multi-agency cooperation substantially outperforms isolated enforcement — a finding with
-direct policy implications for DHS and agricultural labor oversight.
+### Job market paper
 
-Earlier work developed a Bayesian optimization decision tool for U.S. ports of entry to
-flag human trafficking at border checkpoints, produced in partnership with the UTRGV and
-published through DSI. At UFRGS in Brazil, I partnered with the Secretary of Security of
-Rio Grande do Sul to apply Data Envelopment Analysis to women's crisis center networks,
-directly informing resource allocation policy for over 10 million residents.
+**Collaboration in Anti-Trafficking Efforts: A Network Interdiction Problem with Multiple
+Dependent Attacks** *(with Kayse Lee Maass)*
+
+Anti-trafficking agencies — a federal investigator, a labor inspector, a social service
+provider — often work the same operation without knowing what the others are doing. The
+literature almost always assumes either that only one actor intervenes on a given element, or
+that multiple interventions combine independently. Neither matches how task forces actually
+work, and getting it wrong changes where the budget should go.
+
+Rather than pick one algebraic form for how repeated interventions combine, I define the class
+of functions satisfying four axioms, and show that the standard independence assumption sits
+exactly at the boundary of that class. The paper gives an exact linearization with dual bounds,
+and asks two questions aimed at a management audience: **what does a decision-maker lose by
+assuming independence**, and **how large is the coordination gap** between a centralized task
+force and the same agencies spending the same total separately?
+
+### The wider program
+
+My dissertation comprises four papers designed to inform each other: a PRISMA-ScR scoping
+review establishing the gap, the model above, an algorithm and computational study, and a
+theory and complexity paper.
+
+Earlier work developed a Bayesian decision model with cost–benefit analysis for U.S. ports of
+entry, determining when officers should escalate a screening for possible trafficking. At UFRGS
+in Brazil I applied data envelopment analysis, alongside structured expert judgment, to the
+network of services for survivors of domestic and gender-based violence across 450+
+municipalities — mapping provider flows, survivor pathways, and information pathways through
+the system. The finding that mattered was about portfolio rather than volume: the *range* of
+services available constrained effectiveness more than the total amount invested.
 
 ---
 
 ## Teaching
 
-I have taught and designed courses at every level — from middle schoolers learning
+I have taught **eight university courses across three universities and more than 300 students**,
+and before that spent four years teaching middle school in Brazil — from students learning
 boatbuilding in an underserved community in Rio de Janeiro, to graduate students working
 through the mathematics of linear programming in Boston.
 
-At Northeastern, I am a **Teaching Fellow** for OR 6205 (Deterministic Operations Research),
-where I designed the full course from scratch. My approach centers on:
+In Spring 2026 I was **instructor of record** for OR 6205 (Deterministic Operations Research)
+at Northeastern, and that year received the College of Engineering Outstanding Graduate
+Teaching Award. My approach centers on:
 
 - **Backward design** — learning objectives drive every assessment and activity
 - **Active learning** — collaborative board work, case studies, and real-world LP modeling
