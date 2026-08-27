@@ -77,17 +77,21 @@ benefit from LP optimization. Selected cases are worked through collaboratively 
 - Displayed enthusiasm for the course: **4.80** (dept. 4.55)
 - Provided sufficient feedback: **4.60** (dept. 4.29)
 - Facilitated inclusive learning environment: **4.60** (dept. 4.54)
+- In-class sessions were helpful for learning: **4.40** (dept. 4.34; equal to the university mean)
 
 *Below the departmental mean:*
+- The syllabus was accurate and helpful in delineating expectations and course outcomes: **4.00** (dept. 4.56)
 - Overall teaching effectiveness: **4.20** (dept. 4.41)
-- Intellectual challenge, and how much students felt they learned: both below the
-  departmental mean
+- Intellectual challenge, and how much students felt they learned: both below the departmental mean
 
-Students were also specific about what was not working: transitions between topics were too
-abrupt, the balance tipped toward theory at the expense of applied practice, the assigned
-textbook hindered more than it helped, and expectations around the syllabus and assessments
-were not clear enough. With five respondents these are not robust statistics, but they are an
-honest account of the term, and the criticism is more useful to me than the praise.
+Read together, those two lists say something quite specific. **What happened in the room rated
+above the department. What framed it rated well below.** The largest single gap in my
+evaluations is the syllabus item, at 0.56 below the departmental mean.
+
+Students were also specific in writing: transitions between topics were too abrupt, the balance
+tipped toward theory at the expense of applied practice, and the assigned textbook hindered more
+than it helped. With five respondents these are not robust statistics, but they are an honest
+account of the term, and the criticism has been more useful to me than the praise.
 
 ---
 
@@ -114,11 +118,14 @@ Students who had been struggling began completing assessments independently, and
 had been quiet started contributing to discussion.
 
 But my overall teaching effectiveness came in **below** the departmental mean, and I think the
-two facts are connected. Changing the course while it was running made the course harder to
-read. Every adjustment I made in response to feedback moved something the students had already
-planned around — what was going to be assessed, how, and when. I was responsive at the cost of
-being predictable, and the evaluations show students paid for that in clarity about the
-syllabus and the assessments.
+two facts are connected. The evaluations separate cleanly: in-class sessions rated 4.40 against
+a departmental 4.34, while the syllabus — accurate and helpful in delineating expectations —
+rated 4.00 against 4.56. The sessions improved. The scaffolding around them did not keep up.
+
+Changing the course while it was running made the course harder to read. Every adjustment I
+made in response to feedback moved something the students had already planned around: what was
+going to be assessed, how, and when. I was responsive at the cost of being predictable, and my
+students paid for that in clarity.
 
 That is the tension I most need to work on, and I would rather name it precisely than
 generalise it away. Responsiveness and clear expectations are not opposites, but they conflict
