@@ -1,14 +1,25 @@
 name: Render a CV
+# Disabled 2026-08-27: the automatic push trigger is removed.
+#
+# This workflow runs the strict `rendercv` CLI against _data/cv.yml to generate a
+# template PDF. Our cv.yml uses the field names shipped in the al-folio demo
+# (studyType, awarder, releaseDate, level), which RenderCV's schema rejects, so it
+# failed on its first ever run. The generated PDF is redundant — the CV download
+# button points at assets/pdf/drummond_pdf.pdf, Priscila's own formatted CV — and
+# this workflow is independent of deploy.yml, so disabling it does not affect the site.
+#
+# To re-enable: restore the `push:` block below and convert cv.yml to the strict
+# RenderCV schema first, or the failure returns.
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
+  # push:
+  #   branches:
+  #     - main
+  #     - master
+  #   paths:
+  #     - "_data/cv.yml"
+  #     - "assets/rendercv/design.yaml"
+  #     - "assets/rendercv/locale.yaml"
+  #     - "assets/rendercv/settings.yaml"
   workflow_call:
   workflow_dispatch:
 permissions:
