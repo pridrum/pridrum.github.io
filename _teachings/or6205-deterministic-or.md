@@ -125,13 +125,38 @@ understanding without the room to lean on.
 
 ## Course Materials
 
-The following materials are available for review:
+These are the actual materials from Spring 2026, not summaries of them.
 
-- 📄 [Syllabus](/assets/pdf/OR6205_Drummond_Syllabus.pdf)
-- 🗺️ [Course Map](/assets/pdf/OR6205Sp2026Course_Map.pdf)
-- 📋 [Grading Plan](/assets/pdf/OR6205_GradingPlan.pdf)
-- 📝 [Sample In-Class Exercises](/assets/pdf/InClassExercises_20260220.pdf)
-- 🔧 [Gurobi Python Guidelines](/assets/pdf/Gurobi_guideline.pdf)
+**Course structure**
+
+- 📄 [Syllabus — as written](/assets/pdf/OR6205_Syllabus_Original.pdf)
+- 📄 [Syllabus — after negotiation with the class](/assets/pdf/OR6205_Syllabus_Negotiated.pdf)
+- 🗺️ [Course map](/assets/pdf/OR6205_Course_Map.pdf)
+
+I have included **both syllabi deliberately.** I negotiated parts of the syllabus with the
+class rather than handing it down finished, and the difference between these two documents is
+the record of what students actually changed. It is also, read alongside the evaluations, where
+the cost of that approach shows: the version students worked from was the one that emerged from
+negotiation, and expectations became harder to pin down as the course moved.
+
+**Assessment**
+
+- 📋 [Project worksheet](/assets/pdf/OR6205_Project_Worksheet.pdf)
+- 📚 [Project cases](/assets/pdf/OR6205_Project_Cases.pdf)
+- 📝 [Project report framework](/assets/pdf/OR6205_Project_Report_Framework.pdf)
+- ✅ [Project rubric](/assets/pdf/OR6205_Project_Rubric.pdf)
+
+**In class**
+
+- 📝 [Sample in-class exercises (20 February 2026)](/assets/pdf/OR6205_InClass_Exercises.pdf)
+- 🎞️ [Slides — Duality Theory I](/assets/pdf/OR6205_Slides_Duality_1.pdf)
+- 🎞️ [Slides — Duality Theory II](/assets/pdf/OR6205_Slides_Duality_2.pdf)
+- 🎞️ [Slides — Network Optimization](/assets/pdf/OR6205_Slides_Network_Optimization.pdf)
+- 🔧 [Gurobi and Python guideline](/assets/pdf/OR6205_Gurobi_Guideline.pdf)
+
+The duality slides are where the geometric explanation of the dual as an upper bound on the
+primal lives — the point in the course where a student who had been engaged but confused said,
+"That is so cool."
 
 ---
 
