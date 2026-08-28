@@ -31,7 +31,7 @@ working on the same cases. Each time, the setting and method changed, but the ma
 
 I am now a PhD candidate in Industrial Engineering at Northeastern University, in the 
 [Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com), working with
-[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/).I scheduled my defense on
+[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/).I have scheduled my defense for
 December 2, 2026. My dissertation develops network interdiction models for multi-agency
 coordination. I look at what happens to enforcement decisions when several agencies act on the same
 part of a network, and their actions are not independent. The main application is labor
@@ -41,7 +41,8 @@ hidden information and very few resources.
 **What connects all of my work is a focus on decisions where the costs and benefits affect different people**.
 For example, a model that identifies the farms most likely to involve labor trafficking, so
 that Department of Labor inspections can be sent there, or one that shows when enforcement operations should 
-work with social services and where they should not. It is not just a technical problem. It depends on the decision maker's perspective, and that is at the heart of the modeler’s challenge.
+work with social services and where they should not. 
+It is not just a technical problem. It depends on the decision-maker's perspective, and that is at the heart of the modeler’s challenge.
 
 I came to engineering after earning a Fine Arts degree, working in finance, teaching myself new skills, 
 and finding my own path and my joy along the way. This experience has shaped how I approach teaching.
