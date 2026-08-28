@@ -94,19 +94,19 @@ setting expectations — rated well below.** The two largest gaps are intellectu
 
 Students were also specific in writing: transitions between topics were too abrupt, the balance
 tipped toward theory at the expense of applied practice, and the assigned textbook hindered more
-than it helped. With five respondents these are not robust statistics, but they are an honest
+than it helped. With five respondents, these are not robust statistics, but they are an honest
 account of the term, and the criticism has been more useful to me than the praise.
 
 ### Two design decisions behind the challenge and learning scores
 
-**All the assessment happened in class, and it happened constantly.** Students worked small
+**All the assessment happened in class, and it happened constantly.** Students worked on small
 assignments in the room every single session, and I gave feedback and corrections on the spot,
 in the same class. The only work assigned outside class was reading. The evaluations track that
 design almost exactly: in-class sessions rated **4.40**, above the department, while out-of-class
 assignments rated **3.80**, well below. Students were reporting the course I actually built.
 
 This was not a question of effort, either. Students reported spending **3–10 hours per week** on
-the course outside class, median 5–7, with two of the five at 8–10. They were tested daily and
+the course outside class, median 5–7, with two of the five at 8–10. They were tested daily, and
 they were putting in the time.
 
 So why did challenge and perceived learning come in low? Because **none of that daily work was
@@ -115,8 +115,8 @@ arriving within minutes, from me or from a classmate. I made that choice deliber
 students attempting problems without the fear of a mark attached. What I did not anticipate is
 that I had also removed the instrument students use to answer the question *how am I doing?*
 
-Look at which items fell below the departmental mean and the pattern is not really about
-difficulty at all:
+Look at which items fell below the departmental mean, and the pattern is not really about
+difficulty:
 
 | What students rated **high** | What students rated **low** |
 | :--- | :--- |
@@ -125,27 +125,20 @@ difficulty at all:
 | Respectful and inclusive environment (4.60) | Out-of-class assignments were helpful (3.80) |
 | Displayed enthusiasm (4.80) | Syllabus delineated expectations (4.00) |
 
-The experience of the course rated well. **Every measure of knowing where you stand rated
-badly.** Students could not tell how much they had learned, because nothing ever told them.
-Correction in the moment answers "was this answer right?" but it never accumulates into an
-answer to "am I getting better at this?" One student put the consequence plainly: too much
-theory relative to practice left them "less confident in my knowledge."
+The course experience was rated well. Every measure of self-reliance in their knowledge was rated
+poorly. The students couldn't judge how much they had learned because nothing ever informed them with grades, as was their custom.
+The feedback was based on asking, "Was that the correct answer?" with follow-up explanations, but it never answered, “Am I getting better at this?” One student said in their feedback: too much
+theory relative to practice left them “less confident in my knowledge.”
 
-The fix is not to grade everything, which would reintroduce exactly the anxiety the ungraded
-work was meant to remove, and it is not less in-class work, which rated above the department. It
-is to give students a **calibrated signal of progress**: a few low-stakes graded checkpoints
-across the term, and some practice attempted unsupported before the correction arrives, so
-students can see for themselves what they can do alone and how that changes week to week.
+I wouldn't assign marks to all the work, since that would once again cause the same anxiety associated with having to add more formative work, and it's not the case that the in-class work is rated higher than that of the department. It
+is to give students a clear signal of progress: a few low-stakes graded checkpoints
+So that, throughout the period, students can see in a measurable way what they can do on their own and how this changes from week to week.
 
-**The class was also small and unevenly prepared.** OR 6205 is introductory by design, and this
-cohort of five included two PhD students who had already met the material. In a class that size,
-students well past the intended baseline move an average on a question about challenge.
+The class was also small and unevenly prepared. OR 6205 is an introductory course, and this
+cohort of five included two PhD students who had already seen the material. In a class that size, balancing what to prioritize was challenging.
 
-I put that second, and lightly, because the written feedback points more clearly at the first
-explanation than at this one — the students who rated challenge lowest asked for *more* material
-and *more* practice, which is not what being over-prepared for a course sounds like. Both roads
-lead to the same fix in any case: an introductory course with mixed preparation needs
-**differentiated challenge**, a core path plus extension work for students who arrive ahead.
+Next time, an introductory course with mixed preparation that meets
+differentiated challenge levels: a core path plus extension work for more advanced stud
 
 ---
 
@@ -159,21 +152,22 @@ These are the actual materials from Spring 2026, not summaries of them.
 - 📄 [Syllabus — after negotiation with the class](/assets/pdf/OR6205_Syllabus_Negotiated.pdf)
 - 🗺️ [Course map](/assets/pdf/OR6205_Course_Map.pdf)
 
-I have included **both syllabi deliberately.** I negotiated parts of the syllabus with the
+I deliberately included **both syllabi**.** I negotiated parts of the syllabus with the
 class rather than handing it down finished, and the difference between these two documents is
-the record of what students actually changed. It is also, read alongside the evaluations, where
+the record of what students actually changed. We changed the syllabi at two other checkpoints throughout the course.
+It is also, read alongside the evaluations, where
 the cost of that approach shows: the version students worked from was the one that emerged from
 negotiation, and expectations became harder to pin down as the course moved.
 
 **Assessment**
 
 - 📋 [Project worksheet](/assets/pdf/OR6205_Project_Worksheet.pdf)
-- 📚 [Project cases](/assets/pdf/OR6205_Project_Cases.pdf)
 - 📝 [Project report framework](/assets/pdf/OR6205_Project_Report_Framework.pdf)
 - ✅ [Project rubric](/assets/pdf/OR6205_Project_Rubric.pdf)
 
 **In class**
 
+- 📚 [Cases studies](/assets/pdf/OR6205_Project_Cases.pdf)
 - 📝 [Sample in-class exercises (20 February 2026)](/assets/pdf/OR6205_InClass_Exercises.pdf)
 - 🎞️ [Slides — Introduction to Linear Programming](/assets/pdf/OR6205_Slides_Intro_to_LP.pdf)
 - 🎞️ [Slides — The Simplex Method, Part I](/assets/pdf/OR6205_Slides_Simplex_Method_1.pdf)
