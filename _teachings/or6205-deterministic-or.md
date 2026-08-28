@@ -99,23 +99,29 @@ account of the term, and the criticism has been more useful to me than the prais
 
 ### Two design decisions behind the challenge and learning scores
 
-**All the active work happened in class.** Every exercise, formulation, and application was
-done in the room; outside class I assigned reading and the group project, but no problem sets.
-The evaluations track that decision almost exactly: in-class sessions rated **4.40**, above the
-department, while out-of-class assignments rated **3.80**, well below. Students were reporting
-the course I actually built.
+**All the assessment happened in class, and it happened constantly.** Students worked small
+assignments in the room every single session, and I gave feedback and corrections on the spot,
+in the same class. The only work assigned outside class was reading. The evaluations track that
+design almost exactly: in-class sessions rated **4.40**, above the department, while out-of-class
+assignments rated **3.80**, well below. Students were reporting the course I actually built.
 
-The interesting part is that this was not a question of effort. Students reported spending
-**3–10 hours per week** on the course outside class, with a median of 5–7 and two of the five
-at 8–10. They were putting in the time. What they lacked was structure for it: reading and a
-project, but nothing that let them test their own understanding against a problem and find out
-whether they had it. One student asked for *more* reading; another wanted "more practical work"
-and said too much theory left them "less confident in my knowledge." Time spent without a way
-to check yourself does not feel like learning, and it does not feel like challenge.
+This was not a question of effort, either. Students reported spending **3–10 hours per week** on
+the course outside class, median 5–7, with two of the five at 8–10. They were tested daily and
+they were putting in the time.
 
-That is the design change I would make: **structured practice between sessions** — problem sets
-with worked solutions, so that the private struggle the in-class model removes gets deliberately
-put back.
+So why did challenge and perceived learning come in low? My reading is that **correction was
+always immediately available.** A student who got stuck got unstuck within minutes, with me or a
+classmate right there. That is excellent for actually learning something and it is poor for
+*feeling* that you have learned something, because the feeling is calibrated by remembered
+difficulty. Nobody in that room ever sat alone with a problem, got it wrong, and had to find
+their own way out. One student captured the consequence exactly: too much theory relative to
+practice left them "less confident in my knowledge." Confidence in your own knowledge is
+built by testing it unsupported, and my design never asked them to.
+
+The change I would make is not less in-class work — that part rated above the department and I
+would keep it. It is to add a small amount of **deliberately unsupported practice**: problems
+attempted alone, before the correction arrives, so students meet the difficulty on their own
+terms and can see what they can do without the room behind them.
 
 **The class was also small and unevenly prepared.** OR 6205 is introductory by design, and this
 cohort of five included two PhD students who had already met the material. In a class that size,
