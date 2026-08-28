@@ -82,13 +82,15 @@ attended; all five students who actually took the course responded.
 - In-class sessions were helpful for learning: **4.40** (dept. 4.34; equal to the university mean)
 
 *Below the departmental mean:*
+- The course was intellectually challenging: **3.80** (dept. 4.48, university 4.33)
+- Out-of-class work contributed to learning: **3.80** (dept. 4.44, university 4.36)
 - The syllabus was accurate and helpful in delineating expectations and course outcomes: **4.00** (dept. 4.56)
 - Overall teaching effectiveness: **4.20** (dept. 4.41)
-- Intellectual challenge, and how much students felt they learned: both below the departmental mean
 
 Read together, those two lists say something quite specific. **What happened in the room rated
-above the department. What framed it rated well below.** The largest single gap in my
-evaluations is the syllabus item, at 0.56 below the departmental mean.
+at or above the department. What surrounded it — the work outside class, and the structure
+setting expectations — rated well below.** The two largest gaps are intellectual challenge
+(0.68 below the departmental mean) and out-of-class work (0.64 below).
 
 Students were also specific in writing: transitions between topics were too abrupt, the balance
 tipped toward theory at the expense of applied practice, and the assigned textbook hindered more
@@ -98,12 +100,15 @@ account of the term, and the criticism has been more useful to me than the prais
 ### Two design decisions behind the challenge and learning scores
 
 **All active work happened in class.** The only out-of-class work I assigned was reading;
-every exercise, formulation, and application was done in the room. The in-class model itself
-worked — those sessions rated above the departmental mean. But it also meant students rarely
-had to sit alone with a hard problem between sessions, and I think that is part of why
-intellectual challenge and perceived learning came in low. Doing the work together makes it
-feel more tractable than it is, and students calibrate how much they have learned partly by how
-much they struggled unaided.
+every exercise, formulation, and application was done in the room. The evaluations track that
+decision almost exactly: in-class sessions rated **4.40**, above the department, while
+out-of-class work rated **3.80**, well below. Students were reporting the course I actually
+built.
+
+The cost shows up in the challenge score. Students rarely had to sit alone with a hard problem
+between sessions, and people calibrate how much they have learned partly by how much they
+struggled unaided. Working through problems together makes material feel more tractable than it
+is. That is a design choice I would make differently, not a misreading by the students.
 
 **The class was small and unevenly prepared.** OR 6205 is introductory by design, and this
 cohort included two PhD students who had already encountered the material. For them, much of
