@@ -99,27 +99,33 @@ account of the term, and the criticism has been more useful to me than the prais
 
 ### Two design decisions behind the challenge and learning scores
 
-**All active work happened in class.** The only out-of-class work I assigned was reading;
-every exercise, formulation, and application was done in the room. The evaluations track that
-decision almost exactly: in-class sessions rated **4.40**, above the department, while
-out-of-class work rated **3.80**, well below. Students were reporting the course I actually
-built.
+**All the active work happened in class.** Every exercise, formulation, and application was
+done in the room; outside class I assigned reading and the group project, but no problem sets.
+The evaluations track that decision almost exactly: in-class sessions rated **4.40**, above the
+department, while out-of-class assignments rated **3.80**, well below. Students were reporting
+the course I actually built.
 
-The cost shows up in the challenge score. Students rarely had to sit alone with a hard problem
-between sessions, and people calibrate how much they have learned partly by how much they
-struggled unaided. Working through problems together makes material feel more tractable than it
-is. That is a design choice I would make differently, not a misreading by the students.
+The interesting part is that this was not a question of effort. Students reported spending
+**3–10 hours per week** on the course outside class, with a median of 5–7 and two of the five
+at 8–10. They were putting in the time. What they lacked was structure for it: reading and a
+project, but nothing that let them test their own understanding against a problem and find out
+whether they had it. One student asked for *more* reading; another wanted "more practical work"
+and said too much theory left them "less confident in my knowledge." Time spent without a way
+to check yourself does not feel like learning, and it does not feel like challenge.
 
-**The class was small and unevenly prepared.** OR 6205 is introductory by design, and this
-cohort included two PhD students who had already encountered the material. For them, much of
-the core content was not new. In a class of five, two students well past the intended baseline
-moves the average on a question about challenge.
+That is the design change I would make: **structured practice between sessions** — problem sets
+with worked solutions, so that the private struggle the in-class model removes gets deliberately
+put back.
 
-I offer the second as context, not as a defence — a course should be challenging for the
-students who are actually in it. Both point the same way: an introductory course with mixed
-preparation needs **differentiated challenge**, a core path plus extension problems for students
-who arrive ahead, and enough structured practice outside class that students test their
-understanding without the room to lean on.
+**The class was also small and unevenly prepared.** OR 6205 is introductory by design, and this
+cohort of five included two PhD students who had already met the material. In a class that size,
+students well past the intended baseline move an average on a question about challenge.
+
+I put that second, and lightly, because the written feedback points more clearly at the first
+explanation than at this one — the students who rated challenge lowest asked for *more* material
+and *more* practice, which is not what being over-prepared for a course sounds like. Both roads
+lead to the same fix in any case: an introductory course with mixed preparation needs
+**differentiated challenge**, a core path plus extension work for students who arrive ahead.
 
 ---
 
