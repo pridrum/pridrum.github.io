@@ -103,46 +103,94 @@ Five responses is not a sample, and none of these differences would survive a si
 What the report gives me is not a measurement but a set of specific complaints from people who
 were in the room, and those have been more useful than the praise.
 
-### What the report actually says
+### Reading the term: three accounts, kept separately
 
-My first reading of these numbers was too kind to me. I told myself that everything below the
-departmental mean measured whether students could tell where they stood, and that nothing about
-the teaching itself rated low. That is not true. **Used class time effectively came in at 3.80
-against a departmental 4.42, the largest gap on any instructor question, with a course median of
-3 against a departmental median of 5.** Preparedness and clarity also came in below. Those are
-questions about what I did in the room.
+I teach the way I do research, so I will not collapse this into one tidy story. There are three
+sources of evidence about what happened in OR 6205 — the numeric report, what students wrote in
+their own words, and what I observed while running the course — and they do not fully agree. I
+keep all three below, in the order I formed them, and I mark the places where they contradict
+each other rather than quietly retiring whichever one lost. A course is not an experiment with a
+clean identification strategy, and five responses is not a sample. Disagreement between sources
+is information, not an error to be resolved.
 
-A student described the cause more precisely than I had: in class we would be working on one
-topic and then shift "very quickly to a different topic that becomes too high-level for me to
-understand." I was moving between levels of abstraction without marking the transitions. The
-sessions themselves were engaging, and they rated that way at 4.40, but the thread running
-through them was visible to me and not to the room. That single mechanism explains the class
-time score, the perception that I was less prepared than I was, the clarity score, and why
-students who found the sessions helpful still could not say what they had learned.
+#### Account 1 — what I concluded first, from the design
 
-The same student named a second cause. The only work I set outside class was reading from a
-textbook they found confusing, and they suggested videos instead. Out-of-class assignments rated
-3.80 and course materials 4.20 — and the material students rated highest in the entire report,
+*Written before the departmental and university comparisons were available.*
+
+All the assessment happened in class, and it happened constantly. Students worked small
+assignments in the room every single session, and I gave feedback and corrections on the spot,
+in the same class. The only work assigned outside class was reading. The evaluations track that
+design almost exactly: in-class sessions rated **4.40**, above the department, while out-of-class
+assignments rated **3.80**, well below. Students were reporting the course I actually built.
+
+This was not a question of effort. Students reported spending **3 to 10 hours per week** on the
+course outside class, median 5 to 7, with two of the five at 8 to 10. They were tested daily and
+they were putting in the time.
+
+So why did challenge and perceived learning come in low? Because **none of that daily work was
+graded.** It was purely formative — can you solve this, where did it go wrong — with correction
+arriving within minutes, from me or from a classmate. I made that choice deliberately: I wanted
+students attempting problems without the fear of a mark attached. What I did not anticipate is
+that I had also removed the instrument students use to answer the question *how am I doing?*
+Correction in the moment answers "was this answer right?" It never accumulates into an answer to
+"am I getting better at this?" One student put the consequence plainly: too much theory relative
+to practice left them "less confident in my knowledge."
+
+The class was also small and unevenly prepared. OR 6205 is introductory by design, and this
+cohort of five included two doctoral students who had already met the material. In a class that
+size, students well past the intended baseline move an average on a question about challenge,
+and balancing what to prioritise was genuinely hard.
+
+#### Account 2 — what students wrote
+
+One student described a mechanism I had not named. In class we would be working on one topic and
+then shift "very quickly to a different topic that becomes too high-level for me to understand."
+Read against the numbers, that says I was moving between levels of abstraction without marking
+the transitions: the sessions themselves were engaging, and rated so at 4.40, but the thread
+running through them was visible to me and not to the room.
+
+The same student named a second thing. The only work I set outside class was reading from a
+textbook they found confusing, and they asked for videos instead. Out-of-class assignments rated
+3.80 and course materials 4.20 — while the material students rated highest in the entire report,
 at 4.80 against a departmental 4.45, was the online scaffolding library of videos, readings, and
-worked media I had built to sit alongside the sessions. My students were telling me that I had
+worked media I had built to sit alongside the sessions. My students were telling me I had
 already made the better version and had not assigned it.
 
-Effort was not the problem. Students reported spending **3 to 10 hours per week** outside class,
-median 5 to 7, with two of the five at 8 to 10. They were working. They could not see what the
-work was adding up to.
+#### Account 3 — the full report, and where it contradicts me
 
-There is a third cause, and it is mine as well. Nothing across the term gave students a graded
-signal of progress. Daily in-class work was formative by design — can you solve this, where did
-it go wrong, with correction arriving within minutes — because I wanted students attempting
-problems without a mark attached. Correction in the moment answers "was this answer right?" It
-never accumulates into an answer to "am I getting better at this?"
+When the complete report arrived with departmental and university means on all nineteen items,
+one thing I had written turned out to be wrong, and two remain unsettled.
+
+**Contradicted.** I had written that every item below the departmental mean measured whether
+students could tell where they stood, and that none of them was about the teaching itself. The
+full report does not support that. **Used class time effectively came in at 3.80 against a
+departmental 4.42 — the largest gap on any instructor question, with a course median of 3
+against a departmental median of 5.** Preparedness rated 4.20 against 4.58 and clarity 4.20
+against 4.36. Those are questions about what I did in the room. The claim was a reasonable
+inference from the four instructor items I had at the time and it does not survive the eight.
+I have corrected it rather than deleted it, because the reasoning that produced it is the same
+reasoning I would want a student to show me.
+
+**Unsettled, and I hold both.** My design explanation and the students' transitions explanation
+are not the same claim, and the evidence does not choose between them. Ungraded formative work
+would depress *perceived learning* without touching *class time effectiveness*; unmarked
+transitions would depress both. The transitions account fits more of the report. But I was in
+the room every session and the report is five responses, four of which left the relevant
+comment blank, so I am not willing to discard what I observed on that basis.
+
+**Also unsettled: the cohort explanation.** Two doctoral students in a class of five genuinely
+does move a mean on a question about challenge, and that is arithmetic, not an excuse. Against
+it, the students who rated challenge lowest asked for *more* material and *more* practice, which
+is not what being over-prepared sounds like. I keep the explanation and I keep the objection to
+it, and I decline to let one number settle a question about five people.
 
 ### What I changed
 
-Three causes, three specific changes, none of them a resolution to try harder.
+The accounts disagree about weighting; they converge on what to do. Each change addresses
+something all three sources point at.
 
 **I sequence and announce transitions.** The day's thread is stated at the start of a session and
-closed at the end, and I say out loud when a discussion is moving from formulation to theory and
+closed at the end, and I say out loud when a discussion moves from formulation to theory and
 back, so a change in abstraction is an announced event rather than something students have to
 detect while also learning the material.
 
@@ -154,13 +202,9 @@ reference rather than the path through the course.
 before the correction arrives. The ungraded in-class practice stays, because it is doing real
 work. What is added around it is evidence students can read for themselves.
 
-One further note, offered as context and not as an explanation. OR 6205 is introductory by
-design, and this cohort of five included two doctoral students who had already met the material,
-which in a class this size moves an average on a question about challenge. I mention it last and
-briefly, because the written feedback points elsewhere: the students who rated challenge lowest
-asked for *more* material and *more* practice, which is not what being over-prepared sounds like.
-Both readings lead to the same fix in any case, which is differentiated challenge — a core path
-plus extension work for students who arrive ahead.
+**I differentiate challenge.** An introductory course with mixed preparation needs a core path
+plus extension work for students who arrive ahead, whichever account of the challenge score
+turns out to be right.
 
 ---
 
