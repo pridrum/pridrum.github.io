@@ -103,9 +103,7 @@ literature almost always assumes either that only one actor intervenes on a give
 that multiple interventions combine independently. Neither matches how task forces actually
 work, and getting it wrong changes where the budget should go.
 
-Rather than pick one algebraic form for how repeated interventions combine, I define the class
-of functions satisfying four axioms, and show that the standard independence assumption sits
-exactly at the boundary of that class. The paper gives an exact linearization with dual bounds,
+The paper gives an exact linearization with dual bounds,
 and asks two questions aimed at a management audience: **what does a decision-maker lose by
 assuming independence**, and **how large is the coordination gap** between a centralized task
 force and the same agencies spending the same total separately?
@@ -118,7 +116,7 @@ theory and complexity paper.
 
 Earlier work developed a Bayesian decision model with cost–benefit analysis for U.S. ports of
 entry, determining when officers should escalate a screening for possible trafficking. At UFRGS
-in Brazil I applied data envelopment analysis, alongside structured expert judgment, to the
+in Brazil, I applied data envelopment analysis, alongside structured expert judgment, to the
 network of services for survivors of domestic and gender-based violence across 450+
 municipalities — mapping provider flows, survivor pathways, and information pathways through
 the system. The finding that mattered was about portfolio rather than volume: the *range* of
