@@ -24,10 +24,11 @@ social: true        # show social icons at bottom
 I study **how an organization with too few resources decides where to intervene**, when the
 outcomes are hard to measure and the data is bad.
 
-I have asked that question of a middle school, a league of soccer clubs, a network of women's
-crisis centers, a border checkpoint, a federal labor inspectorate, and a set of anti-trafficking
-agencies working the same cases. The setting has changed each time, and so has the method. The
-question has not.
+I have worked to improve resource allocation under similar constraints across very different
+contexts: a middle school, a league of soccer clubs, a network of women's crisis centers, a
+border checkpoint, Department of Labor inspections, and a set of anti-trafficking agencies
+working the same cases. The setting has changed each time, and so has the method. The question
+has not.
 
 I am a PhD candidate in Industrial Engineering at Northeastern University, in the
 [Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com/kayseleemaass) with
@@ -35,14 +36,15 @@ I am a PhD candidate in Industrial Engineering at Northeastern University, in th
 2 December 2026**. My dissertation develops **network interdiction models for multi-agency
 coordination** — what happens to an enforcement decision when several agencies act on the same
 part of a network and their actions do not combine independently. The application is labor
-trafficking in U.S. agricultural supply chains, which is a supply chain compliance problem:
-producers using H-2A visa labor, an inspectorate that can audit only a fraction of them, and
-downstream buyers with almost no visibility into conditions upstream.
+trafficking: helping the agencies that work against it make better decisions with limited,
+hidden information and very few resources.
 
 What holds the work together is a concern with **decisions whose costs and benefits fall on
-different people**. A model that allocates inspectors, routes children to school, or targets an
-enforcement operation is not only a technical object. It encodes whose interests count — and
-that, to me, is the interesting part of the problem rather than a caveat to it.
+different people**. A model that finds the farms most likely to involve labor trafficking, so
+that Department of Labor inspections can be sent there — or one that identifies where
+enforcement operations should be collaborating with social services, and where they should not
+— is not only a technical problem. It depends on the perspective of the decision maker, and
+that is the core of the modeler's problem.
 
 I came to engineering from a Fine Arts degree, through finance, without the standard
 prerequisites. That permanently shaped how I teach.
