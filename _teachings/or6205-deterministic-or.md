@@ -175,14 +175,9 @@ negotiation, and expectations became harder to pin down as the course moved.
 **In class**
 
 - 📝 [Sample in-class exercises (20 February 2026)](/assets/pdf/OR6205_InClass_Exercises.pdf)
-- 🎞️ [Slides — Duality Theory I](/assets/pdf/OR6205_Slides_Duality_1.pdf)
-- 🎞️ [Slides — Duality Theory II](/assets/pdf/OR6205_Slides_Duality_2.pdf)
-- 🎞️ [Slides — Network Optimization](/assets/pdf/OR6205_Slides_Network_Optimization.pdf)
+- 🎞️ [Slides — Introduction to Linear Programming](/assets/pdf/OR6205_Slides_Intro_to_LP.pdf)
+- 🎞️ [Slides — The Simplex Method, Part I](/assets/pdf/OR6205_Slides_Simplex_Method_1.pdf)
 - 🔧 [Gurobi and Python guideline](/assets/pdf/OR6205_Gurobi_Guideline.pdf)
-
-The duality slides are where the geometric explanation of the dual as an upper bound on the
-primal lives — the point in the course where a student who had been engaged but confused said,
-"That is so cool."
 
 ---
 
