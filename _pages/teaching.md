@@ -18,8 +18,8 @@ in operations research, supply chain, lean operations, quality, and manufacturin
 I started as a middle school teacher in Brazil, where I learned that content delivery is the
 easy part. The harder work is listening, belonging, and meeting students where they are.
 
-In 2026 I received the **College of Engineering Outstanding Graduate Teaching Award** from
-Northeastern University — a college-level award.
+In 2026, I received the **College of Engineering Outstanding Graduate Teaching Award** from
+Northeastern University, a college-level award.
 
 ---
 
@@ -56,7 +56,7 @@ As a teaching assistant for **IE 4516: Quality Assurance**, I led a complete red
 course teaching materials, restructuring them around experimental, simulation-based, and
 project-based learning.
 
-That experience is what convinced me course design and teaching are the same job: you cannot
+That experience is what convinced me that course design and teaching are the same job: you cannot
 run an active classroom on materials built for a passive one.
 
 The materials also got tested. In **IE 5617: Lean Concepts and Applications** (Summer I 2025)
@@ -73,7 +73,7 @@ My research is about interventions that can make things worse for the people the
 help. My teaching asks students the same question.
 
 I use a school busing case: minimize transportation cost after a road closure. The model is
-clean and solvable, and it is also wrong — it optimizes cost while ignoring what families
+clean and solvable, and it is also wrong. It optimizes cost while ignoring what families
 actually care about, including community, student well-being, and equity. Every student has
 been to school and had to get there somehow, so they can feel what the objective function
 leaves out. When we optimize for cost, we give a voice only to the people who care about cost.
