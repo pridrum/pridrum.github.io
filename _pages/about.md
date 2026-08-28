@@ -46,8 +46,8 @@ enforcement operations should be collaborating with social services, and where t
 — is not only a technical problem. It depends on the perspective of the decision maker, and
 that is the core of the modeler's problem.
 
-I came to engineering from a Fine Arts degree, through finance, without the standard
-prerequisites. That permanently shaped how I teach.
+I came to engineering from a Fine Arts degree, through finance, self-studying and finding my way
+and my joy throughout the process. That has shaped how I think about teaching.
 
 **Research interests:** Resource allocation in constrained service and supply systems ·
 Prescriptive analytics for multi-agency coordination · Supply chain compliance and labor risk ·
