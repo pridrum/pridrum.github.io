@@ -109,19 +109,33 @@ This was not a question of effort, either. Students reported spending **3–10 h
 the course outside class, median 5–7, with two of the five at 8–10. They were tested daily and
 they were putting in the time.
 
-So why did challenge and perceived learning come in low? My reading is that **correction was
-always immediately available.** A student who got stuck got unstuck within minutes, with me or a
-classmate right there. That is excellent for actually learning something and it is poor for
-*feeling* that you have learned something, because the feeling is calibrated by remembered
-difficulty. Nobody in that room ever sat alone with a problem, got it wrong, and had to find
-their own way out. One student captured the consequence exactly: too much theory relative to
-practice left them "less confident in my knowledge." Confidence in your own knowledge is
-built by testing it unsupported, and my design never asked them to.
+So why did challenge and perceived learning come in low? Because **none of that daily work was
+graded.** It was purely formative — can you solve this, where did it go wrong — with correction
+arriving within minutes, from me or from a classmate. I made that choice deliberately: I wanted
+students attempting problems without the fear of a mark attached. What I did not anticipate is
+that I had also removed the instrument students use to answer the question *how am I doing?*
 
-The change I would make is not less in-class work — that part rated above the department and I
-would keep it. It is to add a small amount of **deliberately unsupported practice**: problems
-attempted alone, before the correction arrives, so students meet the difficulty on their own
-terms and can see what they can do without the room behind them.
+Look at which items fell below the departmental mean and the pattern is not really about
+difficulty at all:
+
+| What students rated **high** | What students rated **low** |
+| :--- | :--- |
+| In-class sessions were helpful (4.40) | The course was intellectually challenging (3.80) |
+| Instructor provided sufficient feedback (4.60) | I learned a lot in this course (3.80) |
+| Respectful and inclusive environment (4.60) | Out-of-class assignments were helpful (3.80) |
+| Displayed enthusiasm (4.80) | Syllabus delineated expectations (4.00) |
+
+The experience of the course rated well. **Every measure of knowing where you stand rated
+badly.** Students could not tell how much they had learned, because nothing ever told them.
+Correction in the moment answers "was this answer right?" but it never accumulates into an
+answer to "am I getting better at this?" One student put the consequence plainly: too much
+theory relative to practice left them "less confident in my knowledge."
+
+The fix is not to grade everything, which would reintroduce exactly the anxiety the ungraded
+work was meant to remove, and it is not less in-class work, which rated above the department. It
+is to give students a **calibrated signal of progress**: a few low-stakes graded checkpoints
+across the term, and some practice attempted unsupported before the correction arrives, so
+students can see for themselves what they can do alone and how that changes week to week.
 
 **The class was also small and unevenly prepared.** OR 6205 is introductory by design, and this
 cohort of five included two PhD students who had already met the material. In a class that size,
