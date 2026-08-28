@@ -21,33 +21,30 @@ selected_papers: true   # show selected publications on homepage
 social: true        # show social icons at bottom
 ---
 
-I study **how an organization with too few resources decides where to intervene**, when the
-outcomes are hard to measure and the data is bad.
+I study **how organizations with limited resources decide where to intervene**, especially when
+outcomes are hard to measure, and the available data is unreliable.
 
-I have worked to improve resource allocation under similar constraints across very different
-contexts: a middle school, a league of soccer clubs, a network of women's crisis centers, a
-border checkpoint, Department of Labor inspections, and a set of anti-trafficking agencies
-working the same cases. The setting has changed each time, and so has the method. The question
-has not.
+I have worked on improving resource allocation under similar constraints in a variety of
+settings, including a middle school, a soccer league, a network of women’s crisis centers, a
+border checkpoint, Department of Labor inspections, and a group of anti-trafficking agencies
+working on the same cases. Each time, the setting and method changed, but the main question stayed the same.
 
-I am a PhD candidate in Industrial Engineering at Northeastern University, in the
-[Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com/kayseleemaass) with
-[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/), **defending on
-2 December 2026**. My dissertation develops **network interdiction models for multi-agency
-coordination** — what happens to an enforcement decision when several agencies act on the same
-part of a network and their actions do not combine independently. The application is labor
-trafficking: helping the agencies that work against it make better decisions with limited,
+I am now a PhD candidate in Industrial Engineering at Northeastern University, in the 
+[Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com), working with
+[Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/).I scheduled my defense on
+December 2, 2026. My dissertation develops network interdiction models for multi-agency
+coordination. I look at what happens to enforcement decisions when several agencies act on the same
+part of a network, and their actions are not independent. The main application is labor
+trafficking. I aim to help agencies working against labor trafficking make better decisions with limited,
 hidden information and very few resources.
 
-What holds the work together is a concern with **decisions whose costs and benefits fall on
-different people**. A model that finds the farms most likely to involve labor trafficking, so
-that Department of Labor inspections can be sent there — or one that identifies where
-enforcement operations should be collaborating with social services, and where they should not
-— is not only a technical problem. It depends on the perspective of the decision maker, and
-that is the core of the modeler's problem.
+**What connects all of my work is a focus on decisions where the costs and benefits affect different people**.
+For example, a model that identifies the farms most likely to involve labor trafficking, so
+that Department of Labor inspections can be sent there, or one that shows when enforcement operations should 
+work with social services and where they should not. It is not just a technical problem. It depends on the decision maker's perspective, and that is at the heart of the modeler’s challenge.
 
-I came to engineering from a Fine Arts degree, through finance, self-studying and finding my way
-and my joy throughout the process. That has shaped how I think about teaching.
+I came to engineering after earning a Fine Arts degree, working in finance, teaching myself new skills, 
+and finding my own path and my joy along the way. This experience has shaped how I approach teaching.
 
 **Research interests:** Resource allocation in constrained service and supply systems ·
 Prescriptive analytics for multi-agency coordination · Supply chain compliance and labor risk ·
