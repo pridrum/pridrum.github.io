@@ -2,7 +2,6 @@
 layout: page
 title: Dissertation · Collaborating Agents & Network Interdiction
 description: How multi-agency collaboration improves labor trafficking interdiction outcomes
-img: assets/img/projects/network_interdiction.jpg  # optional
 importance: 1
 category: research
 related_publications: true

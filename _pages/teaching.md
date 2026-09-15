@@ -2,18 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Eight university courses, three universities, 300+ students · 2026 College of Engineering Outstanding Graduate Teaching Award
+description: Eight university courses, four universities, 300+ students · 2026 College of Engineering Outstanding Graduate Teaching Award
 nav: true
-nav_order: 6
+nav_order: 2
 calendar: false
 ---
 
 How do we help students use technical skills in real decisions? That question runs through
 everything I teach, and it is harder than it sounds. Students can usually solve a clean
 formulation. They struggle when the objectives conflict, the data is incomplete, and someone
-has to decide anyway — which is every decision they will actually face at work.
+has to decide anyway, which is every decision they will actually face at work.
 
-I have taught **eight university courses across three universities and more than 300 students**,
+I have taught **eight university courses across four universities and more than 300 students**,
 in operations research, supply chain, lean operations, quality, and manufacturing planning.
 I started as a middle school teacher in Brazil, where I learned that content delivery is the
 easy part. The harder work is listening, belonging, and meeting students where they are.
@@ -28,7 +28,7 @@ Northeastern University, a college-level award.
 The most concrete thing I can say about my teaching is that my courses change during the
 semester because of what students tell me. In OR 6205 I negotiated parts of the syllabus with
 the class rather than handing it down finished, ran "muddiest point" checks, and kept several
-feedback channels open, including anonymous ones — because the students most likely to be
+feedback channels open, including anonymous ones, because the students most likely to be
 struggling are the least likely to say so in front of everyone.
 
 Then I act on it. I moved from slides to working problems live on the board, because students
@@ -36,10 +36,10 @@ told me the slides moved faster than their thinking. I replaced generic examples
 connected to their own contexts, and added more worked examples when students said the balance
 had tipped too far toward theory.
 
-> *"I did like that she was very happy to teach this course — I could tell that she loves
+> *"I did like that she was very happy to teach this course cause I could tell that she loves
 > this topic so much, and I like that she was able to listen to our feedback to make the
 > course better."*  
-> — OR 6205 student, Spring 2026 (TRACE evaluation)
+> OR 6205 student, Spring 2026 (TRACE evaluation)
 
 I also know where I am still improving. In that first semester as instructor of record,
 students rated intellectual challenge and perceived learning below the departmental mean, and
@@ -72,11 +72,15 @@ each term, noted that the sessions I taught "came out higher than when I do them
 My research is about interventions that can make things worse for the people they were meant to
 help. My teaching asks students the same question.
 
-I use a school busing case: minimize transportation cost after a road closure. The model is
-clean and solvable, and it is also wrong. It optimizes cost while ignoring what families
-actually care about, including community, student well-being, and equity. Every student has
-been to school and had to get there somehow, so they can feel what the objective function
-leaves out. When we optimize for cost, we give a voice only to the people who care about cost.
+I use a school busing case: a district closes a middle school and has to reassign every student
+to the three that remain, minimizing total busing cost. The model is clean and solvable, and it is
+also wrong. It optimizes cost while ignoring what families actually care about, including
+community, student well-being, and equity. Every student has been to school and had to get there
+somehow, so they can feel what the objective function leaves out. When we optimize for cost, we
+give a voice only to the people who care about cost.
+
+The [questions I ask before anyone formulates anything](/teaching/busing-case/) are on their own
+page.
 
 Students leave my classroom able to build the model. They also leave knowing that a model is a
 limited representation, that it encodes whose interests count, and that they carry
@@ -84,24 +88,35 @@ responsibility for how it is used.
 
 ---
 
-## Watch me teach
+## The evidence, including the parts that cost me something
 
-Video tutorials I built for Operations Research during the remote-teaching transition at UTRGV:
+Each of these is a page rather than a claim. The files are there to be read, not cited.
 
-- [Tutorial 1](https://youtu.be/GOG1Yf72Pow) · [Tutorial 2](https://youtu.be/gbPlL9ZMawA) · [Tutorial 3](https://youtu.be/lSACgCrVY8w) · [Tutorial 4](https://youtu.be/rQ6V6cQWGy8)
+- [A syllabus my students rewrote](/teaching/negotiated-syllabus/) · both versions of the same course, and what the change cost me
+- [My evaluations, including the bad ones](/teaching/evaluations/) · the full TRACE report and my reading of the low items
+- [Ranked against the instructor's own sessions](/teaching/ranking/) · all 17 sessions, and what I wrote to a student contesting a grade
+- [The busing case](/teaching/busing-case/) · the questions I ask before anyone formulates anything
+- [The design of experiments game](/teaching/anova-game/) · ANOVA and a factorial design, taught through Doctor Who villains
+- [Games and smaller pieces](/teaching/games/) · emergency dispatch, family scheduling, microteaching plans
+- [Exercises and assessment](/teaching/exercises/) · in both the student and the worked versions
+- [A course I designed and have not yet taught](/teaching/course-design/) · Systems Engineering in Public Programs
+- [Watch me teach](/teaching/videos/) · video tutorials built during the remote teaching transition
 
 ---
 
 ## What I am prepared to teach
 
-**Ready now** — Operations Management · Supply Chain Management · Supply Chain Analytics ·
-Operations Research / Deterministic Optimization · Prescriptive Analytics · Business Analytics
-(core) · Business Statistics · Lean Operations and Process Improvement · Quality Management ·
-Engineering Economics · Project Management · Python for Business Analytics
+**Ready to teach immediately.** Operations Management · Supply Chain Management · Supply Chain
+Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics · Business
+Analytics (core) · Introduction to Data Analysis · Lean Operations and Process Improvement ·
+Quality Management · Engineering Economy and Engineering Economics and Finance · Project Management
 
-**With one semester of preparation** — Predictive Analytics · Data Visualization ·
-Simulation Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain
-Management
+**Ready with one semester of preparation.** Predictive Analytics · Data Visualization · Simulation
+Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain Management ·
+Python for Business Analytics
+
+**Ready to develop.** Operations Management and Social Impact (elective) · Sports and Performance
+Analytics (elective)
 
 ---
 

@@ -2,8 +2,10 @@
 layout: page
 title: Engineering, Design & Technology
 description: Project Coordinator & Middle School Teacher · Universidade Federal do Rio de Janeiro · 2006–2009
-img: assets/img/teaching/ufrj.jpg   # optional thumbnail
-importance: 5
+year: 2009
+term: 2006 to 2009
+instructor: Project coordinator and teacher
+importance: 7
 category: Universidade Federal do Rio de Janeiro
 ---
 

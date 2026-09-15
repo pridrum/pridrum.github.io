@@ -1,6 +1,6 @@
 cv:
   name: Priscila de Azevedo Drummond
-  label: PhD Candidate, Industrial Engineering — Operations and Supply Chain
+  label: PhD Candidate, Industrial Engineering. Operations and Supply Chain
   email: priscilaadrummond@gmail.com
   location: Boston, MA
   image: ""
@@ -26,7 +26,7 @@ cv:
         highlights:
           - "Dissertation: *Collaborating Agents and Network Interdiction Models*"
           - "Advisor: Dr. Kayse Lee Maass. Committee: Dr. Shahin Shahrampour, Dr. Gabriela Gongora Svartzman"
-          - "Expected December 2026 — defense scheduled 2 December 2026"
+          - "Expected December 2026, defense scheduled 2 December 2026"
 
       - institution: Northeastern University
         location: Boston, MA
@@ -66,7 +66,7 @@ cv:
 
       - institution: Universidade Federal do Rio de Janeiro
         location: Rio de Janeiro, Brazil
-        area: Fine Arts — Product Design
+        area: Fine Arts, Product Design
         studyType: BA
         start_date: 2007
         end_date: 2011
@@ -82,14 +82,14 @@ cv:
     Publications:
       - title: "Enhancing detection of labor violations in the agricultural sector: A multilevel generalized linear regression model of H-2A violation counts"
         authors:
-          - Ali Jafari
-          - Sabrina Bhimani
+          - Azeroo Jafari
+          - Shawn Bhimani
           - Priscila A. Drummond
-          - Dan Nishigaya
+          - Dominic Nishigaya
           - Aidong A. Ding
           - Amy Farrell
           - Kayse Lee Maass
-        publisher: "PLOS ONE, 19(5), e0302960 — refereed journal article"
+        publisher: "PLOS ONE, 19(5), e0302960. Refereed journal article"
         releaseDate: 2024-05-01
         url: https://doi.org/10.1371/journal.pone.0302960
         summary: >-
@@ -101,7 +101,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Job market paper — working paper, submission September 2026"
+        publisher: "Job market paper. Working paper, results analysis. Target: Production and Operations Management, September 2026"
         releaseDate: 2026-09-01
         summary: >-
           What happens to a coordinated enforcement decision when several agencies act on the
@@ -115,7 +115,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Under review at Networks"
+        publisher: "Working paper. Revision complete. Target: Networks, submitting September 2026"
         releaseDate: 2026-08-01
         summary: >-
           A PRISMA-ScR review registered on OSF, across four databases with two independent
@@ -124,8 +124,8 @@ cv:
 
       - title: "Network interdiction to improve labor trafficking detection in the U.S. agricultural sector"
         authors:
-          - Ali Jafari
-          - Sabrina Bhimani
+          - Azeroo Jafari
+          - Shawn Bhimani
           - Priscila A. Drummond
           - Amy Farrell
           - Kayse Lee Maass
@@ -135,11 +135,11 @@ cv:
           Applies network interdiction to collaborative detection across the Department of
           Labor and the Department of Homeland Security.
 
-      - title: "Structural results and complexity for network interdiction with dependent multiple interventions"
+      - title: "Optimal bounds and complexity for network interdiction with dependent multiple interventions"
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper"
+        publisher: "Working paper. Results analysis. Target: Naval Research Logistics or IISE Transactions"
         releaseDate: 2026-01-01
         summary: >-
           Under a logarithmic transform the problem is shortest-path interdiction and therefore
@@ -147,21 +147,31 @@ cv:
           independent of the choice of function, and the optimal intervention can be restricted
           to a candidate set determined by which parts of the network are in play.
 
-      - title: "Algorithms for network interdiction problems with nonlinear attacks"
+      - title: "Algorithms for network interdiction problems with non-convex functional attacks"
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper"
+        publisher: "Working paper. Model and algorithm ready, coding in progress. Target: EJOR, Computers and Operations Research, or Computers and Industrial Engineering"
         releaseDate: 2026-01-01
         summary: >-
-          A three-phase procedure — structure recovery, depth determination, and budget
-          allocation with re-optimization after each commitment — verified against exhaustive
+          A three-phase procedure, structure recovery, depth determination, and budget
+          allocation with re-optimization after each commitment, verified against exhaustive
           enumeration on instances small enough to permit it, and reported by structural case.
+
+      - title: "Unintended consequences of enforcement in labor trafficking networks: geographic displacement, operational fragmentation, and compliance switching"
+        authors:
+          - Priscila A. Drummond
+          - Kayse Lee Maass
+        publisher: "Research in progress. Ideation and literature review stage, resuming after degree completion"
+        releaseDate: 2026-01-01
+        summary: >-
+          When poorly coordinated enforcement displaces an operation or fragments it rather
+          than disrupting it, and what a decision-maker can do about that in advance.
 
       - title: "Active learning experiences: A teaching fellowship in industrial engineering education"
         authors:
           - Priscila A. Drummond
-        publisher: "Working paper, in preparation"
+        publisher: "Research in progress. Data collection, cleaning and initial literature review ready, resuming after degree completion"
         releaseDate: 2026-01-01
         summary: >-
           Narrative and autoethnographic analysis of how mentored teaching shapes an
@@ -171,7 +181,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Hiram Moya
-        publisher: "Decision Sciences Institute Proceedings — refereed conference proceedings"
+        publisher: "Decision Sciences Institute Proceedings. Refereed conference proceedings"
         releaseDate: 2020-11-01
         summary: >-
           A Bayesian decision model with cost-benefit analysis for when officers at U.S. ports
@@ -179,7 +189,7 @@ cv:
 
     Experience:
       - company: Northeastern University
-        position: Instructor of Record — OR 6205, Deterministic Operations Research
+        position: Instructor of Record, OR 6205 Deterministic Operations Research
         location: Boston, MA
         start_date: 2026-01-01
         end_date: 2026-05-01
@@ -256,7 +266,7 @@ cv:
           - "Designed and taught experiential modules integrating engineering and design for students aged 11-16 through boat design and construction"
 
       - company: COMLURB, MRS Global, Nano Presentes, Sulamérica Seguros
-        position: Earlier professional experience — finance, design, and operations
+        position: Earlier professional experience in finance, design, and operations
         location: Rio de Janeiro, Brazil
         start_date: 2010
         end_date: 2016
@@ -288,17 +298,17 @@ cv:
         awarder: University of Texas Rio Grande Valley
 
     Grants and Fellowships:
-      - bullet: "**Dissertation Completion Fellowship**, Northeastern University, 2026 — $14,730 stipend, 100% tuition scholarship, and health plan support"
-      - bullet: "**Teaching Fellowship**, Northeastern University, 2025 — mentored teaching, OR 6205"
-      - bullet: "**PhD Network and MIE Department Travel Funds**, Northeastern University — $1,000 (2025), $1,000 (2024), $1,000 (2023), $500 (2022)"
-      - bullet: "**Dean's Chair Fellowship**, Northeastern University, 2021 — tuition and stipend"
+      - bullet: "**Dissertation Completion Fellowship**, Northeastern University, 2026, $14,730 stipend, 100% tuition scholarship, and health plan support"
+      - bullet: "**Teaching Fellowship**, Northeastern University, 2025, mentored teaching, OR 6205"
+      - bullet: "**PhD Network and MIE Department Travel Funds**, Northeastern University, $1,000 (2025), $1,000 (2024), $1,000 (2023), $500 (2022)"
+      - bullet: "**Dean's Chair Fellowship**, Northeastern University, 2021, tuition and stipend"
       - bullet: "**Presidential Graduate Research Award**, University of Texas Rio Grande Valley, 2019"
-      - bullet: "**CNPq Research Award**, Brazil, 2017 — competitive research scholarship"
+      - bullet: "**CNPq Research Award**, Brazil, 2017, competitive research scholarship"
 
     Grant-Supported Research:
       - bullet: "*Listed to show the funded programs my dissertation sits within. I am not a PI or co-PI on either award; my role was Graduate Research Assistant.*"
-      - bullet: "**NSF #1935618 — ISN2: Coordinated Interdiction for Disruption of Labor Trafficking in the Agricultural Sector.** Division of Civil, Mechanical, and Manufacturing Innovation, Operations Engineering program. PI: Kayse L. Maass; Co-PIs: Amy S. Farrell, Shawn Bhimani. Northeastern University. Award period January 2020 – December 2024. *Graduate Research Assistant, 2021–2024.*"
-      - bullet: "**DHS CINA Center of Excellence — [Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/).** Criminal Investigations and Network Analysis Center, a U.S. Department of Homeland Security Center of Excellence hosted at George Mason University. PI: Kayse Maass; Co-PI: Amy Farrell. Northeastern University. *Graduate Research Assistant.*"
+      - bullet: "**NSF #1935618, ISN2: Coordinated Interdiction for Disruption of Labor Trafficking in the Agricultural Sector.** Division of Civil, Mechanical, and Manufacturing Innovation, Operations Engineering program. PI: Kayse L. Maass; Co-PIs: Amy S. Farrell, Shawn Bhimani. Northeastern University. Award period January 2020 – December 2024. *Graduate Research Assistant, 2021–2024.*"
+      - bullet: "**DHS CINA Center of Excellence, [Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/).** Criminal Investigations and Network Analysis Center, a U.S. Department of Homeland Security Center of Excellence hosted at George Mason University. PI: Kayse Maass; Co-PI: Amy Farrell. Northeastern University. *Graduate Research Assistant.*"
 
     Skills:
       - name: Programming and analysis
@@ -344,10 +354,10 @@ cv:
 
     Service:
       - bullet: "**Vice President and Treasurer**, INFORMS Student Chapter, Northeastern University, 2022–2023 and 2025–present"
-      - bullet: "**Session Chair** — *Cooperation and Partnership in Public Services*, INFORMS Annual Meeting 2025; *Border Security*, Decision Sciences Institute Annual Meeting 2020"
-      - bullet: "**Instructor and Organizer** — Ethical Research Methods using AI (2026); Notetaking Workshop for graduate students (2024), Northeastern University"
-      - bullet: "**Board Member**, Beacon Hill Friends House, Boston — Personnel and Nominating Committees, 2021–present"
-      - bullet: "**Earlier service** — Secretary, Women in STEM Programs, UTRGV (2020–2021); LEAP Educator, Center for Diversity and Inclusion, UTRGV (2019); Volunteer Art Teacher, AIESEC, Mendoza, Argentina (2014)"
+      - bullet: "**Session Chair**. *Cooperation and Partnership in Public Services*, INFORMS Annual Meeting 2025; *Border Security*, Decision Sciences Institute Annual Meeting 2020"
+      - bullet: "**Instructor and Organizer**. Ethical Research Methods using AI (2026); Notetaking Workshop for graduate students (2024), Northeastern University"
+      - bullet: "**Board Member**, Beacon Hill Friends House, Boston, Personnel and Nominating Committees, 2021–present"
+      - bullet: "**Earlier service**. Secretary, Women in STEM Programs, UTRGV (2020–2021); LEAP Educator, Center for Diversity and Inclusion, UTRGV (2019); Volunteer Art Teacher, AIESEC, Mendoza, Argentina (2014)"
 
     Languages:
       - name: Portuguese

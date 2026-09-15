@@ -2,7 +2,6 @@
 layout: page
 title: OR for Social Good · Prior Research
 description: Bayesian optimization for border security · DEA for women's crisis center networks
-img: assets/img/projects/or_social_good.jpg  # optional
 importance: 2
 category: research
 related_publications: true

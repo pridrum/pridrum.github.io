@@ -2,7 +2,6 @@
 layout: page
 title: Course Design · OR 6205 Deterministic Operations Research
 description: Full course design as Teaching Fellow · Backward design · Active learning · Inclusive assessment
-img: assets/img/projects/course_design.jpg  # optional
 importance: 3
 category: teaching & education research
 ---
@@ -53,12 +52,15 @@ This is not a separate "ethics module" — it runs through the entire course.
 
 | Material | Description |
 |---|---|
-| [Syllabus](/assets/pdf/OR6205_Drummond_Syllabus.pdf) | Full course syllabus with learning objectives, policies, AI use statement |
-| [Course Map](/assets/pdf/OR6205Sp2026Course_Map.pdf) | Week-by-week alignment of objectives, activities, and assessments |
-| [Grading Plan](/assets/pdf/OR6205_GradingPlan.pdf) | Assessment weights, rubric philosophy, rework policy |
-| [In-Class Exercises (Feb 20)](/assets/pdf/InClassExercises_20260220.pdf) | Sample active learning exercises |
-| [Gurobi Python Guide](/assets/pdf/Gurobi_guideline.pdf) | Student-facing Python/Gurobi reference created for this course |
-| [Discussion Worksheet 4-1](/assets/pdf/DiscussionWorksheet_4-1.pdf) | Sample critical analysis discussion prompt |
+| [Syllabus, as written](/assets/pdf/OR6205_Syllabus_Original.pdf) | Full course syllabus with learning objectives, policies, AI use statement |
+| [Syllabus, after the class negotiated it](/assets/pdf/OR6205_Syllabus_Negotiated.pdf) | The same course after the first class agreed changes to it |
+| [Course map](/assets/pdf/OR6205_Course_Map.pdf) | Week-by-week alignment of objectives, activities, and assessments |
+| [In-class exercises](/assets/pdf/OR6205_InClass_Exercises.pdf) | Active learning exercises, worked version |
+| [Gurobi and Python guideline](/assets/pdf/OR6205_Gurobi_Guideline.pdf) | Student-facing Python and Gurobi reference created for this course |
+| [Project rubric](/assets/pdf/OR6205_Project_Rubric.pdf) | Assessment criteria for the individual project report |
+
+The full set, including the student version of the exercises and the at-home simplex theory
+exercises, is on the [exercises](/teaching/exercises/) page.
 
 ---
 
