@@ -11,7 +11,7 @@ calendar: false
 How do we help students use technical skills in real decisions? That question runs through
 everything I teach, and it is harder than it sounds. Students can usually solve a clean
 formulation. They struggle when the objectives conflict, the data is incomplete, and someone
-has to decide anyway — which is every decision they will actually face at work.
+has to decide anyway, which is every decision they will actually face at work.
 
 I have taught **eight university courses across three universities and more than 300 students**,
 in operations research, supply chain, lean operations, quality, and manufacturing planning.
@@ -28,7 +28,7 @@ Northeastern University, a college-level award.
 The most concrete thing I can say about my teaching is that my courses change during the
 semester because of what students tell me. In OR 6205 I negotiated parts of the syllabus with
 the class rather than handing it down finished, ran "muddiest point" checks, and kept several
-feedback channels open, including anonymous ones — because the students most likely to be
+feedback channels open, including anonymous ones, because the students most likely to be
 struggling are the least likely to say so in front of everyone.
 
 Then I act on it. I moved from slides to working problems live on the board, because students
@@ -36,10 +36,10 @@ told me the slides moved faster than their thinking. I replaced generic examples
 connected to their own contexts, and added more worked examples when students said the balance
 had tipped too far toward theory.
 
-> *"I did like that she was very happy to teach this course — I could tell that she loves
+> *"I did like that she was very happy to teach this course cause I could tell that she loves
 > this topic so much, and I like that she was able to listen to our feedback to make the
 > course better."*  
-> — OR 6205 student, Spring 2026 (TRACE evaluation)
+> OR 6205 student, Spring 2026 (TRACE evaluation)
 
 I also know where I am still improving. In that first semester as instructor of record,
 students rated intellectual challenge and perceived learning below the departmental mean, and
@@ -106,12 +106,12 @@ Each of these is a page rather than a claim. The files are there to be read, not
 
 ## What I am prepared to teach
 
-**Ready now** — Operations Management · Supply Chain Management · Supply Chain Analytics ·
+**Ready now.** Operations Management · Supply Chain Management · Supply Chain Analytics ·
 Operations Research / Deterministic Optimization · Prescriptive Analytics · Business Analytics
 (core) · Business Statistics · Lean Operations and Process Improvement · Quality Management ·
 Engineering Economics · Project Management · Python for Business Analytics
 
-**With one semester of preparation** — Predictive Analytics · Data Visualization ·
+**With one semester of preparation.** Predictive Analytics · Data Visualization ·
 Simulation Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain
 Management
 

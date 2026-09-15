@@ -1,3 +1,56 @@
+# This site: Priscila de Azevedo Drummond
+
+Everything below the next horizontal rule is specific to this site and takes precedence over the
+upstream al-folio guidance that follows it.
+
+## Voice
+
+The prose on this site is hers. Match it rather than improving it.
+
+- Short declarative sentences, one claim each.
+- No em dashes in prose. Use a comma, a colon, or a second sentence. The one exception is a
+  verbatim student quote, which is never edited for any reason.
+- No bold for emphasis inside prose, and no bolded lead-ins like "**The point first.**"
+- Never write that an outcome "cannot be measured". Write hard to quantify, observed indirectly,
+  contested, or no single number.
+- "Worked in all four analytics modes", never "published across them". The data envelopment
+  analysis work is master's theses.
+- Participatory operations research is a future direction, not an existing program.
+- Name journals, never special issues.
+- Banned words: resonates, drawn to, align with.
+- Every claim is anchored in a number, a name, a date, or a quote. If the fact is missing, leave it
+  missing and ask her. Do not generalize to fill the gap.
+
+## Facts that have been wrong before
+
+These were corrected across several documents at once. Check here before editing any teaching or
+CV content, rather than copying from an older page.
+
+- The Teaching Fellowship is Fall 2025 to Spring 2026.
+- IE 4516 Quality Assurance ran in Fall 2023, about 20 students. She redesigned the teaching
+  materials and taught the design of experiments and process control modules.
+- The 3rd and 7th session ranking belongs to IE 5617 Lean, Summer I 2025. It does not belong to
+  IE 4516 Quality Assurance. The two are easy to conflate: same instructor, both about 20 students,
+  both with a process control module.
+- The ANOVA game, The Destruction of Reality Itself, is IE 4516. She designed it and Prof. Hugh
+  McManus reviewed it. Never "jointly built" and never "solo".
+- The busing case follows a school closing, not a road closure. Road construction in area 6 is a
+  sensitivity sub-question.
+- Brazil is three and a half years. Never four.
+- "Nine years of agency and nonprofit partnership" is retired. Name the organizations instead.
+- The scoping review is in preparation for submission to Networks. It is not submitted, whatever
+  the CV masters say.
+
+## Local build
+
+Node and Docker are not installed on her machine, and the system Ruby is 2.6 while the lockfile
+wants Bundler 4, so `docker compose up`, `bundle exec jekyll serve` and `npx prettier` all fail
+locally. Verify changes statically instead: parse the front matter, check permalinks are unique,
+and check that every internal link resolves to a permalink or to a file that exists under assets.
+CI runs the real build, prettier, and the lychee link check.
+
+---
+
 # Agent Guidelines for al-folio
 
 A simple, clean, and responsive Jekyll theme for academics.
