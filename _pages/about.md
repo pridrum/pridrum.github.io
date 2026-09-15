@@ -127,7 +127,7 @@ services available constrained effectiveness more than the total amount invested
 ## Teaching
 
 I have taught **eight university courses across three universities and more than 300 students**,
-and before that spent four years teaching middle school in Brazil — from students learning
+and before that spent three and a half years teaching middle school in Brazil — from students learning
 boatbuilding in an underserved community in Rio de Janeiro, to graduate students working
 through the mathematics of linear programming in Boston.
 

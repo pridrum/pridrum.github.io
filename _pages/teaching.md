@@ -72,11 +72,15 @@ each term, noted that the sessions I taught "came out higher than when I do them
 My research is about interventions that can make things worse for the people they were meant to
 help. My teaching asks students the same question.
 
-I use a school busing case: minimize transportation cost after a road closure. The model is
-clean and solvable, and it is also wrong. It optimizes cost while ignoring what families
-actually care about, including community, student well-being, and equity. Every student has
-been to school and had to get there somehow, so they can feel what the objective function
-leaves out. When we optimize for cost, we give a voice only to the people who care about cost.
+I use a school busing case: a district closes a middle school and has to reassign every student
+to the three that remain, minimizing total busing cost. The model is clean and solvable, and it is
+also wrong. It optimizes cost while ignoring what families actually care about, including
+community, student well-being, and equity. Every student has been to school and had to get there
+somehow, so they can feel what the objective function leaves out. When we optimize for cost, we
+give a voice only to the people who care about cost.
+
+The [questions I ask before anyone formulates anything](/teaching/busing-case/) are on their own
+page.
 
 Students leave my classroom able to build the model. They also leave knowing that a model is a
 limited representation, that it encodes whose interests count, and that they carry
@@ -84,11 +88,19 @@ responsibility for how it is used.
 
 ---
 
-## Watch me teach
+## The evidence, including the parts that cost me something
 
-Video tutorials I built for Operations Research during the remote-teaching transition at UTRGV:
+Each of these is a page rather than a claim. The files are there to be read, not cited.
 
-- [Tutorial 1](https://youtu.be/GOG1Yf72Pow) · [Tutorial 2](https://youtu.be/gbPlL9ZMawA) · [Tutorial 3](https://youtu.be/lSACgCrVY8w) · [Tutorial 4](https://youtu.be/rQ6V6cQWGy8)
+- [A syllabus my students rewrote](/teaching/negotiated-syllabus/) · both versions of the same course, and what the change cost me
+- [My evaluations, including the bad ones](/teaching/evaluations/) · the full TRACE report and my reading of the low items
+- [Ranked against the instructor's own sessions](/teaching/ranking/) · all 17 sessions, and what I wrote to a student contesting a grade
+- [The busing case](/teaching/busing-case/) · the questions I ask before anyone formulates anything
+- [The design of experiments game](/teaching/anova-game/) · ANOVA and a factorial design, taught through Doctor Who villains
+- [Games and smaller pieces](/teaching/games/) · emergency dispatch, family scheduling, microteaching plans
+- [Exercises and assessment](/teaching/exercises/) · in both the student and the worked versions
+- [A course I designed and have not yet taught](/teaching/course-design/) · Systems Engineering in Public Programs
+- [Watch me teach](/teaching/videos/) · video tutorials built during the remote teaching transition
 
 ---
 
