@@ -39,23 +39,23 @@ unintended consequences? These are the central questions of my dissertation.
 Models how two cooperating interdictors — sharing resources or information — compare
 to independent enforcement. Shows that collaboration substantially improves detection
 outcomes under realistic network conditions.  
-*Presented: INFORMS 2025 (Atlanta) · Working paper with K.L. Maass*
+_Presented: INFORMS 2025 (Atlanta) · Working paper with K.L. Maass_
 
 **Thread 2 — Scoping Review of Collaboration and Multiple Attacks in Network Interdiction**  
 A systematic review of the NIP literature on multi-agent and multi-attack settings,
 identifying gaps and framing the dissertation's contributions within the field.  
-*Working paper with K.L. Maass*
+_Working paper with K.L. Maass_
 
 **Thread 3 — Unintended Consequences in Network Interdiction: An Agricultural Labor Trafficking Problem**  
 Examines how enforcement strategies that appear optimal in a single-agent setting can
 produce counterproductive outcomes (displacement, evasion, harm to victims) in
 multi-stakeholder contexts.  
-*Working paper with Miller, F. and K.L. Maass*
+_Working paper with Miller, F. and K.L. Maass_
 
 **Thread 4 — Network Interdiction to Improve Labor Trafficking Detection in U.S. Agriculture**  
 Develops interdiction strategies grounded in the H-2A violation data modeled in
 our PLOS ONE paper {% cite jafari2024enhancing %}.  
-*Under review at Decision Sciences · With Jafari, Bhimani, Farrell & Maass*
+_Under review at Decision Sciences · With Jafari, Bhimani, Farrell & Maass_
 
 ---
 
@@ -71,12 +71,12 @@ our PLOS ONE paper {% cite jafari2024enhancing %}.
 
 ## Selected Presentations
 
-- INFORMS Annual Meeting 2025 — Atlanta, GA *(podium talk)*
+- INFORMS Annual Meeting 2025 — Atlanta, GA _(podium talk)_
 - INFORMS Annual Meeting 2024 — Seattle, WA
 - INFORMS Annual Meeting 2023
 - INFORMS Annual Meeting 2022
-- RISE Research Expo, Northeastern University 2024 *(poster)*
-- MIE Research Expo, Northeastern University 2023 *(poster)*
+- RISE Research Expo, Northeastern University 2024 _(poster)_
+- MIE Research Expo, Northeastern University 2023 _(poster)_
 
 ---
 

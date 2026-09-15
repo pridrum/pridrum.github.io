@@ -25,6 +25,7 @@ construction — students learned drawing, geometry, algebra, planning, and hand
 fabrication using power and woodworking tools.
 
 As curriculum coordinator, I:
+
 - Managed an interdisciplinary team of **10–15 undergraduate interns**
 - Developed and taught experiential learning methodologies integrating engineering
   principles with creative design
@@ -55,6 +56,6 @@ national media attention in Brazil and the Netherlands.
 
 ## Conference Presentation
 
-Drummond, P.A., Rahal, J., & Amorim, F. (2008). *Analyses of Different Educational Strategies
-using Work-based Pedagogy at the Middle-school Colégio de Pescadores in Macaé, RJ.*
+Drummond, P.A., Rahal, J., & Amorim, F. (2008). _Analyses of Different Educational Strategies
+using Work-based Pedagogy at the Middle-school Colégio de Pescadores in Macaé, RJ._
 5º Congresso de Extensão da UFRJ. Rio de Janeiro, RJ, Brazil.

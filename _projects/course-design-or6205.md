@@ -17,8 +17,8 @@ This page documents the design process, key decisions, and what I learned. It is
 a teaching project in its own right: I am currently writing a working paper on the
 Teaching Fellowship experience as a model for instructor development in IE.
 
-🏆 *This course was recognized with the 2026 COE Outstanding Graduate Teaching Award (PhD),
-Northeastern University College of Engineering.*
+🏆 _This course was recognized with the 2026 COE Outstanding Graduate Teaching Award (PhD),
+Northeastern University College of Engineering._
 
 ---
 
@@ -42,22 +42,22 @@ step-by-step examples developed with students in real time. Engagement increased
 noticeably.
 
 **Step 4 — Ethics integrated, not appended.**  
-Each case analysis asks students: *Whose interests are represented in this model?
-What is optimized, and for whom? What unintended consequences might arise?*
+Each case analysis asks students: _Whose interests are represented in this model?
+What is optimized, and for whom? What unintended consequences might arise?_
 This is not a separate "ethics module" — it runs through the entire course.
 
 ---
 
 ## Key Materials
 
-| Material | Description |
-|---|---|
-| [Syllabus, as written](/assets/pdf/OR6205_Syllabus_Original.pdf) | Full course syllabus with learning objectives, policies, AI use statement |
-| [Syllabus, after the class negotiated it](/assets/pdf/OR6205_Syllabus_Negotiated.pdf) | The same course after the first class agreed changes to it |
-| [Course map](/assets/pdf/OR6205_Course_Map.pdf) | Week-by-week alignment of objectives, activities, and assessments |
-| [In-class exercises](/assets/pdf/OR6205_InClass_Exercises.pdf) | Active learning exercises, worked version |
-| [Gurobi and Python guideline](/assets/pdf/OR6205_Gurobi_Guideline.pdf) | Student-facing Python and Gurobi reference created for this course |
-| [Project rubric](/assets/pdf/OR6205_Project_Rubric.pdf) | Assessment criteria for the individual project report |
+| Material                                                                              | Description                                                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Syllabus, as written](/assets/pdf/OR6205_Syllabus_Original.pdf)                      | Full course syllabus with learning objectives, policies, AI use statement |
+| [Syllabus, after the class negotiated it](/assets/pdf/OR6205_Syllabus_Negotiated.pdf) | The same course after the first class agreed changes to it                |
+| [Course map](/assets/pdf/OR6205_Course_Map.pdf)                                       | Week-by-week alignment of objectives, activities, and assessments         |
+| [In-class exercises](/assets/pdf/OR6205_InClass_Exercises.pdf)                        | Active learning exercises, worked version                                 |
+| [Gurobi and Python guideline](/assets/pdf/OR6205_Gurobi_Guideline.pdf)                | Student-facing Python and Gurobi reference created for this course        |
+| [Project rubric](/assets/pdf/OR6205_Project_Rubric.pdf)                               | Assessment criteria for the individual project report                     |
 
 The full set, including the student version of the exercises and the at-home simplex theory
 exercises, is on the [exercises](/teaching/exercises/) page.
@@ -66,13 +66,13 @@ exercises, is on the [exercises](/teaching/exercises/) page.
 
 ## TRACE Evaluation Highlights (Spring 2026)
 
-| Item | Course Mean | Dept. Mean |
-|---|---|---|
-| Displayed enthusiasm for the course | **4.80** | 4.55 |
-| Provided sufficient feedback | **4.60** | 4.29 |
-| Facilitated inclusive learning environment | **4.60** | 4.54 |
-| Came to class prepared to teach | 4.20 | 4.58 |
-| Used class time effectively | 3.80 | 4.42 |
+| Item                                       | Course Mean | Dept. Mean |
+| ------------------------------------------ | ----------- | ---------- |
+| Displayed enthusiasm for the course        | **4.80**    | 4.55       |
+| Provided sufficient feedback               | **4.60**    | 4.29       |
+| Facilitated inclusive learning environment | **4.60**    | 4.54       |
+| Came to class prepared to teach            | 4.20        | 4.58       |
+| Used class time effectively                | 3.80        | 4.42       |
 
 The lower scores on preparation and time use reflect the mid-semester transition
 from slides to board work — a change students explicitly requested and that I implemented
@@ -84,5 +84,5 @@ means imperfect polish in the moment. I am still refining this balance.
 ## Working Paper
 
 **Drummond, P.A.; Maass, K.L.** "Active Learning Experiences: Teaching Fellowship
-Experience in IE." *(Working paper — narrative analysis of the Teaching Fellowship
-model as an instructor development framework)*
+Experience in IE." _(Working paper — narrative analysis of the Teaching Fellowship
+model as an instructor development framework)_

@@ -16,9 +16,9 @@ profile:
     <p>Northeastern University, Boston MA</p>
     <p><a href="mailto:priscilaadrummond@gmail.com">priscilaadrummond@gmail.com</a></p>
 
-news: true          # show news section on homepage
-selected_papers: true   # show selected publications on homepage
-social: true        # show social icons at bottom
+news: true # show news section on homepage
+selected_papers: true # show selected publications on homepage
+social: true # show social icons at bottom
 ---
 
 For nineteen years I have worked on one kind of problem in different settings: how a group of

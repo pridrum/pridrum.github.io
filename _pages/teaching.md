@@ -36,9 +36,9 @@ told me the slides moved faster than their thinking. I replaced generic examples
 connected to their own contexts, and added more worked examples when students said the balance
 had tipped too far toward theory.
 
-> *"I did like that she was very happy to teach this course cause I could tell that she loves
+> _"I did like that she was very happy to teach this course cause I could tell that she loves
 > this topic so much, and I like that she was able to listen to our feedback to make the
-> course better."*  
+> course better."_  
 > OR 6205 student, Spring 2026 (TRACE evaluation)
 
 I also know where I am still improving. In that first semester as instructor of record,

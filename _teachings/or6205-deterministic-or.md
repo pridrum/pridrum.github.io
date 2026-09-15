@@ -45,7 +45,7 @@ assessment and in-class activity. Key design choices:
 
 **Active learning over lecture.** Based on student feedback mid-semester, I transitioned
 from slide-based delivery to collaborative board work, step-by-step examples, and
-multi-format supplementary materials. Students said: *"That's so cool"* — a moment that
+multi-format supplementary materials. Students said: _"That's so cool"_ — a moment that
 confirmed the shift was right.
 
 **Transparent assessment with rework.** All assignments come with detailed rubrics.
@@ -63,43 +63,43 @@ benefit from LP optimization. Selected cases are worked through collaboratively 
 
 ## Selected Student Feedback (TRACE Evaluations, Spring 2026)
 
-> *"I did like that she was very happy to teach this course — I could tell that she loves
+> _"I did like that she was very happy to teach this course cause I could tell that she loves
 > this topic so much, and I like that she was able to listen to our feedback to make the
-> course better. Definitely, the group project was the most fun project to do."*
+> course better. Definitely, the group project was the most fun project to do."_
 
-> *"The instructor was very well-prepared and explained concepts clearly. Class time was
+> _"The instructor was very well-prepared and explained concepts clearly. Class time was
 > used effectively, and the feedback on assignments was helpful. They were also approachable
-> and created a respectful and engaging learning environment."*
+> and created a respectful and engaging learning environment."_
 
-> *"The instructor did a great job creating an inclusive and respectful environment where
-> everyone felt comfortable participating."*
+> _"The instructor did a great job creating an inclusive and respectful environment where
+> everyone felt comfortable participating."_
 
 **TRACE ratings, every item.** Six students registered, one never attended, and all five
 students who actually took the course responded. I publish the whole report rather than a
 selection from it, because a page that lists only the favourable half is not evidence of
 anything.
 
-| Item | Course | Dept. | Univ. |
-| :--- | :--- | :--- | :--- |
-| Online materials organised week by week | **4.80** | 4.45 | 4.47 |
-| Displayed enthusiasm for the course | **4.80** | 4.55 | 4.68 |
-| Provided sufficient feedback | **4.60** | 4.29 | 4.41 |
-| Facilitated a respectful and inclusive environment | **4.60** | 4.54 | 4.66 |
-| Online interactions created community among classmates | **4.50** | 4.18 | 4.25 |
-| Online interactions created connection with the instructor | **4.50** | 4.29 | 4.33 |
-| I had the computer skills and technology needed | 4.50 | 4.61 | 4.66 |
-| In-class sessions were helpful for learning | **4.40** | 4.34 | 4.40 |
-| Fairly evaluated my performance | 4.40 | 4.46 | 4.54 |
-| Available to assist students outside of class | 4.40 | 4.42 | 4.53 |
-| Clearly communicated ideas and information | 4.20 | 4.36 | 4.48 |
-| Came to class prepared to teach | 4.20 | 4.58 | 4.66 |
-| Course materials helpful in achieving outcomes | 4.20 | 4.48 | 4.48 |
-| Overall teaching effectiveness | 4.20 | 4.41 | 4.51 |
-| Syllabus delineated expectations and outcomes | 4.00 | 4.56 | 4.58 |
-| Used class time effectively | **3.80** | 4.42 | 4.51 |
-| Out-of-class assignments were helpful for learning | 3.80 | 4.44 | 4.36 |
-| The course was intellectually challenging | 3.80 | 4.48 | 4.33 |
-| I learned a lot in this course | 3.80 | 4.52 | 4.45 |
+| Item                                                       | Course   | Dept. | Univ. |
+| :--------------------------------------------------------- | :------- | :---- | :---- |
+| Online materials organised week by week                    | **4.80** | 4.45  | 4.47  |
+| Displayed enthusiasm for the course                        | **4.80** | 4.55  | 4.68  |
+| Provided sufficient feedback                               | **4.60** | 4.29  | 4.41  |
+| Facilitated a respectful and inclusive environment         | **4.60** | 4.54  | 4.66  |
+| Online interactions created community among classmates     | **4.50** | 4.18  | 4.25  |
+| Online interactions created connection with the instructor | **4.50** | 4.29  | 4.33  |
+| I had the computer skills and technology needed            | 4.50     | 4.61  | 4.66  |
+| In-class sessions were helpful for learning                | **4.40** | 4.34  | 4.40  |
+| Fairly evaluated my performance                            | 4.40     | 4.46  | 4.54  |
+| Available to assist students outside of class              | 4.40     | 4.42  | 4.53  |
+| Clearly communicated ideas and information                 | 4.20     | 4.36  | 4.48  |
+| Came to class prepared to teach                            | 4.20     | 4.58  | 4.66  |
+| Course materials helpful in achieving outcomes             | 4.20     | 4.48  | 4.48  |
+| Overall teaching effectiveness                             | 4.20     | 4.41  | 4.51  |
+| Syllabus delineated expectations and outcomes              | 4.00     | 4.56  | 4.58  |
+| Used class time effectively                                | **3.80** | 4.42  | 4.51  |
+| Out-of-class assignments were helpful for learning         | 3.80     | 4.44  | 4.36  |
+| The course was intellectually challenging                  | 3.80     | 4.48  | 4.33  |
+| I learned a lot in this course                             | 3.80     | 4.52  | 4.45  |
 
 Five responses is not a sample, and none of these differences would survive a significance test.
 What the report gives me is not a measurement but a set of specific complaints from people who
@@ -117,7 +117,7 @@ is information, not an error to be resolved.
 
 #### Account 1 — what I concluded first, from the design
 
-*Written before the departmental and university comparisons were available.*
+_Written before the departmental and university comparisons were available._
 
 All the assessment happened in class, and it happened constantly. Students worked small
 assignments in the room every single session, and I gave feedback and corrections on the spot,
@@ -133,7 +133,7 @@ So why did challenge and perceived learning come in low? Because **none of that 
 graded.** It was purely formative — can you solve this, where did it go wrong — with correction
 arriving within minutes, from me or from a classmate. I made that choice deliberately: I wanted
 students attempting problems without the fear of a mark attached. What I did not anticipate is
-that I had also removed the instrument students use to answer the question *how am I doing?*
+that I had also removed the instrument students use to answer the question _how am I doing?_
 Correction in the moment answers "was this answer right?" It never accumulates into an answer to
 "am I getting better at this?" One student put the consequence plainly: too much theory relative
 to practice left them "less confident in my knowledge."
@@ -175,14 +175,14 @@ reasoning I would want a student to show me.
 
 **Unsettled, and I hold both.** My design explanation and the students' transitions explanation
 are not the same claim, and the evidence does not choose between them. Ungraded formative work
-would depress *perceived learning* without touching *class time effectiveness*; unmarked
+would depress _perceived learning_ without touching _class time effectiveness_; unmarked
 transitions would depress both. The transitions account fits more of the report. But I was in
 the room every session and the report is five responses, four of which left the relevant
 comment blank, so I am not willing to discard what I observed on that basis.
 
 **Also unsettled: the cohort explanation.** Two doctoral students in a class of five genuinely
 does move a mean on a question about challenge, and that is arithmetic, not an excuse. Against
-it, the students who rated challenge lowest asked for *more* material and *more* practice, which
+it, the students who rated challenge lowest asked for _more_ material and _more_ practice, which
 is not what being over-prepared sounds like. I keep the explanation and I keep the objection to
 it, and I decline to let one number settle a question about five people.
 
@@ -266,7 +266,7 @@ students paid for that in clarity.
 
 That is the tension I most need to work on, and I would rather name it precisely than
 generalise it away. Responsiveness and clear expectations are not opposites, but they conflict
-in practice unless the course is *designed* for change: a syllabus with defined places where
+in practice unless the course is _designed_ for change: a syllabus with defined places where
 adjustment can happen, assessment criteria that stay fixed even when the activities move, and
 explicit communication whenever something shifts, so a change registers as a decision rather
 than as drift. Adapting in real time is still what I believe teaching requires. Doing it
