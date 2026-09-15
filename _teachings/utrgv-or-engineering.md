@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Operations Research & Engineering Management
-description: Graduate Teaching Assistant · University of Texas Rio Grande Valley · 2020–2021
+description: Graduate Teaching Assistant · University of Texas Rio Grande Valley · 2019 to 2021
 year: 2021
-term: 2020 to 2021
+term: 2019 to 2021
 instructor: Prof. Hiram Moya
-importance: 4
+importance: 5
 category: University of Texas Rio Grande Valley
 ---
 

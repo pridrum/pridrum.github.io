@@ -41,6 +41,26 @@ at every presentation.
 The pre-assessment and the feedback survey are there for the same reason as everything else on this
 site. I cannot know what class to teach until I know who is in the room.
 
+## Auditing someone else's course against AI
+
+In Summer I 2026 I revised the course materials for IE 6200, Engineering Probability and
+Statistics, a graduate course taught by Prof. Doug Schmucker. It was a materials appointment rather
+than a taught section.
+
+I reviewed every assignment from a student's perspective, and then audited the set against
+generative AI use by generating answers with different prompts to find which assessments held up
+and which did not. The finding that mattered was not that students can use a model to answer a
+question. It is that the robust assessments were the ones asking for something the model cannot
+supply: the student's own data, the student's own context, or a defence of a choice against the
+alternatives they rejected. I met with the instructor weekly and delivered a written report on the
+full set of materials.
+
+That audit is now part of how I design assessment, and it is why the project rubric on the
+[exercises](/teaching/exercises/) page puts 25 points on justifying a modeling choice rather than
+on producing the model.
+
+---
+
 The assignment design worksheet is the piece I would point a hiring committee to. It states, for
 every assignment, the purpose, the skills being practiced, what students will actually do, and the
 criteria for success, in language written for students rather than for a syllabus.

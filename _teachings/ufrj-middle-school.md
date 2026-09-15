@@ -5,7 +5,7 @@ description: Project Coordinator & Middle School Teacher · Universidade Federal
 year: 2009
 term: 2006 to 2009
 instructor: Project coordinator and teacher
-importance: 5
+importance: 7
 category: Universidade Federal do Rio de Janeiro
 ---
 

@@ -5,7 +5,7 @@ description: Graduate Teaching Assistant and Course Materials Redesign · Northe
 year: 2023
 term: Fall 2023
 instructor: Prof. Hugh McManus
-importance: 2
+importance: 4
 category: Northeastern University
 ---
 
@@ -27,7 +27,10 @@ students can pass every calculation and still not understand what the numbers ar
 This is the course where I moved from delivering material to building it.
 
 I took the lead on a **complete redesign of the course teaching materials**, restructuring
-them around **experimental, simulation-based, and project-based learning**. Rather than
+them around **experimental, simulation-based, and project-based learning**. I redesigned and taught
+the Design of Experiments and ANOVA module, including
+[a classroom game built for it](/teaching/anova-game/), and revised and taught the Process Control
+module. Rather than
 present quality methods and then ask students to practise them, the redesigned materials put
 students inside a process first — running it, measuring it, watching it drift — so that the
 statistical tools arrive as answers to a problem they have already felt.

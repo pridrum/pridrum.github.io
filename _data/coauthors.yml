@@ -1,22 +1,24 @@
+"jafari":
+  - firstname: ["Azeroo", "A."]
+
+"bhimani":
+  - firstname: ["Shawn", "S."]
+
+"drummond":
+  - firstname: ["Priscila de Azevedo", "Priscila A.", "Priscila", "P. A.", "P."]
+
+"nishigaya":
+  - firstname: ["Dominic", "D."]
+
+"ding":
+  - firstname: ["Aidong A.", "Aidong", "A. A.", "A."]
+
+"farrell":
+  - firstname: ["Amy", "A."]
+
 "maass":
   - firstname: ["Kayse Lee", "Kayse", "K. L.", "K."]
     url: https://coe.northeastern.edu/people/maass-kayse/
-
-"jafari":
-  - firstname: ["Amirhossein", "A."]
-
-"bhimani":
-  - firstname: ["Shenil", "S."]
-
-"farrell":
-  - firstname: ["Ann", "A."]
-    url: https://cssh.northeastern.edu/faculty/ann-farrell/
-
-"ding":
-  - firstname: ["Annie A.", "Annie", "A. A.", "A."]
-
-"nishigaya":
-  - firstname: ["Derek", "D."]
 
 "moya":
   - firstname: ["Hiram", "H."]

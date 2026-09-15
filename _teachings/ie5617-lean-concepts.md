@@ -14,7 +14,7 @@ category: Northeastern University
 **Course:** IE 5617 — Lean Concepts and Applications (Undergraduate & Graduate)  
 **Role:** Graduate Teaching Assistant  
 **Institution:** Northeastern University, Dept. of Mechanical & Industrial Engineering  
-**Terms:** Summer I 2023 (Prof. Hugh McManus, 45 students) · Summer II 2023 (Prof. Andrei Guschin, 46 students) · Summer I 2025 (Prof. Hugh McManus, 20 students) · Summer II 2026 (22 students)
+**Terms:** Summer I 2023 (Prof. Hugh McManus, 45 students) · Summer II 2023 (Prof. Andrei Guschin, 46 students) · Summer I 2025 (Prof. Hugh McManus, 20 students) · Summer II 2026 (Prof. Andrei Guschin, 22 students)
 
 This course covers lean manufacturing principles, value stream mapping (VSM), waste
 identification, process improvement, and quality tools. Students apply lean thinking

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Eight university courses, three universities, 300+ students · 2026 College of Engineering Outstanding Graduate Teaching Award
+description: Eight university courses, four universities, 300+ students · 2026 College of Engineering Outstanding Graduate Teaching Award
 nav: true
 nav_order: 2
 calendar: false
@@ -13,7 +13,7 @@ everything I teach, and it is harder than it sounds. Students can usually solve 
 formulation. They struggle when the objectives conflict, the data is incomplete, and someone
 has to decide anyway, which is every decision they will actually face at work.
 
-I have taught **eight university courses across three universities and more than 300 students**,
+I have taught **eight university courses across four universities and more than 300 students**,
 in operations research, supply chain, lean operations, quality, and manufacturing planning.
 I started as a middle school teacher in Brazil, where I learned that content delivery is the
 easy part. The harder work is listening, belonging, and meeting students where they are.
@@ -106,14 +106,17 @@ Each of these is a page rather than a claim. The files are there to be read, not
 
 ## What I am prepared to teach
 
-**Ready now.** Operations Management · Supply Chain Management · Supply Chain Analytics ·
-Operations Research / Deterministic Optimization · Prescriptive Analytics · Business Analytics
-(core) · Business Statistics · Lean Operations and Process Improvement · Quality Management ·
-Engineering Economics · Project Management · Python for Business Analytics
+**Ready to teach immediately.** Operations Management · Supply Chain Management · Supply Chain
+Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics · Business
+Analytics (core) · Introduction to Data Analysis · Lean Operations and Process Improvement ·
+Quality Management · Engineering Economy and Engineering Economics and Finance · Project Management
 
-**With one semester of preparation.** Predictive Analytics · Data Visualization ·
-Simulation Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain
-Management
+**Ready with one semester of preparation.** Predictive Analytics · Data Visualization · Simulation
+Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain Management ·
+Python for Business Analytics
+
+**Ready to develop.** Operations Management and Social Impact (elective) · Sports and Performance
+Analytics (elective)
 
 ---
 
