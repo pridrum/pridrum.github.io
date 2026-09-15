@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Eight university courses, three universities, 300+ students · 2026 College of Engineering Outstanding Graduate Teaching Award
 nav: true
-nav_order: 6
+nav_order: 2
 calendar: false
 ---
 

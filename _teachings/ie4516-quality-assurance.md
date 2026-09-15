@@ -2,6 +2,9 @@
 layout: page
 title: IE 4516 · Quality Assurance
 description: Graduate Teaching Assistant and Course Materials Redesign · Northeastern University · Fall 2023
+year: 2023
+term: Fall 2023
+instructor: Prof. Hugh McManus
 importance: 2
 category: Northeastern University
 ---
