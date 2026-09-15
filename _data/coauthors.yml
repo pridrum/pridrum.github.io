@@ -1,34 +1,25 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"maass":
+  - firstname: ["Kayse Lee", "Kayse", "K. L.", "K."]
+    url: https://coe.northeastern.edu/people/maass-kayse/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"jafari":
+  - firstname: ["Amirhossein", "A."]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bhimani":
+  - firstname: ["Shenil", "S."]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"farrell":
+  - firstname: ["Ann", "A."]
+    url: https://cssh.northeastern.edu/faculty/ann-farrell/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"ding":
+  - firstname: ["Annie A.", "Annie", "A. A.", "A."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"nishigaya":
+  - firstname: ["Derek", "D."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"moya":
+  - firstname: ["Hiram", "H."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"lindstrom":
+  - firstname: ["Denise", "D."]

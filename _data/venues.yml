@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"PLOS ONE":
+  url: https://journals.plos.org/plosone/
+  color: "#d64000"
+
+"DSI":
+  url: https://decisionsciences.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Decision Sciences":
+  url: https://onlinelibrary.wiley.com/journal/15405915
+  color: "#6b6b6b"
 
-"Vision":
-  color: "#009f36"
+"Job Market Paper":
+  color: "#1f6f43"
+
+"In Preparation":
+  color: "#6b6b6b"
+
+"Working Paper":
+  color: "#6b6b6b"
+
+"INFORMS":
+  url: https://www.informs.org/
+  color: "#00457c"
+
+"MS Thesis":
+  color: "#6b6b6b"
+
+"UFRJ":
+  url: https://ufrj.br/
+  color: "#6b6b6b"

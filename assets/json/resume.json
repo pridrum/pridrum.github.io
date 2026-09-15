@@ -4,14 +4,11 @@
     "label": "PhD Candidate in Industrial Engineering & Operations Research",
     "image": "",
     "email": "deazevedodrummond.p@northeastern.edu",
-    "phone": "(956) 240-8904",
     "url": "https://pridrum.github.io",
     "summary": "PhD candidate in Industrial Engineering at Northeastern University, specializing in network optimization and operations research for social good, with a focus on anti-human trafficking and labor rights. Teaching Fellow, 2026 COE Outstanding Graduate Teaching Award recipient, and passionate advocate for inclusive, active-learning pedagogy in engineering education.",
     "location": {
-      "address": "8 Chestnut St",
       "city": "Boston",
       "region": "MA",
-      "postalCode": "02108",
       "countryCode": "US"
     },
     "profiles": [
@@ -37,7 +34,6 @@
       }
     ]
   },
-
   "education": [
     {
       "institution": "Northeastern University",
@@ -85,7 +81,6 @@
       ]
     }
   ],
-
   "work": [
     {
       "name": "Northeastern University",
@@ -192,7 +187,6 @@
       ]
     }
   ],
-
   "volunteer": [
     {
       "organization": "INFORMS NU Chapter, Northeastern University",
@@ -239,7 +233,6 @@
       "summary": "Mendoza, Argentina"
     }
   ],
-
   "awards": [
     {
       "title": "COE Outstanding Graduate Teaching Award (PhD)",
@@ -281,7 +274,6 @@
       "awarder": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Brazil"
     }
   ],
-
   "publications": [
     {
       "name": "Enhancing Detection of Labor Violations in the Agricultural Sector: A Multilevel Generalized Linear Regression Model of H-2A Violation Counts",
@@ -312,7 +304,6 @@
       "summary": "Drummond, P.A., Lindstrom, D. MS Thesis, Universidade Federal do Rio Grande do Sul."
     }
   ],
-
   "skills": [
     {
       "name": "Programming & Software",
@@ -367,7 +358,6 @@
       ]
     }
   ],
-
   "languages": [
     {
       "language": "Portuguese",
@@ -390,7 +380,6 @@
       "icon": ""
     }
   ],
-
   "interests": [
     {
       "name": "Operations Research for Social Good",
@@ -413,7 +402,6 @@
       ]
     }
   ],
-
   "references": [
     {
       "name": "Kayse Lee Maass, PhD",
@@ -431,7 +419,6 @@
       "reference": "Associate Professor & Graduate Program Coordinator, Dept. of Manufacturing and Industrial Engineering, University of Texas Rio Grande Valley. hiram.moya@utrgv.edu | +1 (956) 665-7073"
     }
   ],
-
   "projects": [
     {
       "name": "Collaboration in Antitrafficking Efforts: A Network Interdiction Problem",
