@@ -12,48 +12,12 @@ students got and the one I worked, because the difference between them is where 
 
 ## In-class exercises
 
-### The mural problem
+- [The mural problem](/assets/pdf/teaching/Mural_Problem_Formulation.pdf)
 
 Four artists are assigned to three murals over an eight-week project. Each artist is better at some
 murals than others, each mural needs a minimum number of hours before it counts as finished, paint
-costs differ by mural, and the budget is fixed. Students decide how many hours each artist spends
-on each mural.
-
-Quality contribution $$q_{ij}$$, the skill match of artist $$i$$ on mural $$j$$:
-
-|        | Mural 1 | Mural 2 | Mural 3 |
-| ------ | ------- | ------- | ------- |
-| Alex   | 9       | 5       | 6       |
-| Bella  | 6       | 9       | 4       |
-| Carlos | 4       | 6       | 9       |
-| Diana  | 7       | 7       | 7       |
-
-Weekly availability $$a_i$$ is 12, 8, 15 and 10 hours. Minimum hours per mural $$m_j$$ are 120, 100
-and 80. Paint cost per hour $$c_j$$ is 8, 12 and 10. The budget $$B$$ is 4000 and the project runs
-$$T = 8$$ weeks.
-
-**Decision variables.** $$x_{ij}$$ is the total hours artist $$i$$ works on mural $$j$$ across the
-project, with $$x_{ij} \ge 0$$ for all $$i, j$$.
-
-**Objective.** Maximize total quality-weighted hours:
-
-$$\max Z = \sum_{i=1}^{4} \sum_{j=1}^{3} q_{ij} \cdot x_{ij}$$
-
-**Subject to** artist availability, mural completion, and the budget:
-
-$$\sum_{j=1}^{3} x_{ij} \le a_{i} \times T \quad \text{for each artist } i$$
-
-$$\sum_{i=1}^{4} x_{ij} \ge m_{j} \quad \text{for each mural } j$$
-
-$$\sum_{i=1}^{4} \sum_{j=1}^{3} c_{j} \cdot x_{ij} \le B$$
-
-Twelve decision variables, eight functional constraints, twelve non-negativity constraints.
-
-Students do this one on the board, in groups, before anything is solved. The formulation is the
-whole exercise. The numbers are small enough that the arithmetic never becomes the obstacle, and
-the trade-off is visible: Diana is mediocre at everything and always available, Carlos is the best
-artist for mural 3 and the most expensive way to finish mural 1, and the budget binds against the
-completion minimums rather than against the hours.
+costs differ by mural, and the budget is fixed. Students build the formulation on the board, in
+groups, before anything is solved.
 
 Every in-class exercise was formative and ungraded by design, so that attempting a problem carried
 no penalty. That choice had a cost I did not anticipate, and I write about it on the
