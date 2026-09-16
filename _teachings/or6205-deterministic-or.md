@@ -101,7 +101,6 @@ anything.
 | The course was intellectually challenging                  | 3.80     | 4.48  | 4.33  |
 | I learned a lot in this course                             | 3.80     | 4.52  | 4.45  |
 
-
 ### Reading the term: three accounts, kept separately
 
 I teach the way I do research, so I will not collapse this into one tidy story. There are three
@@ -112,7 +111,7 @@ each other rather than quietly retiring whichever one lost. A course is not an e
 clean identification strategy, and five responses is not a sample. Disagreement between sources
 is information, not an error to be resolved.
 
-#### Account 1 
+#### Account 1
 
 _Written before the departmental and university comparisons were available._
 
@@ -140,7 +139,7 @@ cohort of five included two doctoral students who had already met the material. 
 size, students well past the intended baseline move an average on a question about challenge,
 and balancing what to prioritise was genuinely hard.
 
-#### Account 2 
+#### Account 2
 
 One student described a mechanism I had not named. In class we would be working on one topic and
 then shift "very quickly to a different topic that becomes too high-level for me to understand."
@@ -155,7 +154,7 @@ at 4.80 against a departmental 4.45, was the online scaffolding library of video
 worked media I had built to sit alongside the sessions. My students were telling me I had
 already made the better version and had not assigned it.
 
-#### Account 3 
+#### Account 3
 
 When the complete report arrived with departmental and university means on all nineteen items,
 one thing I had written turned out to be wrong, and two remain unsettled.
