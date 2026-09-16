@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/evaluations/
-title: my evaluations, including the bad ones
+title: my evaluations - teaching effectiveness
 description: The full TRACE report for OR 6205, Spring 2026, with my own reading of the items where I came in below the department
 nav: false
 ---
