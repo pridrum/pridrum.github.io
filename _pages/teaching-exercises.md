@@ -17,7 +17,7 @@ students got and the one I worked, because the difference between them is where 
 Four artists are assigned to three murals over an eight-week project. Each artist is better at some
 murals than others, each mural needs a minimum number of hours before it counts as finished, paint
 costs differ by mural, and the budget is fixed. Students build the formulation on the board, in
-groups, before anything is solved.
+groups, before anything is solved. The goal is to discuss the complexity of assessing and measuring subjective concepts as "beauty", "value of art", etc.
 
 Every in-class exercise was formative and ungraded by design, so that attempting a problem carried
 no penalty. That choice had a cost I did not anticipate, and I write about it on the
