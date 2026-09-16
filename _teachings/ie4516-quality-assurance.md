@@ -12,7 +12,7 @@ category: Northeastern University
 ## Course Overview
 
 **Course:** IE 4516 — Quality Assurance (Undergraduate)
-**Role:** Graduate Teaching Assistant, and lead on the redesign of the course teaching materials
+**Role:** Graduate Teaching Assistant to Prof. Hugh McManus, and lead on the redesign of the course teaching materials, with Prof. McManus and Dr. Ali
 **Institution:** Northeastern University, Dept. of Mechanical & Industrial Engineering
 **Term:** Fall 2023 (Prof. Hugh McManus, ~20 students)
 

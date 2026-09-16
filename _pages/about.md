@@ -76,7 +76,7 @@ _College-level teaching award._
 _Rated above departmental means for enthusiasm, sufficiency of feedback, inclusive learning environment, and organization of course materials. The [full report is published](/teaching/evaluations/), including the items where I came in below it._
 
 🛠️ **Course redesign leadership**, IE 4516: Quality Assurance, Northeastern University  
-_Led a complete redesign of the course teaching materials, with Prof. Hugh McManus and Dr. Ali, around experimental, simulation-based, and project-based learning, including [the design of experiments game](/teaching/anova-game/) built for it._
+_Led a complete redesign of the course teaching materials, with Prof. Hugh McManus and Dr. Ali, restructuring them around experimental, simulation-based, and project-based learning. Includes [the design of experiments game](/teaching/anova-game/) built for it._
 
 📊 **Student-ranked teaching**, IE 5617: Lean Concepts and Applications  
 _In an end-of-term poll ranking all 17 class sessions, the two modules I taught placed 3rd and 7th, at 4.81 and 4.67 on a 5-point scale, higher than the instructor's own scores for the same sessions. [All seventeen are listed](/teaching/ranking/)._
