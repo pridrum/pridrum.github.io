@@ -7,7 +7,7 @@ nav: false
 ---
 
 I negotiate the syllabus with students in the first class. Assessment weights, revision rules,
-deadlines, project topics. 
+deadlines, project topics.
 
 - [The syllabus as I wrote it](/assets/pdf/OR6205_Syllabus_Original.pdf)
 - [The syllabus after the class negotiated it](/assets/pdf/OR6205_Syllabus_Negotiated.pdf)
@@ -16,7 +16,7 @@ deadlines, project topics.
 The two files are eleven pages each and they differ in the learning outcomes, the prerequisites,
 the office hours, and the wording of the course description.
 
-## The cost of changing 
+## The cost of changing
 
 One student wrote that I "was able to listen to our feedback to make the course better." The same
 report rated my syllabus 4.00 against a departmental 4.56, and that is the largest negative gap in
