@@ -38,7 +38,7 @@ not tell me what any one person understood.
 - [Project worksheet](/assets/pdf/OR6205_Project_Worksheet.pdf)
 - [Project report framework](/assets/pdf/OR6205_Project_Report_Framework.pdf)
 - [Project rubric](/assets/pdf/OR6205_Project_Rubric.pdf)
-- [Project cases](/assets/pdf/OR6205_Project_Cases.pdf)
+
 
 The first criterion in the rubric is worth 25 of the points and it is not about the model. It asks
 students to show the reasoning behind each modeling choice, in the form of what was chosen, what the
@@ -48,6 +48,5 @@ clear the bar.
 ## Course materials
 
 - [Slides, introduction to linear programming](/assets/pdf/OR6205_Slides_Intro_to_LP.pdf)
-- [Slides, the simplex method part I](/assets/pdf/OR6205_Slides_Simplex_Method_1.pdf)
 - [Gurobi and Python guideline](/assets/pdf/OR6205_Gurobi_Guideline.pdf)
 - [Course map](/assets/pdf/OR6205_Course_Map.pdf)
