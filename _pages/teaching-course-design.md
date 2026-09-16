@@ -47,9 +47,9 @@ In Summer I 2026 I revised the course materials for IE 6200, Engineering Probabi
 Statistics, a graduate course taught by Prof. Doug Schmucker. It was a materials appointment rather
 than a taught section.
 
-I reviewed every assignment from a student's perspective, and then audited the set against
-generative AI use by generating answers with different prompts to find which assessments held up
-and which did not. The finding that mattered was not that students can use a model to answer a
+I reviewed the material from a student perspective and analyzed the assignments against AI usage,
+creating answers with different prompts to test how robust each assignment was to the use of
+artificial intelligence. The finding that mattered was not that students can use a model to answer a
 question. It is that the robust assessments were the ones asking for something the model cannot
 supply: the student's own data, the student's own context, or a defence of a choice against the
 alternatives they rejected. I met with the instructor weekly and delivered a written report on the
