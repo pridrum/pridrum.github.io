@@ -56,9 +56,9 @@ back was this:
 > other students in the class lost credit for the same things you did. But here are some
 > clarifications of what was expected."
 
-Three numbered points followed, each naming what the work did and what the standard asked for. The
-data may have supported the claim but the plot contradicted it. The number of points tested was too
-small to support any conclusion, even a correct one. The extra credit asked for a critical
+Three numbered points followed, each naming what the work did oposed to what the standard asked for. The
+data may have supported the claim but the plot showed contradicted it. The number of points tested was too
+small to support any conclusion, even a correct one. And the extra credit asked for a critical
 discussion of real-world trade-offs rather than an answer.
 
 Then I taught the thing the assignment was actually for:
@@ -71,7 +71,7 @@ Then I taught the thing the assignment was actually for:
 
 And then the boundary:
 
-> "I am available tomorrow at any time from 10 to noon, if you still want to. But I want to be clear
+> "I am available tomorrow at any time from 10 to noon, if you still want to meet. But I want to be clear
 > that I won't change the grade or rubric. I am available for more clarifications on the exercise
 > and concepts, not for me to justify my grading again. The rubric is based on the professor's
 > recommendations, and I followed it with all the other students in the class. It wouldn't be fair
