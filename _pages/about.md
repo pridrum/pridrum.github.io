@@ -30,7 +30,7 @@ border checkpoint, Department of Labor inspections, and a group of anti-traffick
 working on the same cases. Each time, the setting and method changed, but the main question stayed the same.
 
 I am now a PhD candidate in Industrial Engineering at Northeastern University, in the
-[Operations Research & Social Justice Lab](https://kaysemaass.wixsite.com), working with
+[ORSJ lab](https://kaysemaass.wixsite.com/kayseleemaass), working with
 [Prof. Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/). I have scheduled my defense for
 December 2, 2026. My dissertation develops network interdiction models for multi-agency
 coordination. I look at what happens to enforcement decisions when several agencies act on the same
