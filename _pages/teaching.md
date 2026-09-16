@@ -53,8 +53,8 @@ improves under criticism than one that is defended.
 ## Building the materials, not just delivering them
 
 As a teaching assistant for **IE 4516: Quality Assurance**, I led a complete redesign of the
-course teaching materials, restructuring them around experimental, simulation-based, and
-project-based learning.
+course teaching materials with Prof. Hugh McManus and Dr. Ali, restructuring them around
+experimental, simulation-based, and project-based learning.
 
 That experience is what convinced me that course design and teaching are the same job: you cannot
 run an active classroom on materials built for a passive one.

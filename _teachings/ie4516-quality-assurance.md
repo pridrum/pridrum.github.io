@@ -26,7 +26,8 @@ students can pass every calculation and still not understand what the numbers ar
 
 This is the course where I moved from delivering material to building it.
 
-I took the lead on a **complete redesign of the course teaching materials**, restructuring
+I took the lead on a **complete redesign of the course teaching materials**, working with Prof.
+Hugh McManus and Dr. Ali, restructuring
 them around **experimental, simulation-based, and project-based learning**. I redesigned and taught
 the Design of Experiments and ANOVA module, including
 [a classroom game built for it](/teaching/anova-game/), and revised and taught the Process Control
