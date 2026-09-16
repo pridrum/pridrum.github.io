@@ -41,30 +41,29 @@ the low items on its own has found something I hid.
 
 ## What I think happened
 
-A student diagnosed it better than my own first reading did.
+A student diagnosed it precisely. 
 
 > "I wish there were more structure to the course because sometimes in class we would be learning
 > about one topic, but then somehow shift very quickly to a different topic that becomes too
 > high-level for me to understand."
 
-I was moving between levels of abstraction without marking the transitions. The sessions were
-engaging while the through-line was invisible, which is how sessions can be rated helpful at 4.40
+I was moving between levels of abstraction without marking the transitions obvious. The sessions were
+engaging while there were jumps between theory and practice that were not clearly stated, which is how sessions can be rated helpful at 4.40
 while learning is rated at 3.80.
 
-The second cause is mine and I am confident about it. The only out-of-class work I set was reading
-a textbook students found unusable, and one of them suggested videos instead. That explains
+The second is the flipped-classroom concept I've adapted since the beginning. The only out-of-class work I set was reading
+a textbook students found unusable, and one of them suggested videos instead. I've changed after the feedback, and included scaffolding videos and additional materials. That explains
 out-of-class work at 3.80 and materials at 4.20 better than anything else does.
 
-The third I accepted knowingly. I negotiated the syllabus with the class and then kept changing the
-course during the term. A student praised that in this same report. It is also why the syllabus item
-came in at 4.00. The [negotiated syllabus](/teaching/negotiated-syllabus/) page has both versions
+The third issue, regarding the syllabus, it was a compromise. I negotiated the syllabus with the class and then kept changing the
+course during the term to adjust to feedback and my own feeling of how the class should flow. A student praised that in this same report, despite the low rank at the end. The [negotiated syllabus](/teaching/negotiated-syllabus/) page has both versions
 and what I have changed since.
 
 ## What I carry into the next course
 
 1. Name and close the day's thread. State the topic at the start, announce transitions out loud when
    a discussion moves from formulation to theory and back, and close the thread at the end.
-2. Replace the assigned textbook reading with the scaffolding materials my own students rated
+2. Start the semester with the scaffolding materials my own students rated
    highest, at 4.80, plus short videos of the kind the student asked for. I have built that sort of
    series before, during the remote transition at UTRGV, and they are on the
    [videos](/teaching/videos/) page.
@@ -75,8 +74,5 @@ and what I have changed since.
 4. Give change defined places to happen, so that it reads as a decision rather than as drift.
 
 I am on a dissertation completion fellowship this year and not teaching, so this is a plan rather
-than a repair in progress. I have had a full term to think about it.
+than a repair in progress. 
 
-Students also reported the hours they spent on the course outside class: 8 to 10, 8 to 10, 5 to 7,
-3 to 4, and 3 to 4. The only out-of-class work I assigned was reading, so that is real effort spent,
-and it rules out the reading that students were not working.
