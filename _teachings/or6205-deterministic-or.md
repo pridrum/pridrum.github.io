@@ -101,9 +101,6 @@ anything.
 | The course was intellectually challenging                  | 3.80     | 4.48  | 4.33  |
 | I learned a lot in this course                             | 3.80     | 4.52  | 4.45  |
 
-Five responses is not a sample, and none of these differences would survive a significance test.
-What the report gives me is not a measurement but a set of specific complaints from people who
-were in the room, and those have been more useful than the praise.
 
 ### Reading the term: three accounts, kept separately
 
@@ -115,7 +112,7 @@ each other rather than quietly retiring whichever one lost. A course is not an e
 clean identification strategy, and five responses is not a sample. Disagreement between sources
 is information, not an error to be resolved.
 
-#### Account 1 — what I concluded first, from the design
+#### Account 1 
 
 _Written before the departmental and university comparisons were available._
 
@@ -143,7 +140,7 @@ cohort of five included two doctoral students who had already met the material. 
 size, students well past the intended baseline move an average on a question about challenge,
 and balancing what to prioritise was genuinely hard.
 
-#### Account 2 — what students wrote
+#### Account 2 
 
 One student described a mechanism I had not named. In class we would be working on one topic and
 then shift "very quickly to a different topic that becomes too high-level for me to understand."
@@ -158,7 +155,7 @@ at 4.80 against a departmental 4.45, was the online scaffolding library of video
 worked media I had built to sit alongside the sessions. My students were telling me I had
 already made the better version and had not assigned it.
 
-#### Account 3 — the full report, and where it contradicts me
+#### Account 3 
 
 When the complete report arrived with departmental and university means on all nineteen items,
 one thing I had written turned out to be wrong, and two remain unsettled.
@@ -216,16 +213,10 @@ These are the actual materials from Spring 2026, not summaries of them.
 
 **Course structure**
 
-- 📄 [Syllabus — as written](/assets/pdf/OR6205_Syllabus_Original.pdf)
-- 📄 [Syllabus — after negotiation with the class](/assets/pdf/OR6205_Syllabus_Negotiated.pdf)
+- 📄 [Syllabus](/assets/pdf/OR6205_Syllabus_Original.pdf)
 - 🗺️ [Course map](/assets/pdf/OR6205_Course_Map.pdf)
 
-I deliberately included **both syllabi**. I negotiated parts of the syllabus with the
-class rather than handing it down finished, and the difference between these two documents is
-the record of what students actually changed. We revised it at two further checkpoints during
-the term. It is also, read alongside the evaluations, where
-the cost of that approach shows: the version students worked from was the one that emerged from
-negotiation, and expectations became harder to pin down as the course moved.
+The syllabus was revised in three moments during the course. First, in the introduction class, then in two moments further on as they understood the dynamic of the class better. This approach was great so I could change the syllabus with their values in mind, but also, I was able to adjust as I felt it would fit that small class size better. The counterpoint is that it became unclear for the students the criteria, since it changed so frequently, which came up in one of their feedback.
 
 **Assessment**
 

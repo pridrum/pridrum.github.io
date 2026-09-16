@@ -44,7 +44,8 @@ that Department of Labor inspections can be sent there, or one that shows when e
 work with social services and where they should not.
 It is not just a technical problem. It depends on the decision-maker's perspective, and that is at the heart of the modeler's challenge.
 
-I came to engineering after earning a design degree, working in finance, teaching myself new skills,
+I came to engineering after earning an Industrial Design - Product Design degree, working in
+finance, teaching myself new skills,
 and finding my own path and my joy along the way. This experience has shaped how I approach teaching.
 
 **Research interests:** Coordinated decision-making across organizations · Supply Chain Management ·
