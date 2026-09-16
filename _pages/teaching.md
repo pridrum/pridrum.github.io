@@ -107,16 +107,15 @@ Each of these is a page rather than a claim. The files are there to be read, not
 ## What I am prepared to teach
 
 **Ready to teach immediately.** Operations Management · Supply Chain Management · Supply Chain
-Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics · Business
-Analytics (core) · Introduction to Data Analysis · Lean Operations and Process Improvement ·
-Quality Management · Engineering Economy and Engineering Economics and Finance · Project Management
+Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics ·
+Introduction to Data Analysis · Lean Operations and Process Improvement · Quality Management ·
+Engineering Economy and Engineering Economics and Finance · Project Management
 
 **Ready with one semester of preparation.** Predictive Analytics · Data Visualization · Simulation
-Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain Management ·
-Python for Business Analytics
+Modeling · Business Analytics · Decision and Risk Analysis · Sustainable and Responsible Supply
+Chains · Python for Business Analytics
 
-**Ready to develop.** Operations Management and Social Impact (elective) · Sports and Performance
-Analytics (elective)
+**Ready to develop.** Operations Management and Social Impact · Sports and Performance Analytics
 
 ---
 

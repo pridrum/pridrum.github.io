@@ -15,7 +15,7 @@ each producing findings that directly informed policy.
 
 ---
 
-## Project 1 — Optimization of Port-of-Entry Operations with Anti-Human Trafficking Focus
+## Project 1 — A Framework to Identify Human Trafficking at the U.S. Border
 
 **Institution:** University of Texas Rio Grande Valley (MS Thesis, 2019–2021)  
 **Advisor:** Prof. Hiram Moya

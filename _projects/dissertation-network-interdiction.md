@@ -40,7 +40,7 @@ element._ A PRISMA-ScR review registered on OSF, across four databases with two 
 reviewers. It establishes that independence, or the absence of same-element multiplicity
 altogether, is the norm in the literature, which is the gap the rest of the dissertation
 addresses.  
-_Working paper with K. L. Maass. Revision complete, submitting to Networks, September 2026_
+_With K. L. Maass. Under review at Networks, submitted September 2026_
 
 **Paper 2, the model. [Job market paper]** _Collaboration in anti-trafficking efforts: a network
 interdiction problem with multiple dependent attacks._ Rather than committing to one algebraic
@@ -61,8 +61,7 @@ dependent multiple interventions._ Under a logarithmic transform the problem is 
 interdiction and therefore NP-hard. The narrower and more useful claim is that structure discovery
 is polynomial and independent of the choice of function, and that the optimal intervention can be
 restricted to a candidate set determined by which parts of the network are in play.  
-_Working paper with K. L. Maass. Results analysis. Target: Naval Research Logistics or IISE
-Transactions_
+_Working paper with K. L. Maass. Results analysis. Target: IISE Transactions_
 
 **Paper 4, the algorithm and computational study.** _Algorithms for network interdiction problems
 with non-convex functional attacks._ A three-phase procedure, structure recovery, depth

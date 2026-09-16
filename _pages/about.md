@@ -55,11 +55,11 @@ karate, and have run long distances and done triathlons. Endurance sport and art
 thing, which is that discomfort and failure are part of learning, and that progress comes from
 showing up with purpose.
 
-**Research interests:** Coordinated decision-making across organizations · Prescriptive analytics
-for multi-agency intervention · Resource allocation in constrained service and supply systems ·
-Supply chain compliance and labor risk · Measurement design for contested and multi-dimensional
-outcomes · Responsible analytics and the consequences of optimized decisions · Analytics and
-operations pedagogy
+**Research interests:** Coordinated decision-making across organizations · Supply Chain
+Management · Prescriptive analytics for multi-stakeholder intervention · Resource allocation in
+constrained service and supply systems · Supply chain compliance and labor risk · Measurement
+design for contested and multi-dimensional outcomes · Responsible analytics and the consequences
+of optimized decisions · Analytics and operations pedagogy
 
 **Methods:** Network optimization and interdiction · Integer and mixed-integer programming ·
 Bayesian decision analysis · Multilevel and hierarchical regression · Data envelopment analysis ·
@@ -111,8 +111,8 @@ force and the same agencies spending the same total separately?
 ### The wider program
 
 My dissertation comprises four papers designed to inform each other: a PRISMA-ScR scoping
-review establishing the gap, the model above, an algorithm and computational study, and a
-theory and complexity paper.
+review establishing the gap, now under review at _Networks_; the model above; an algorithm and
+computational study; and a theory and complexity paper.
 
 Earlier work developed a Bayesian decision model with cost–benefit analysis for U.S. ports of
 entry, determining when officers should escalate a screening for possible trafficking. At UFRGS

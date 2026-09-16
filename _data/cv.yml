@@ -66,7 +66,7 @@ cv:
 
       - institution: Universidade Federal do Rio de Janeiro
         location: Rio de Janeiro, Brazil
-        area: Fine Arts, Product Design
+        area: Industrial Design, Product Design
         studyType: BA
         start_date: 2007
         end_date: 2011
@@ -75,7 +75,7 @@ cv:
 
     Research Interests:
       - label: Research
-        details: "Resource allocation in constrained service and supply systems · Prescriptive analytics for multi-agency coordination · Supply chain compliance and labor risk · Responsible analytics and the distributional consequences of optimized decisions · Analytics and operations pedagogy"
+        details: "Coordinated decision-making across organizations · Supply Chain Management · Prescriptive analytics for multi-stakeholder intervention · Resource allocation in constrained service and supply systems · Supply chain compliance and labor risk · Measurement design for contested and multi-dimensional outcomes · Responsible analytics and the consequences of optimized decisions · Analytics and operations pedagogy"
       - label: Methods
         details: "Network optimization and interdiction · Integer and mixed-integer programming · Bayesian decision analysis · Multilevel and hierarchical regression · Data envelopment analysis · Expert elicitation · Scoping and systematic review · Qualitative and participatory methods"
 
@@ -115,7 +115,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper. Revision complete. Target: Networks, submitting September 2026"
+        publisher: "Under review at Networks, submitted September 2026"
         releaseDate: 2026-08-01
         summary: >-
           A PRISMA-ScR review registered on OSF, across four databases with two independent
@@ -139,7 +139,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper. Results analysis. Target: Naval Research Logistics or IISE Transactions"
+        publisher: "Working paper. Results analysis. Target: IISE Transactions"
         releaseDate: 2026-01-01
         summary: >-
           Under a logarithmic transform the problem is shortest-path interdiction and therefore
@@ -151,7 +151,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper. Model and algorithm ready, coding in progress. Target: EJOR, Computers and Operations Research, or Computers and Industrial Engineering"
+        publisher: "Working paper. Model and algorithm ready, coding in progress. Target: EJOR"
         releaseDate: 2026-01-01
         summary: >-
           A three-phase procedure, structure recovery, depth determination, and budget
@@ -168,7 +168,7 @@ cv:
           When poorly coordinated enforcement displaces an operation or fragments it rather
           than disrupting it, and what a decision-maker can do about that in advance.
 
-      - title: "Active learning experiences: A teaching fellowship in industrial engineering education"
+      - title: "Teaching fellowship impact on industrial engineering teaching education"
         authors:
           - Priscila A. Drummond
         publisher: "Research in progress. Data collection, cleaning and initial literature review ready, resuming after degree completion"
@@ -207,11 +207,12 @@ cv:
         start_date: 2023
         end_date: 2026
         summary: >-
-          IE 7200 Supply Chain Engineering, IE 5617 Lean Concepts and Applications (four terms),
-          and IE 4516 Quality Assurance.
+          IE 7200 Supply Chain Engineering, IE 6200 Engineering Probability and Statistics,
+          IE 5617 Lean Concepts and Applications (four terms), and IE 4516 Quality Assurance.
         highlights:
           - "Led a complete redesign of the teaching materials for IE 4516 Quality Assurance, restructuring them around experimental, simulation-based, and project-based learning"
           - "Taught several course modules independently; students ranked these among the top learning experiences of the course in an end-of-term feedback poll"
+          - "Revised the course materials for IE 6200 Engineering Probability and Statistics (Summer I 2026, Prof. D. Schmucker), reviewing every assignment from a student's perspective and auditing the set against generative AI use to find which assessments held up. Weekly meetings with the instructor and a written report on the full set of materials"
 
       - company: Operations Research and Social Justice Lab, Northeastern University
         position: Doctoral Researcher
