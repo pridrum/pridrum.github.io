@@ -1,31 +1,11 @@
-"PLOS ONE":
-  url: https://journals.plos.org/plosone/
-  color: "#d64000"
-
-"DSI":
-  url: https://decisionsciences.org/
-  color: "#00369f"
-
-"Decision Sciences":
-  url: https://onlinelibrary.wiley.com/journal/15405915
-  color: "#6b6b6b"
-
-"Job Market Paper":
-  color: "#1f6f43"
-
-"In Preparation":
-  color: "#6b6b6b"
-
-"Working Paper":
-  color: "#6b6b6b"
-
-"INFORMS":
-  url: https://www.informs.org/
-  color: "#00457c"
-
-"MS Thesis":
-  color: "#6b6b6b"
-
-"UFRJ":
-  url: https://ufrj.br/
-  color: "#6b6b6b"
+# Venue styling for publication badges on /publications/.
+#
+# Deliberately empty. _layouts/bib.liquid styles a badge only when the entry's
+# abbr matches a key here; with no match it uses the theme's default badge,
+# which is how this site has always looked. Adding keys with a `color` here
+# overrides that and repaints the badges.
+#
+# The physics venues that used to be in this file (AJP, PhysRev, Vision) were
+# al-folio demo data and matched none of Priscila's abbreviations, which is why
+# they never had any visible effect.
+{}

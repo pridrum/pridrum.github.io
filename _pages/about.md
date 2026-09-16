@@ -67,33 +67,26 @@ Expert elicitation · Scoping and systematic review · Qualitative and participa
 
 ---
 
-## Selected highlights
+## Selected Highlights
 
-I received the 2026 Outstanding Graduate Teaching Award from the Northeastern College of
-Engineering, which is a college-level award.
+🏆 **2026 COE Outstanding Graduate Teaching Award**, Northeastern University College of Engineering  
+_College-level teaching award._
 
-In Spring 2026 I was instructor of record for OR 6205, Deterministic Operations Research. I rated
-above the departmental mean on enthusiasm, sufficiency of feedback, inclusive learning environment,
-and organization of course materials, and below it on four other items. The
-[full report is published](/teaching/evaluations/), not a selection from it.
+📖 **Instructor of Record**, OR 6205: Deterministic Operations Research, Northeastern University (Spring 2026)  
+_Rated above departmental means for enthusiasm, sufficiency of feedback, inclusive learning environment, and organization of course materials. The [full report is published](/teaching/evaluations/), including the items where I came in below it._
 
-For IE 4516, Quality Assurance, I led a complete redesign of the course teaching materials around
-experimental, simulation-based, and project-based learning. The
-[design of experiments game](/teaching/anova-game/) came out of that work.
+🛠️ **Course redesign leadership**, IE 4516: Quality Assurance, Northeastern University  
+_Led a complete redesign of the course teaching materials around experimental, simulation-based, and project-based learning, including [the design of experiments game](/teaching/anova-game/) built for it._
 
-In IE 5617, Lean Concepts and Applications, I redesigned and then taught two modules. In an
-end-of-term poll ranking all 17 class sessions, those two placed 3rd and 7th, at 4.81 and 4.67 on a
-5-point scale, higher than the instructor's own scores for the same sessions.
-[All seventeen are listed](/teaching/ranking/).
+📊 **Student-ranked teaching**, IE 5617: Lean Concepts and Applications  
+_In an end-of-term poll ranking all 17 class sessions, the two modules I taught placed 3rd and 7th, at 4.81 and 4.67 on a 5-point scale, higher than the instructor's own scores for the same sessions. [All seventeen are listed](/teaching/ranking/)._
 
-Published in PLOS ONE in 2024: a multilevel regression model for detecting H-2A labor violations in
-U.S. agriculture, with Jafari, Bhimani, Nishigaya, Ding, Farrell and Maass.
-[10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)
+📄 **Published in PLOS ONE (2024)**, Multilevel regression model for detecting H-2A labor violations in U.S. agriculture  
+_With Jafari, Bhimani, Nishigaya, Ding, Farrell and Maass. DOI: [10.1371/journal.pone.0302960](https://doi.org/10.1371/journal.pone.0302960)_
 
-Session chair, Cooperation and Partnership in Public Services, INFORMS Annual Meeting 2025,
-Atlanta.
+🎤 **INFORMS Annual Meeting 2025**, Session Chair, _Cooperation and Partnership in Public Services_, Atlanta, GA
 
-Post-secondary teaching certification, Northeastern University, completed Spring 2026.
+🎓 **Post-Secondary Teaching Certification**, Northeastern University, completed Spring 2026
 
 ---
 
