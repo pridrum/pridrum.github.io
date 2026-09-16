@@ -21,28 +21,28 @@ the question set stands without it.
 
 ## The questions I ask before anyone formulates anything
 
-On stakeholder representation. Who is making decisions in this problem, and whose voices are
+**On stakeholder representation.** Who is making decisions in this problem, and whose voices are
 absent? The school board sets the constraints and the objective. Students, families, and teachers
 are not in the model at all. What could those groups tell us that would change how we frame the
 problem?
 
-On the objective function. The stated goal is minimizing total busing cost. What does that choice
+**On the objective function.** The stated goal is minimizing total busing cost. What does that choice
 prioritize and what does it leave out? We could instead minimise the maximum travel time for any
 one student, or equalize access across neighborhoods, or optimize for safety. How would the optimal
 solution differ under each? When we optimize for cost, we give a voice only to the people who care
 about cost.
 
-On the constraints. The requirement that each grade make up between 30 and 36 percent of each
+**On the constraints. **The requirement that each grade make up between 30 and 36 percent of each
 school's population looks neutral. What does it assume? In a city with a history of residential
 segregation, splitting or not splitting a neighborhood does not land the same way on every
 community.
 
-On the data. Some assignments are marked infeasible with a dash. What makes an assignment
+**On the data.** Some assignments are marked infeasible with a dash. What makes an assignment
 infeasible, who decided that, and what does it mean for the students who live there? The cost
 structure of nothing, 200 dollars, and 300 dollars by distance treats every student's time and
 safety as interchangeable. Is that valid across all six areas?
 
-On the policy options. The later parts of the case ask students to evaluate eliminating busing for
+**On the policy options. **The later parts of the case ask students to evaluate eliminating busing for
 shorter distances, and frame it as a trade-off between cost and safety. A trade-off for whom?
 Consider which neighborhoods have sidewalks, crossing guards, and safe routes, and which families
 can drive a child themselves if the bus stops coming.
