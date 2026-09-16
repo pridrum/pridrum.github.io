@@ -12,8 +12,12 @@ students got and the one I worked, because the difference between them is where 
 
 ## In-class exercises
 
-- [Student version](/assets/pdf/teaching/InClassExercises_StudentVersion.pdf)
-- [Worked version](/assets/pdf/OR6205_InClass_Exercises.pdf)
+- [The mural problem](/assets/pdf/teaching/Mural_Problem_Formulation.pdf)
+
+Four artists are assigned to three murals over an eight-week project. Each artist is better at some
+murals than others, each mural needs a minimum number of hours before it counts as finished, paint
+costs differ by mural, and the budget is fixed. Students build the formulation on the board, in
+groups, before anything is solved.
 
 Every in-class exercise was formative and ungraded by design, so that attempting a problem carried
 no penalty. That choice had a cost I did not anticipate, and I write about it on the
