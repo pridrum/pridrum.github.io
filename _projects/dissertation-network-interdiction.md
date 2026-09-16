@@ -54,7 +54,7 @@ _Working paper with K. L. Maass. Results analysis. Target: Production and Operat
 This paper is the work funded by the **DHS CINA Center of Excellence** project,
 [Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption
 Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/),
-PI Kayse Maass, Co-PI Amy Farrell.
+PI Kayse Maass
 
 **Paper 3, theory and complexity.** _Optimal bounds and complexity for network interdiction with
 dependent multiple interventions._ Under a logarithmic transform the problem is shortest-path
