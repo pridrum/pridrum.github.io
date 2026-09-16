@@ -15,29 +15,29 @@ the low items on its own has found something I hid.
 
 ## Where I came in above the department
 
-| Item | Course | Dept. |
-|---|---|---|
-| Online course materials were organized to help me navigate week by week | 4.80 | 4.45 |
-| The instructor displayed enthusiasm for the course | 4.80 | 4.55 |
-| The instructor provided sufficient feedback | 4.60 | 4.29 |
-| The instructor facilitated a respectful and inclusive learning environment | 4.60 | 4.54 |
-| Online interactions created a sense of community with classmates | 4.50 | 4.18 |
-| Online interactions with my instructor created a sense of connection | 4.50 | 4.29 |
-| In-class sessions were helpful for learning | 4.40 | 4.34 |
+| Item                                                                       | Course | Dept. |
+| -------------------------------------------------------------------------- | ------ | ----- |
+| Online course materials were organized to help me navigate week by week    | 4.80   | 4.45  |
+| The instructor displayed enthusiasm for the course                         | 4.80   | 4.55  |
+| The instructor provided sufficient feedback                                | 4.60   | 4.29  |
+| The instructor facilitated a respectful and inclusive learning environment | 4.60   | 4.54  |
+| Online interactions created a sense of community with classmates           | 4.50   | 4.18  |
+| Online interactions with my instructor created a sense of connection       | 4.50   | 4.29  |
+| In-class sessions were helpful for learning                                | 4.40   | 4.34  |
 
 ## Where I came in below it
 
-| Item | Course | Dept. |
-|---|---|---|
-| The instructor used class time effectively | 3.80 | 4.42 |
-| Out-of-class assignments were helpful for learning | 3.80 | 4.44 |
-| This course was intellectually challenging | 3.80 | 4.48 |
-| I learned a lot in this course | 3.80 | 4.52 |
-| The syllabus was accurate and helpful in delineating expectations | 4.00 | 4.56 |
-| Required and additional course materials were helpful | 4.20 | 4.48 |
-| The instructor came to class prepared to teach | 4.20 | 4.58 |
-| The instructor clearly communicated ideas and information | 4.20 | 4.36 |
-| Overall rating of teaching effectiveness | 4.20 | 4.41 |
+| Item                                                              | Course | Dept. |
+| ----------------------------------------------------------------- | ------ | ----- |
+| The instructor used class time effectively                        | 3.80   | 4.42  |
+| Out-of-class assignments were helpful for learning                | 3.80   | 4.44  |
+| This course was intellectually challenging                        | 3.80   | 4.48  |
+| I learned a lot in this course                                    | 3.80   | 4.52  |
+| The syllabus was accurate and helpful in delineating expectations | 4.00   | 4.56  |
+| Required and additional course materials were helpful             | 4.20   | 4.48  |
+| The instructor came to class prepared to teach                    | 4.20   | 4.58  |
+| The instructor clearly communicated ideas and information         | 4.20   | 4.36  |
+| Overall rating of teaching effectiveness                          | 4.20   | 4.41  |
 
 ## What I think happened
 

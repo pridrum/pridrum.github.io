@@ -14,6 +14,7 @@ category: University of Texas Rio Grande Valley
 **Institution:** University of Texas Rio Grande Valley (UTRGV), Edinburg, TX  
 **Role:** Graduate Teaching Assistant (Prof. Hiram Moya)  
 **Terms & Courses:**
+
 - **Spring 2020 & 2021** — Operations Research (Undergraduate, 21 students)
 - **Fall 2020** — Manufacturing Production and Control (Undergraduate, 18 students)
 - **Summer 2021** — Engineering Management (Undergraduate, 20 students)

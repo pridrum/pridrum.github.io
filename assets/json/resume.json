@@ -60,11 +60,7 @@
       "studyType": "MS",
       "startDate": "2019",
       "endDate": "2021",
-      "courses": [
-        "Operations Research",
-        "Bayesian Optimization",
-        "Engineering Management"
-      ]
+      "courses": ["Operations Research", "Bayesian Optimization", "Engineering Management"]
     },
     {
       "institution": "Universidade Federal do Rio Grande do Sul",
@@ -74,11 +70,7 @@
       "studyType": "MS",
       "startDate": "2017",
       "endDate": "2019",
-      "courses": [
-        "Data Envelopment Analysis",
-        "Manufacturing Production and Control",
-        "Statistical Methods"
-      ]
+      "courses": ["Data Envelopment Analysis", "Manufacturing Production and Control", "Statistical Methods"]
     }
   ],
   "work": [
@@ -320,15 +312,7 @@
       "name": "Optimization",
       "level": "Advanced",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Gurobi",
-        "LINDO",
-        "AMPL",
-        "Network Interdiction",
-        "Integer Programming",
-        "Linear Programming",
-        "Data Envelopment Analysis (DEA)"
-      ]
+      "keywords": ["Gurobi", "LINDO", "AMPL", "Network Interdiction", "Integer Programming", "Linear Programming", "Data Envelopment Analysis (DEA)"]
     },
     {
       "name": "Teaching & Pedagogy",
@@ -348,14 +332,7 @@
       "name": "Research Methods",
       "level": "Advanced",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Network optimization",
-        "Mixed methods",
-        "Participatory research",
-        "Statistical analysis",
-        "Impact measurement",
-        "DEA modeling"
-      ]
+      "keywords": ["Network optimization", "Mixed methods", "Participatory research", "Statistical analysis", "Impact measurement", "DEA modeling"]
     }
   ],
   "languages": [
@@ -384,22 +361,12 @@
     {
       "name": "Operations Research for Social Good",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Anti-human trafficking",
-        "Labor rights",
-        "Network interdiction",
-        "Multi-agent optimization"
-      ]
+      "keywords": ["Anti-human trafficking", "Labor rights", "Network interdiction", "Multi-agent optimization"]
     },
     {
       "name": "Engineering Education",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Inclusive pedagogy",
-        "Active learning",
-        "Scholarship of Teaching and Learning (SoTL)",
-        "Equity in STEM"
-      ]
+      "keywords": ["Inclusive pedagogy", "Active learning", "Scholarship of Teaching and Learning (SoTL)", "Equity in STEM"]
     }
   ],
   "references": [
@@ -423,10 +390,7 @@
     {
       "name": "Collaboration in Antitrafficking Efforts: A Network Interdiction Problem",
       "summary": "Models how collaboration between law enforcement agencies improves labor trafficking interdiction outcomes using network optimization. Working paper with K.L. Maass.",
-      "highlights": [
-        "Presented at INFORMS Annual Meeting 2025",
-        "Demonstrates that multi-agency cooperation substantially improves detection rates"
-      ],
+      "highlights": ["Presented at INFORMS Annual Meeting 2025", "Demonstrates that multi-agency cooperation substantially improves detection rates"],
       "startDate": "2023",
       "endDate": "Present"
     },

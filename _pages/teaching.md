@@ -36,9 +36,9 @@ told me the slides moved faster than their thinking. I replaced generic examples
 connected to their own contexts, and added more worked examples when students said the balance
 had tipped too far toward theory.
 
-> *"I did like that she was very happy to teach this course cause I could tell that she loves
+> _"I did like that she was very happy to teach this course cause I could tell that she loves
 > this topic so much, and I like that she was able to listen to our feedback to make the
-> course better."*  
+> course better."_  
 > OR 6205 student, Spring 2026 (TRACE evaluation)
 
 I also know where I am still improving. In that first semester as instructor of record,
@@ -52,9 +52,12 @@ improves under criticism than one that is defended.
 
 ## Building the materials, not just delivering them
 
-As a teaching assistant for **IE 4516: Quality Assurance**, I led a complete redesign of the
-course teaching materials, restructuring them around experimental, simulation-based, and
-project-based learning.
+I was the teaching assistant for **IE 4516: Quality Assurance**, with Prof. Hugh McManus. I also
+led a complete redesign of the course teaching materials, with Prof. McManus and Dr. Rehab Ali,
+restructuring them around experimental, simulation-based, and project-based learning. I rebuilt
+and taught the Design of Experiments and ANOVA module, including
+[a classroom game built for it](/teaching/anova-game/), and revised and taught the Process
+Control module.
 
 That experience is what convinced me that course design and teaching are the same job: you cannot
 run an active classroom on materials built for a passive one.
@@ -107,16 +110,15 @@ Each of these is a page rather than a claim. The files are there to be read, not
 ## What I am prepared to teach
 
 **Ready to teach immediately.** Operations Management · Supply Chain Management · Supply Chain
-Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics · Business
-Analytics (core) · Introduction to Data Analysis · Lean Operations and Process Improvement ·
-Quality Management · Engineering Economy and Engineering Economics and Finance · Project Management
+Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics ·
+Introduction to Data Analysis · Lean Operations and Process Improvement · Quality Management ·
+Engineering Economy and Engineering Economics and Finance · Project Management
 
 **Ready with one semester of preparation.** Predictive Analytics · Data Visualization · Simulation
-Modeling · Decision and Risk Analysis · Sustainable and Responsible Supply Chain Management ·
-Python for Business Analytics
+Modeling · Business Analytics · Decision and Risk Analysis · Sustainable and Responsible Supply
+Chains · Python for Business Analytics
 
-**Ready to develop.** Operations Management and Social Impact (elective) · Sports and Performance
-Analytics (elective)
+**Ready to develop.** Operations Management and Social Impact · Sports and Performance Analytics
 
 ---
 

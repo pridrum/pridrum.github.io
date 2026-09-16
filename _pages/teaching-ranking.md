@@ -21,25 +21,25 @@ Prof. Hugh McManus sent me the ranked list himself on 26 June 2025:
 
 ## All seventeen sessions, as ranked
 
-| Rank | Session | Score |
-|---|---|---|
-| 1 | Lean Thinking III (process map) | 1.90 |
-| 2 | Lean Thinking V, Value Stream Mapping | 1.86 |
-| 3 | Process Control and Six Sigma Basics (bean process) | 1.81 |
-| 4 | The Start of your Lean Journey (intro, 6S exercise) | 1.71 |
-| 5 | Lean Thinking I-II (SIPOC and Waste Hunt) | 1.71 |
-| 6 | Big Simulation Exercise (Lego airplanes, clinics, PD jobs, VR) | 1.71 |
-| 7 | Quality Tools and Topics (F hunt, M&M Pareto) | 1.67 |
-| 8 | Lean Healthcare (wastes survey) | 1.63 |
-| 9 | Midterm and Final Reviews | 1.57 |
-| 10 | Leadership (videos) | 1.54 |
-| 11 | People (job satisfaction brainstorm and dot vote) | 1.48 |
-| 12 | Lean Thinking IV (detailed time and capacity analysis) | 1.45 |
-| 13 | Variability Simulations (poker chip sim, computer sim) | 1.35 |
-| 14 | Implementation (A3) | 1.33 |
-| 15 | Lean Supply Chain (characteristics) | 1.30 |
-| 16 | Plant Tour (video) | 1.29 |
-| 17 | Lean Engineering (DFX discussion) | 1.17 |
+| Rank | Session                                                        | Score |
+| ---- | -------------------------------------------------------------- | ----- |
+| 1    | Lean Thinking III (process map)                                | 1.90  |
+| 2    | Lean Thinking V, Value Stream Mapping                          | 1.86  |
+| 3    | Process Control and Six Sigma Basics (bean process)            | 1.81  |
+| 4    | The Start of your Lean Journey (intro, 6S exercise)            | 1.71  |
+| 5    | Lean Thinking I-II (SIPOC and Waste Hunt)                      | 1.71  |
+| 6    | Big Simulation Exercise (Lego airplanes, clinics, PD jobs, VR) | 1.71  |
+| 7    | Quality Tools and Topics (F hunt, M&M Pareto)                  | 1.67  |
+| 8    | Lean Healthcare (wastes survey)                                | 1.63  |
+| 9    | Midterm and Final Reviews                                      | 1.57  |
+| 10   | Leadership (videos)                                            | 1.54  |
+| 11   | People (job satisfaction brainstorm and dot vote)              | 1.48  |
+| 12   | Lean Thinking IV (detailed time and capacity analysis)         | 1.45  |
+| 13   | Variability Simulations (poker chip sim, computer sim)         | 1.35  |
+| 14   | Implementation (A3)                                            | 1.33  |
+| 15   | Lean Supply Chain (characteristics)                            | 1.30  |
+| 16   | Plant Tour (video)                                             | 1.29  |
+| 17   | Lean Engineering (DFX discussion)                              | 1.17  |
 
 Rows 3 and 7 are mine. The poll runs on a legacy scale from minus two to plus two. Adding three
 maps it onto one to five, so 1.81 becomes 4.81 and 1.67 becomes 4.67, against a top score of 1.90

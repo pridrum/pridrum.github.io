@@ -39,10 +39,10 @@ At the end of **Summer I 2025**, Prof. McManus asked students to rank every clas
 the course. The two sessions I taught placed **3rd and 7th out of 17**, scoring **4.81** and
 **4.67** on a 5-point scale.
 
-| Session I taught | Score | Rank |
-| :--- | :--- | :--- |
-| Process Control / Six Sigma Basics | 4.81 | 3rd of 17 |
-| Quality Tools & Topics | 4.67 | 7th of 17 |
+| Session I taught                   | Score | Rank      |
+| :--------------------------------- | :---- | :-------- |
+| Process Control / Six Sigma Basics | 4.81  | 3rd of 17 |
+| Quality Tools & Topics             | 4.67  | 7th of 17 |
 
 What makes this useful rather than merely flattering is the comparison built into it. Prof.
 McManus has taught this course for years and runs the same ranking every term, so the baseline
@@ -53,14 +53,14 @@ higher than when I do them."
 
 ## Selected Student Feedback (Summer 2025)
 
-> *"You've been a great TA for us. You are easily approachable and patient whenever
-> we had doubts."*
+> _"You've been a great TA for us. You are easily approachable and patient whenever
+> we had doubts."_
 
-> *"Even when we didn't directly ask for your help, you were helping us make a better
-> VSM, process, or helping us look at a problem in a different way."*
+> _"Even when we didn't directly ask for your help, you were helping us make a better
+> VSM, process, or helping us look at a problem in a different way."_
 
-> *"Your communication is articulate and you have a natural warmth that makes us feel
-> comfortable. It's clear that you care about teaching and helping us understand."*
+> _"Your communication is articulate and you have a natural warmth that makes us feel
+> comfortable. It's clear that you care about teaching and helping us understand."_
 
 ---
 
