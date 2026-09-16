@@ -33,29 +33,58 @@ unintended consequences? These are the central questions of my dissertation.
 
 ---
 
-## Research Threads
+## The four papers
 
-**Thread 1 — Collaboration in Antitrafficking Efforts: A Network Interdiction Problem**  
-Models how two cooperating interdictors — sharing resources or information — compare
-to independent enforcement. Shows that collaboration substantially improves detection
-outcomes under realistic network conditions.  
-_Presented: INFORMS 2025 (Atlanta) · Working paper with K.L. Maass_
+**Paper 1, the scoping review.** _Multiple non-independent interventions on the same network
+element._ A PRISMA-ScR review registered on OSF, across four databases with two independent
+reviewers. It establishes that independence, or the absence of same-element multiplicity
+altogether, is the norm in the literature, which is the gap the rest of the dissertation
+addresses.  
+_Working paper with K. L. Maass. Revision complete, submitting to Networks, September 2026_
 
-**Thread 2 — Scoping Review of Collaboration and Multiple Attacks in Network Interdiction**  
-A systematic review of the NIP literature on multi-agent and multi-attack settings,
-identifying gaps and framing the dissertation's contributions within the field.  
-_Working paper with K.L. Maass_
+**Paper 2, the model. [Job market paper]** _Collaboration in anti-trafficking efforts: a network
+interdiction problem with multiple dependent attacks._ Rather than committing to one algebraic
+form for how interventions combine, it defines the class of effect functions satisfying four
+axioms and shows the standard independence assumption sits at the boundary of that class, with an
+exact linearization and dual bounds. Two results are aimed at a management audience: the cost of
+assuming independence, and the coordination gap between a centralized task force and the same
+organizations spending the same total separately.  
+_Working paper with K. L. Maass. Results analysis. Target: Production and Operations Management_
 
-**Thread 3 — Unintended Consequences in Network Interdiction: An Agricultural Labor Trafficking Problem**  
-Examines how enforcement strategies that appear optimal in a single-agent setting can
-produce counterproductive outcomes (displacement, evasion, harm to victims) in
-multi-stakeholder contexts.  
-_Working paper with Miller, F. and K.L. Maass_
+This paper is the work funded by the **DHS CINA Center of Excellence** project,
+[Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption
+Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/),
+PI Kayse Maass, Co-PI Amy Farrell.
 
-**Thread 4 — Network Interdiction to Improve Labor Trafficking Detection in U.S. Agriculture**  
-Develops interdiction strategies grounded in the H-2A violation data modeled in
-our PLOS ONE paper {% cite jafari2024enhancing %}.  
-_Under review at Decision Sciences · With Jafari, Bhimani, Farrell & Maass_
+**Paper 3, theory and complexity.** _Optimal bounds and complexity for network interdiction with
+dependent multiple interventions._ Under a logarithmic transform the problem is shortest-path
+interdiction and therefore NP-hard. The narrower and more useful claim is that structure discovery
+is polynomial and independent of the choice of function, and that the optimal intervention can be
+restricted to a candidate set determined by which parts of the network are in play.  
+_Working paper with K. L. Maass. Results analysis. Target: Naval Research Logistics or IISE
+Transactions_
+
+**Paper 4, the algorithm and computational study.** _Algorithms for network interdiction problems
+with non-convex functional attacks._ A three-phase procedure, structure recovery, depth
+determination, and budget allocation with re-optimization after each commitment, verified against
+exhaustive enumeration on instances small enough to permit it and reported by structural case.  
+_Working paper with K. L. Maass. Model and algorithm ready, coding in progress_
+
+---
+
+## Related work
+
+**The empirical companion.** _Network interdiction to improve labor trafficking detection in the
+U.S. agricultural sector_, grounded in the H-2A violation data modeled in our PLOS ONE paper
+{% cite jafari2024enhancing %}.  
+_Revise and resubmit at Decision Sciences. With Jafari, Bhimani, Farrell and Maass_
+
+**Picking up after the degree.** _Unintended consequences of enforcement in labor trafficking
+networks: geographic displacement, operational fragmentation, and compliance switching._ How
+enforcement that looks optimal for one agency can displace an operation or fragment it rather than
+disrupt it.  
+_Research in progress with K. L. Maass. Ideation and literature review, resuming after degree
+completion_
 
 ---
 
@@ -65,7 +94,7 @@ _Under review at Decision Sciences · With Jafari, Bhimani, Farrell & Maass_
 - **Multi-agent optimization** (cooperative and non-cooperative settings)
 - **Python** with Gurobi for computational experiments
 - **Public datasets**: H-2A violation records, DOL enforcement data (500,000+ records)
-- Collaboration with DHS–CINA and agricultural labor enforcement practitioners
+- Funded by the DHS CINA Center of Excellence, and developed with agricultural labor enforcement practitioners
 
 ---
 

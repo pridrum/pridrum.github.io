@@ -26,12 +26,10 @@ engineered a **Bayesian optimization decision support tool** that integrated cos
 analysis with statistical predictors to improve the accuracy of trafficking identification
 at border checkpoints.
 
-The model was developed in partnership with **DHS–CINA** (Center for Countering Human
-Trafficking) and published through the Decision Sciences Institute (2020) and as a
-full MS thesis (2021).
+The work was published through the Decision Sciences Institute in 2020 and as a full MS
+thesis in 2021.
 
-**Key methods:** Bayesian optimization · Cost-benefit analysis · Statistical modeling  
-**Partner:** Department of Homeland Security – CINA
+**Key methods:** Bayesian optimization · Cost-benefit analysis · Statistical modeling
 
 {% cite drummond2021thesis drummond2020ports %}
 
