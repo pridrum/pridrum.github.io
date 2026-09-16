@@ -12,7 +12,7 @@ category: Northeastern University
 ## Course Overview
 
 **Course:** IE 4516 — Quality Assurance (Undergraduate)
-**Role:** Graduate Teaching Assistant to Prof. Hugh McManus, and lead on the redesign of the course teaching materials, with Prof. McManus and Dr. Ali
+**Role:** Graduate Teaching Assistant to Prof. Hugh McManus, and lead on the redesign of the course teaching materials, with Prof. McManus and Dr. Rehab Ali
 **Institution:** Northeastern University, Dept. of Mechanical & Industrial Engineering
 **Term:** Fall 2023 (Prof. Hugh McManus, ~20 students)
 
@@ -27,7 +27,7 @@ students can pass every calculation and still not understand what the numbers ar
 This is the course where I moved from delivering material to building it.
 
 I took the lead on a **complete redesign of the course teaching materials**, working with Prof.
-Hugh McManus and Dr. Ali, restructuring
+Hugh McManus and Dr. Rehab Ali, restructuring
 them around **experimental, simulation-based, and project-based learning**. I redesigned and taught
 the Design of Experiments and ANOVA module, including
 [a classroom game built for it](/teaching/anova-game/), and revised and taught the Process Control

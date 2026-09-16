@@ -53,7 +53,7 @@ improves under criticism than one that is defended.
 ## Building the materials, not just delivering them
 
 I was the teaching assistant for **IE 4516: Quality Assurance**, with Prof. Hugh McManus. I also
-led a complete redesign of the course teaching materials, with Prof. McManus and Dr. Ali,
+led a complete redesign of the course teaching materials, with Prof. McManus and Dr. Rehab Ali,
 restructuring them around experimental, simulation-based, and project-based learning.
 
 That experience is what convinced me that course design and teaching are the same job: you cannot
