@@ -41,7 +41,7 @@ the low items on its own has found something I hid.
 
 ## What I think happened
 
-A student diagnosed it precisely. 
+A student diagnosed it precisely.
 
 > "I wish there were more structure to the course because sometimes in class we would be learning
 > about one topic, but then somehow shift very quickly to a different topic that becomes too
@@ -74,5 +74,4 @@ and what I have changed since.
 4. Give change defined places to happen, so that it reads as a decision rather than as drift.
 
 I am on a dissertation completion fellowship this year and not teaching, so this is a plan rather
-than a repair in progress. 
-
+than a repair in progress.

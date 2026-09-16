@@ -82,7 +82,7 @@ disrupt it.
 _Research in progress with K. L. Maass. Ideation and literature review, resuming after degree
 completion_
 
-_An auto-ethnographic account of a student's experience as a teaching fellow in industrial engineering_ An auto-ethnographic research of my experience in the Teaching Fellowship program at Northeastern University and how it affected my development as a teacher. 
+_An auto-ethnographic account of a student's experience as a teaching fellow in industrial engineering_ An auto-ethnographic research of my experience in the Teaching Fellowship program at Northeastern University and how it affected my development as a teacher.
 _Independent research in progress. Data collection, cleaning, and initial literature review ready; resuming after degree completion._
 
 ---
