@@ -21,15 +21,13 @@ trafficking in U.S. agricultural supply chains.
 
 ## Motivation
 
-Anti-trafficking organizations rarely operate in isolation — yet the operations research
+Anti-trafficking organizations rarely operate in isolation; yet the operations research
 literature has largely modeled interdiction as a single-agent problem. In practice,
-Homeland Security investigators, labor departments, NGOs, and local law enforcement
+Homeland Security investigators (DHS), labor departments (DOL), NGOs, and local law enforcement
 all play roles in detecting and disrupting labor trafficking, particularly in agriculture
 where H-2A guest worker programs create structural vulnerabilities.
 
-What happens when these agencies share information, coordinate interdiction resources,
-or divide enforcement territory? When does collaboration help, and when does it create
-unintended consequences? These are the central questions of my dissertation.
+What happens when these agencies are acting in the same trafficking operations? How does the effect of their interdictions change because they are all unintentionally interfering with each other's actions? For example, how can we measure the effect of disruption on trafficking when the DHS deport the immigrant laborers who were serving as witnesses in an FBI or DOL case? These are the central questions of my dissertation.
 
 ---
 
@@ -45,20 +43,19 @@ _Working paper with K. L. Maass. Revision complete, submitting to Networks, Sept
 **Paper 2, the model. [Job market paper]** _Collaboration in anti-trafficking efforts: a network
 interdiction problem with multiple dependent attacks._ Rather than committing to one algebraic
 form for how interventions combine, it defines the class of effect functions satisfying four
-axioms and shows the standard independence assumption sits at the boundary of that class, with an
-exact linearization and dual bounds. Two results are aimed at a management audience: the cost of
+axioms and shows the standard independence assumption sits at the boundary of that class. Two results are aimed at a management audience: the cost of
 assuming independence, and the coordination gap between a centralized task force and the same
 organizations spending the same total separately.  
 _Working paper with K. L. Maass. Results analysis. Target: Production and Operations Management_
 
-This paper is the work funded by the **DHS CINA Center of Excellence** project,
+This paper is the work partially funded by the **DHS CINA** project,
 [Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption
 Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/),
 PI Kayse Maass
 
 **Paper 3, theory and complexity.** _Optimal bounds and complexity for network interdiction with
 dependent multiple interventions._ Under a logarithmic transform the problem is shortest-path
-interdiction and therefore NP-hard. The narrower and more useful claim is that structure discovery
+interdiction and therefore NP-hard. We show that depending on the structure, the problem
 is polynomial and independent of the choice of function, and that the optimal intervention can be
 restricted to a candidate set determined by which parts of the network are in play.  
 _Working paper with K. L. Maass. Results analysis. Target: IISE Transactions_
@@ -66,7 +63,7 @@ _Working paper with K. L. Maass. Results analysis. Target: IISE Transactions_
 **Paper 4, the algorithm and computational study.** _Algorithms for network interdiction problems
 with non-convex functional attacks._ A three-phase procedure, structure recovery, depth
 determination, and budget allocation with re-optimization after each commitment, verified against
-exhaustive enumeration on instances small enough to permit it and reported by structural case.  
+exhaustive enumeration and compared with a baseline heuristic.
 _Working paper with K. L. Maass. Model and algorithm ready, coding in progress_
 
 ---
@@ -93,7 +90,6 @@ completion_
 - **Multi-agent optimization** (cooperative and non-cooperative settings)
 - **Python** with Gurobi for computational experiments
 - **Public datasets**: H-2A violation records, DOL enforcement data (500,000+ records)
-- Funded by the DHS CINA Center of Excellence, and developed with agricultural labor enforcement practitioners
 
 ---
 
@@ -101,8 +97,8 @@ completion_
 
 - INFORMS Annual Meeting 2025 — Atlanta, GA _(podium talk)_
 - INFORMS Annual Meeting 2024 — Seattle, WA
-- INFORMS Annual Meeting 2023
-- INFORMS Annual Meeting 2022
+- INFORMS Annual Meeting 2023 - Phoenix, AZ
+- INFORMS Annual Meeting 2022 - Indianapolis, IN
 - RISE Research Expo, Northeastern University 2024 _(poster)_
 - MIE Research Expo, Northeastern University 2023 _(poster)_
 
