@@ -21,10 +21,9 @@ no penalty. That choice had a cost I did not anticipate, and I write about it on
 
 ## At-home exercises
 
-Guided exercises on simplex theory, with the harder prompts kept and the scaffolding written into
-the problem rather than withheld from it.
+Guided exercises on Google collab - Completed exercise.
 
-- [Simplex theory exercises](/assets/pdf/teaching/AtHomeExercises_SimplexTheory.pdf)
+- [Guided Google Colab Exercise](https://drive.google.com/file/d/1lDaaq173OItdjPVhK3qTDlGBggHr5E41/view?usp=sharing)
 
 ## The project, and how it was graded
 
