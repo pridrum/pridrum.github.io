@@ -54,7 +54,10 @@ improves under criticism than one that is defended.
 
 I was the teaching assistant for **IE 4516: Quality Assurance**, with Prof. Hugh McManus. I also
 led a complete redesign of the course teaching materials, with Prof. McManus and Dr. Rehab Ali,
-restructuring them around experimental, simulation-based, and project-based learning.
+restructuring them around experimental, simulation-based, and project-based learning. I rebuilt
+and taught the Design of Experiments and ANOVA module, including
+[a classroom game built for it](/teaching/anova-game/), and revised and taught the Process
+Control module.
 
 That experience is what convinced me that course design and teaching are the same job: you cannot
 run an active classroom on materials built for a passive one.

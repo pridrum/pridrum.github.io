@@ -40,7 +40,7 @@ element._ A PRISMA-ScR review registered on OSF, across four databases with two 
 reviewers. It establishes that independence, or the absence of same-element multiplicity
 altogether, is the norm in the literature, which is the gap the rest of the dissertation
 addresses.  
-_With K. L. Maass. Under review at Networks, submitted September 2026_
+_Working paper with K. L. Maass. Revision complete, submitting to Networks, September 2026_
 
 **Paper 2, the model. [Job market paper]** _Collaboration in anti-trafficking efforts: a network
 interdiction problem with multiple dependent attacks._ Rather than committing to one algebraic
