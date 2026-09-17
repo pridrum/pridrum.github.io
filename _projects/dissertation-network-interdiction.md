@@ -37,7 +37,7 @@ What happens when these agencies are acting in the same trafficking operations? 
 element._ A PRISMA-ScR review registered on OSF, across four databases with two independent
 reviewers. It establishes that independence, or the absence of same-element multiplicity
 altogether, is the norm in the literature, which is the gap the rest of the dissertation
-addresses.  
+addresses. The [registered protocol](https://pridrum.github.io/assets/pdf/Drummond_ScR_Protocol_2024.pdf) is available as a PDF.  
 _Working paper with K. L. Maass. Revision complete, submitting to Networks, September 2026_
 
 **Paper 2, the model. [Job market paper]** _Collaboration in anti-trafficking efforts: a network

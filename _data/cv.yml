@@ -120,7 +120,8 @@ cv:
         summary: >-
           A PRISMA-ScR review registered on OSF, across four databases with two independent
           reviewers screening and extracting. Establishes that independence, or the absence of
-          same-element multiplicity altogether, is the norm in the literature.
+          same-element multiplicity altogether, is the norm in the literature. Registered
+          protocol: https://pridrum.github.io/assets/pdf/Drummond_ScR_Protocol_2024.pdf
 
       - title: "Network interdiction to improve labor trafficking detection in the U.S. agricultural sector"
         authors:
