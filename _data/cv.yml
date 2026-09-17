@@ -1,14 +1,15 @@
 cv:
   name: Priscila de Azevedo Drummond
   label: PhD Candidate, Industrial Engineering. Operations and Supply Chain
-  email: priscilaadrummond@gmail.com
+  email: deazevedodrummond.p@northeastern.edu
   location: Boston, MA
   image: ""
   summary: >-
-    I study how an organization with too few resources decides where to intervene, when the
-    outcomes are hard to measure and the data is bad. My dissertation develops network
-    interdiction models for multi-agency coordination, applied to labor trafficking in U.S.
-    agricultural supply chains. PhD defense scheduled 2 December 2026.
+    How should organizations allocate resources when they act on the same system, their actions
+    interact, and no one is in charge? I build network optimization models for decisions that
+    cross agency and firm boundaries, grounded in structured expert elicitation and
+    administrative data, to show when coordination is worth its cost. PhD defense scheduled
+    2 December 2026.
 
   social_networks:
     - network: GitHub
@@ -75,16 +76,16 @@ cv:
 
     Research Interests:
       - label: Research
-        details: "Coordinated decision-making across organizations · Prescriptive analytics for multi-agency intervention · Resource allocation in constrained service and supply systems · Supply chain compliance and labor risk · Measurement design for contested and multi-dimensional outcomes · Responsible analytics and the consequences of optimized decisions · Analytics and operations pedagogy"
+        details: "Coordinated decision-making across organizations · Supply Chain Management · Prescriptive analytics for multi-stakeholder intervention · Resource allocation in constrained service and supply systems · Supply chain compliance and labor risk · Measurement design for contested and multi-dimensional outcomes · Responsible analytics and the consequences of optimized decisions · Analytics and operations pedagogy"
       - label: Methods
         details: "Network optimization and interdiction · Integer and mixed-integer programming · Bayesian decision analysis and cost-benefit modeling · Multilevel and hierarchical regression · Data envelopment analysis · Expert elicitation · Systematic and scoping review · Qualitative and participatory methods"
 
     Publications:
       - title: "Enhancing detection of labor violations in the agricultural sector: A multilevel generalized linear regression model of H-2A violation counts"
         authors:
-          - Azeroo Jafari
-          - Shawn Bhimani
+          - Arezoo Jafari
           - Priscila A. Drummond
+          - Shawn Bhimani
           - Dominic Nishigaya
           - Aidong A. Ding
           - Amy Farrell
@@ -111,7 +112,7 @@ cv:
           management audience: the cost of assuming independence, and the coordination gap
           between a centralized task force and the same agencies spending separately.
 
-      - title: "Multiple non-independent interventions on the same network element: A scoping review"
+      - title: "Multiple attacks in network interdiction problems: A scoping review"
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
@@ -125,7 +126,7 @@ cv:
 
       - title: "Network interdiction to improve labor trafficking detection in the U.S. agricultural sector"
         authors:
-          - Azeroo Jafari
+          - Arezoo Jafari
           - Shawn Bhimani
           - Priscila A. Drummond
           - Amy Farrell
@@ -136,11 +137,11 @@ cv:
           Applies network interdiction to collaborative detection across the Department of
           Labor and the Department of Homeland Security.
 
-      - title: "Optimal bounds and complexity for network interdiction with dependent multiple interventions"
+      - title: "Optimal bounds and complexity for network interdiction with multiple interventions"
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper. Results analysis. Target: IISE Transactions"
+        publisher: "Working paper. Results analysis. Target: Operations Research"
         releaseDate: 2026-01-01
         summary: >-
           Under a logarithmic transform the problem is shortest-path interdiction and therefore
@@ -152,7 +153,7 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Working paper. Model and algorithm ready, coding in progress. Target: EJOR"
+        publisher: "Working paper. Model and algorithm ready, coding in progress. Target: European Journal of Operational Research"
         releaseDate: 2026-01-01
         summary: >-
           A three-phase procedure, structure recovery, depth determination, and budget
@@ -163,16 +164,16 @@ cv:
         authors:
           - Priscila A. Drummond
           - Kayse Lee Maass
-        publisher: "Research in progress. Ideation and literature review stage, resuming after degree completion"
+        publisher: "Research in progress. Ideation and literature review stage, resuming after degree completion. Target: Manufacturing and Service Operations Management"
         releaseDate: 2026-01-01
         summary: >-
           When poorly coordinated enforcement displaces an operation or fragments it rather
           than disrupting it, and what a decision-maker can do about that in advance.
 
-      - title: "An auto-ethnographic account of a student's experience as a teaching fellow in industrial engineering"
+      - title: "Teaching fellowship impact on industrial engineering teaching education: An auto-ethnographic account by a student"
         authors:
           - Priscila A. Drummond
-        publisher: "Research in progress. Data collection, cleaning and initial literature review ready, resuming after degree completion"
+        publisher: "Research in progress. Data collection, cleaning and initial literature review ready, resuming after degree completion. Target: Journal of Engineering Education"
         releaseDate: 2026-01-01
         summary: >-
           Narrative and autoethnographic analysis of how mentored teaching shapes an
@@ -212,7 +213,7 @@ cv:
           IE 5617 Lean Concepts and Applications (four terms), and IE 4516 Quality Assurance.
         highlights:
           - "Led a complete redesign of the teaching materials for IE 4516 Quality Assurance, with Prof. Hugh McManus and Dr. Rehab Ali, restructuring them around experimental, simulation-based, and project-based learning"
-          - "Taught several course modules independently; students ranked these among the top learning experiences of the course in an end-of-term feedback poll"
+          - "Taught the Process Control and Six Sigma Basics module and the Quality Tools and Topics module independently (Summer I 2025). In the end-of-term student ranking of all 17 class sessions, these placed 3rd and 7th, at 4.81 and 4.67 on a 5-point scale, above the instructor's own scores for the same sessions"
           - "Revision materials for IE 6200 Engineering Probability and Statistics (Summer I 2026, Prof. Doug Schmucker). Analyzed the materials and assignments against AI usage and reviewed material from a student perspective; created answers with different prompts using AI to test robustness of assignments to use of artificial intelligence. Weekly meetings with the professor, and a feedback report for all course materials"
 
       - company: Operations Research and Social Justice Lab, Northeastern University
@@ -250,7 +251,7 @@ cv:
           Evaluated resource allocation across the network of services for survivors of domestic
           and gender-based violence, in partnership with the state public security department.
         highlights:
-          - "Data envelopment analysis on crime and social service data across 450+ municipalities using R and Python, combined with structured expert judgment"
+          - "Data envelopment analysis on crime and social service data across 450+ municipalities using R, combined with structured expert validation"
           - "Mapped multi-service provider flows, survivor pathways, and information pathways through the system"
           - "TA for Manufacturing Production and Control across three terms"
 
@@ -276,7 +277,7 @@ cv:
           Financial analyst and administrative roles, plus a small design business of my own.
         highlights:
           - "COMLURB: secured 100% budget approval at annual town hall meetings by presenting complex financial analysis to non-technical stakeholders; reduced contract and inventory costs by 30%"
-          - "MRS Global: designed automated validation protocols for financial control databases, reducing error-correction workload by 67%"
+          - "MRS Global: designed automated validation protocols for financial control databases, reducing error-correction workload by 60%"
           - "Nano Presentes: founded and ran a design retail business; secured national blog and press coverage"
 
     Awards:
@@ -300,12 +301,12 @@ cv:
         awarder: University of Texas Rio Grande Valley
 
     Grants and Fellowships:
-      - bullet: "**Dissertation Completion Fellowship**, Northeastern University, 2026, $14,730 stipend, 100% tuition scholarship, and health plan support"
+      - bullet: "**Dissertation Completion Fellowship**, Northeastern University, 2026"
       - bullet: "**Teaching Fellowship**, Northeastern University, Fall 2025 to Spring 2026 (yearly student-awarded fellowship)"
-      - bullet: "**PhD Network and MIE Department Travel Funds**, Northeastern University, $1,000 (2025), $1,000 (2024), $1,000 (2023), $500 (2022)"
-      - bullet: "**Dean's Chair Fellowship**, Northeastern University, 2021, tuition and stipend"
+      - bullet: "**PhD Network and MIE Department Travel Funds**, Northeastern University, 2022, 2023, 2024, 2025"
+      - bullet: "**Dean's Chair Fellowship**, Northeastern University, 2021"
       - bullet: "**Presidential Graduate Research Award**, University of Texas Rio Grande Valley, 2019"
-      - bullet: "**CNPq Research Award**, Brazil, 2017, competitive research scholarship"
+      - bullet: "**CNPq Research Award**, Brazil, 2017, competitive research grant and scholarship"
 
     Grant-Supported Research:
       - bullet: "*Listed to show the funded programs my dissertation sits within. I am not a PI or co-PI on either award; my role was Graduate Research Assistant.*"
@@ -316,7 +317,7 @@ cv:
       - name: Programming and analysis
         level: Advanced
         icon: fa-solid fa-code
-        keywords: "Python (Pandas, NumPy/SciPy, scikit-learn, NetworkX), R, Git/GitHub, LaTeX"
+        keywords: "Python (6+ years: Pandas, NumPy/SciPy, scikit-learn, NetworkX), R, Git/GitHub, LaTeX, Overleaf, Obsidian"
 
       - name: Optimization and modeling
         level: Advanced
@@ -369,4 +370,4 @@ cv:
         summary: "Professional / fluent"
 
       - name: Spanish
-        summary: "Advanced"
+        summary: "Conversational"
