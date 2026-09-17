@@ -189,6 +189,27 @@ cv:
           A Bayesian decision model with cost-benefit analysis for when officers at U.S. ports
           of entry should escalate a screening for possible human trafficking.
 
+    Conference and Poster Presentations:
+      - bullet: '\* denotes presenter.'
+      - bullet: 'Drummond, P. A.\*, & Maass, K. L. (2026, November). Network interdiction model with multiple dependent attacks, job market talk. INFORMS Annual Meeting, San Francisco, CA.'
+      - bullet: 'Drummond, P. A.\*, & Maass, K. L. (2025, October). Collaboration in anti-trafficking efforts: A network interdiction problem. INFORMS Annual Meeting, Atlanta, GA.'
+      - bullet: 'Drummond, P. A.\*, Jafari, A., & Maass, K. L. (2024, October). Modeling strategies to disrupt labor trafficking. INFORMS Annual Meeting, Seattle, WA.'
+      - bullet: 'Drummond, P. A.\*, Jafari, A., & Maass, K. L. (2023, October). Labor trafficking disruption with collaborating agents. INFORMS Annual Meeting, Phoenix, AZ.'
+      - bullet: 'Jafari, A.\*, Drummond, P. A., Bhimani, S., Farrell, A., & Maass, K. L. (2023, October). Breaking the chains: An innovative network interdiction approach to combat labor trafficking in agricultural supply chains. INFORMS Annual Meeting, Phoenix, AZ.'
+      - bullet: 'Drummond, P. A., Jafari, A., Childress, C., & Maass, K. L. (2022, November). Leveraging public data from illicit activities in operations research. Decision Sciences Institute Annual Conference.'
+      - bullet: 'Drummond, P. A., & Maass, K. L. (2022, October). International migration and human trafficking networks. INFORMS Annual Meeting.'
+      - bullet: 'Jafari, A.\*, Drummond, P. A., Nishigaya, D., Bhimani, S., Farrell, A., & Maass, K. L. (2022, October). Labor violation trends in H-2A nonimmigrant agricultural workers: Improving inspection strategies for detecting labor violations. Society for Risk Analysis Annual Meeting.'
+      - bullet: 'Gurrola, N.\*, Hallas, K.\*, Drummond, P. A.\*, Rodriguez, A.\*, & Cano, S.\* (2021, April). Understanding female STEM identity at UTRGV through narrative inquiry. Engaged Scholar Symposium, University of Texas Rio Grande Valley, Edinburg, TX. [Recording](https://www.youtube.com/watch?v=8gJWmTL9PK0)'
+      - bullet: 'Drummond, P. A.\*, & Moya, H. (2021, April). Optimization of port-of-entry operation in the U.S.: An anti-human trafficking focus. 5th Coastal Bend Mathematics and Statistics Conference, Texas A&M University, College Station, TX.'
+      - bullet: 'Drummond, P. A.\*, & Moya, H. (2020, November). U.S. ports of entry''s decision model with an anti-human trafficking focus. Decision Sciences Institute Annual Conference, Dallas, TX (virtual).'
+      - bullet: 'Drummond, P. A.\*, & Moya, H. (2020, November). A framework to identify human trafficking at the U.S. border. IISE Annual Conference and Expo, New Orleans, LA (virtual).'
+      - bullet: 'Drummond, P. A.\*, Rahal, J., & Amorim, F. (2008, June). Analysis of different educational strategies using work-based pedagogy at the middle school Colegio de Pescadores, Macae, RJ. 5o Congresso de Extensao da UFRJ, Rio de Janeiro, Brazil.'
+      - bullet: '**Poster.** Drummond, P. A.\*, & Maass, K. L. (2024, March). When to collaborate? Labor trafficking interdiction with multiple agents. RISE, Northeastern University, Boston, MA.'
+      - bullet: '**Poster.** Drummond, P. A.\*, & Maass, K. L. (2023, November). Labor trafficking disruption with collaborating agencies. MIE Research Expo, Northeastern University, Boston, MA.'
+      - bullet: '**Poster.** Drummond, P. A.\*, & Moya, H. (2021, February). A decision support tool at the U.S. port of entry with a human trafficking focus. Engineering Week, University of Texas Rio Grande Valley, Edinburg, TX.'
+      - bullet: '**Poster.** Drummond, P. A.\*, & Moya, H. (2020, February). A framework to identify human trafficking at the U.S. border. Engineering Week, University of Texas Rio Grande Valley, Edinburg, TX.'
+      - bullet: '**Poster.** Drummond, P. A.\*, & Moya, H. (2019, November). A framework to identify human trafficking at the U.S. border. Graduate Research Fair, University of Texas Rio Grande Valley, Edinburg, TX.'
+
     Experience:
       - company: Northeastern University
         position: Instructor of Record, OR 6205 Deterministic Operations Research
@@ -312,6 +333,27 @@ cv:
       - bullet: "*Listed to show the funded programs my dissertation sits within. I am not a PI or co-PI on either award; my role was Graduate Research Assistant.*"
       - bullet: "**NSF #1935618, ISN2: Coordinated Interdiction for Disruption of Labor Trafficking in the Agricultural Sector.** Division of Civil, Mechanical, and Manufacturing Innovation, Operations Engineering program. PI: Kayse L. Maass; Co-PIs: Amy S. Farrell, Shawn Bhimani. Northeastern University. Award period January 2020 – December 2024. *Graduate Research Assistant, 2021–2024.*"
       - bullet: "**DHS CINA Center of Excellence, [Network Interdiction Models to Improve Effectiveness of Coordinated Labor Trafficking Disruption Efforts](https://cina.gmu.edu/projects/network-interdiction-models-to-improve-effectiveness-of-coordinated-labor-trafficking-disruption-efforts/).** Criminal Investigations and Network Analysis Center, a U.S. Department of Homeland Security Center of Excellence hosted at George Mason University. PI: Kayse Maass; Co-PI: Amy Farrell. Northeastern University. *Graduate Research Assistant.*"
+
+    Courses Prepared to Teach:
+      - label: Ready to teach immediately
+        details: "Operations Management · Supply Chain Management · Supply Chain Analytics · Operations Research and Deterministic Optimization · Prescriptive Analytics · Introduction to Data Analysis · Lean Operations and Process Improvement · Quality Management · Engineering Economy and Engineering Economics and Finance · Project Management"
+      - label: Ready with one semester of preparation
+        details: "Predictive Analytics · Data Visualization · Simulation Modeling · Business Analytics · Decision and Risk Analysis · Sustainable and Responsible Supply Chains · Python for Business Analytics"
+      - label: Ready to develop
+        details: "Operations Management and Social Impact · Sports and Performance Analytics"
+
+    Curriculum Development:
+      - bullet: "**OR 6205: Deterministic Operations Research** (graduate), Northeastern University, Spring 2026. Course design and instructional materials: new materials, in-class active learning exercises, assessments, and negotiated syllabus components."
+      - bullet: "**System Engineering in Public Programs**, post-secondary teaching certification capstone, Northeastern University, 2026. Course design."
+      - bullet: "**IE 4516: Quality Assurance**, Northeastern University, 2023. Complete redesign of teaching materials with Prof. McManus and Dr. Rehab Ali. Brought the existing materials together and set the sequence, overarching topics, and objectives for a course built around experimental, simulation-based, and project-based learning. Refactored and delivered two modules: Design of Experiments and ANOVA, including the classroom game I designed for it, and Process Control."
+      - bullet: "**Video tutorial series for Operations Research** during the remote-teaching transition, UTRGV, October 2020 to April 2021 ([1](https://youtu.be/GOG1Yf72Pow) · [2](https://youtu.be/gbPlL9ZMawA) · [3](https://youtu.be/lSACgCrVY8w) · [4](https://youtu.be/rQ6V6cQWGy8))."
+      - bullet: "**Engineering, design, and technology curriculum**, project-based middle school, Universidade Federal do Rio de Janeiro, 2006 to 2009."
+
+    Advising and Mentoring:
+      - bullet: "Mentoring a master's student in an independent research project (Fall 2026, in progress)."
+      - bullet: "Mentored five graduate student projects (2 doctoral, 3 master's, drawn from several engineering disciplines) in OR 6205: Deterministic Operations Research, Northeastern University, Spring 2026. Project topics included trip scheduling and ranking."
+      - bullet: "Led and mentored a five-member undergraduate research team as lead researcher, STEM identity narrative inquiry study, University of Texas Rio Grande Valley, 2020 to 2021; team members went on to graduate school and independent research projects."
+      - bullet: "Lead teaching assistant, OR 6205: Deterministic Operations Research."
 
     Skills:
       - name: Programming and analysis
